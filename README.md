@@ -5,8 +5,8 @@
 ## Table of Contents
 
 - [Dataset](#dataset)
-  - [Realistic Datasets](#3d_models)
-  - [Synthetic Datasets](#3d_scenes)
+  - [Realistic Datasets](#realistic_dataset)
+  - [Synthetic Datasets](#synthetic_dataset)
 - [Holistic Scene Understanding](#holistic_scene_understanding)
 - [Room Layout Estimation](#room_layout_estimation)
   - [Perspective Image](#perspective_image)
