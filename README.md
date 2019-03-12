@@ -110,7 +110,7 @@
 
 <a name="panoramic_image" />
 
-### Panorama Image
+### Panoramic Image
 
 * PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding (ECCV'14) [[Project]](http://panocontext.cs.princeton.edu/)
 
