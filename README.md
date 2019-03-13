@@ -1,6 +1,11 @@
 
 # Awesome Scene Understanding
 
+A resource repository for scene understanding, inspired by [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning).
+
+## Contributing
+
+Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scene-understanding/pulls) to add papers.
 
 ## Table of Contents
 
