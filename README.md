@@ -101,7 +101,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 <a name="room_layout_estimation" />
 
-
 ## Room Layout Estimation
 
 <a name="perspective_image" />
@@ -139,6 +138,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data Augmentation (CVPR'19) [[Paper]](https://arxiv.org/pdf/1901.03861) [[Code]](https://github.com/sunset1995/HorizonNet)
 
 * DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama (CVPR'19) [[Project]](https://cgv.cs.nthu.edu.tw/projects/dulanet) [[Paper]](https://arxiv.org/pdf/1811.11977.pdf)
+
+* CFL: End-to-End Layout Recovery from 360 Images [[Project]](https://cfernandezlab.github.io/CFL/) [[Code]](https://github.com/cfernandezlab/CFL-End-to-End-Layout-Recovery-from-360-Images)
 
 <a name="floorplan" />
 
