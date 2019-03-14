@@ -42,7 +42,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Realistic Dataset
 
-* Indoor Segmentation and Support Inference from RGBD Images (ECCV'12) [[Project]](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2) [[Paper]](http://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf) 
+* [NYUv2] Indoor Segmentation and Support Inference from RGBD Images (ECCV'12) [[Project]](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2) [[Paper]](http://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)
 
 * SUN3D: A Database of Big Spaces Reconstructed using SfM and Object Labels (ICCV'13) [[Project]](http://sun3d.cs.princeton.edu/) [[Paper]](http://3dvision.princeton.edu/projects/2013/SUN3D/paper.pdf)
 
@@ -52,7 +52,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes (CVPR'17) [[Project]](http://www.scan-net.org/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf)
 
-* Joint 2D-3D-Semantic Data for Indoor Scene Understanding (arXiv'17) [[Project]](http://buildingparser.stanford.edu/dataset.html) [[Paper]](http://buildingparser.stanford.edu/images/2D-3D-S_2017.pdf)
+* [2D-3D-S] Joint 2D-3D-Semantic Data for Indoor Scene Understanding (CoRR'17) [[Project]](http://buildingparser.stanford.edu/dataset.html) [[Paper]](http://buildingparser.stanford.edu/images/2D-3D-S_2017.pdf)
 
 * Matterport3D: Learning from RGB-D Data in Indoor Environments (3DV'17) [[Project]](https://niessner.github.io/Matterport/) [[Paper]](https://arxiv.org/pdf/1709.06158.pdf) [[Code]](https://github.com/niessner/Matterport) 
 
@@ -64,11 +64,11 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * SceneNet: Understanding Real World Indoor Scenes With Synthetic Data (CVPR'16) [[Project]](https://robotvault.bitbucket.io/) [[Paper]](http://arxiv.org/pdf/1511.07041.pdf)
 
-* SUNCG (CVPR'17) [[Project]](http://suncg.cs.princeton.edu/) [[Paper]](https://arxiv.org/pdf/1611.08974v1.pdf)
+* [SUNCG] Semantic Scene Completion from a Single Depth Image (CVPR'17) [[Project]](http://suncg.cs.princeton.edu/) [[Paper]](https://arxiv.org/pdf/1611.08974v1.pdf)
 
-* SceneNet RGB-D (ICCV'17) [[Project]](https://robotvault.bitbucket.io/scenenet-rgbd.html) [[Paper]](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/jmccormac_etal_iccv2017.pdf)
+* SceneNet RGB-D: Can 5M Synthetic Images Beat Generic ImageNet Pre-training on Indoor Segmentation? (ICCV'17) [[Project]](https://robotvault.bitbucket.io/scenenet-rgbd.html) [[Paper]](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/jmccormac_etal_iccv2017.pdf)
 
-* InteriorNet (BMVC'18) [[Project]](https://interiornet.org/) [[Paper]](https://arxiv.org/pdf/1809.00716.pdf)
+* InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset (BMVC'18) [[Project]](https://interiornet.org/) [[Paper]](https://arxiv.org/pdf/1809.00716.pdf)
 
 <a name="holistic_scene_understanding" />
 
@@ -200,4 +200,4 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Cuboid
 
-* Deep Cuboid Detection: Beyond 2D Bounding Boxes (arXiv'16) [[Paper]](https://arxiv.org/pdf/1611.10010.pdf)
+* Deep Cuboid Detection: Beyond 2D Bounding Boxes (CoRR'16) [[Paper]](https://arxiv.org/pdf/1611.10010.pdf)
