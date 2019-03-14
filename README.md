@@ -101,6 +101,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 <a name="room_layout_estimation" />
 
+
 ## Room Layout Estimation
 
 <a name="perspective_image" />
@@ -127,13 +128,13 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Panoramic Image
 
-* PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding (ECCV'14) [[Project]](http://panocontext.cs.princeton.edu/)
+* PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding (ECCV'14) [[Project]](http://panocontext.cs.princeton.edu/) [[Paper]](http://panocontext.cs.princeton.edu/paper.pdf)
 
 * Efficient 3D Room Shape Recovery From a Single Panorama (CVPR'16) [[Project]](http://cgcad.thss.tsinghua.edu.cn/yanghao/3droom/) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780954) [[Code]](https://github.com/YANG-H/Panoramix)
 
-* LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image (CVPR'18) [[Code]](https://github.com/zouchuhang/LayoutNet)
+* LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zou_LayoutNet_Reconstructing_the_CVPR_2018_paper.pdf) [[Code]](https://github.com/zouchuhang/LayoutNet)
 
-* Layouts from Panoramic Images with Geometry and Deep Learning (IROS'18) [[Code]](https://github.com/cfernandezlab/Lines-and-Vanishing-Points-directly-on-Panoramas)
+* Layouts from Panoramic Images with Geometry and Deep Learning (IROS'18) [[Paper]](https://arxiv.org/pdf/1806.08294.pdf) [[Code]](https://github.com/cfernandezlab/Lines-and-Vanishing-Points-directly-on-Panoramas)
 
 * HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data Augmentation (CVPR'19) [[Paper]](https://arxiv.org/pdf/1901.03861) [[Code]](https://github.com/sunset1995/HorizonNet)
 
@@ -155,7 +156,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Wireframe
 
-* Learning to Parse Wireframes in Images of Man-Made Environments (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Learning_to_Parse_CVPR_2018_paper.pdf)
+* Learning to Parse Wireframes in Images of Man-Made Environments (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Learning_to_Parse_CVPR_2018_paper.pdf) [[Code]](https://github.com/huangkuns/wireframe)
 
 <a name="line_segment" />
 
