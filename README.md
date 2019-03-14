@@ -19,10 +19,11 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Panoramic Image](#panoramic_image)
 - [Floorplan](#floorplan)
 - [Primitive Detection](#primitive_detection)
-  - [Wireframe](#wireframe)
-  - [Line Segment](#line_segment)
   - [Junction](#junction)
+  - [Line Segment](#line_segment)
+  - [Wireframe](#wireframe)
   - [Plane](#plane)
+  - [Cuboid](#cuboid)
 
 <a name="survey" />
 
@@ -153,11 +154,11 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ## Primitive Detection
 
-<a name="wireframe" />
+<a name="junction" />
 
-### Wireframe
+### Junction
 
-* Learning to Parse Wireframes in Images of Man-Made Environments (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Learning_to_Parse_CVPR_2018_paper.pdf) [[Code]](https://github.com/huangkuns/wireframe)
+* Manhattan Junction Catalogue for Spatial Reasoning of Indoor Scenes (CVPR'13) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Ramalingam_Manhattan_Junction_Catalogue_2013_CVPR_paper.pdf)
 
 <a name="line_segment" />
 
@@ -175,11 +176,11 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Learning Attraction Field Representation for Robust Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/pdf/1812.02122.pdf)
 
-<a name="junction" />
+<a name="wireframe" />
 
-### Junction
+### Wireframe
 
-* Manhattan Junction Catalogue for Spatial Reasoning of Indoor Scenes (CVPR'13) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Ramalingam_Manhattan_Junction_Catalogue_2013_CVPR_paper.pdf)
+* Learning to Parse Wireframes in Images of Man-Made Environments (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Learning_to_Parse_CVPR_2018_paper.pdf) [[Code]](https://github.com/huangkuns/wireframe)
 
 <a name="plane" />
 
@@ -194,3 +195,9 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image (CVPR'19) [[Paper]](https://arxiv.org/pdf/1812.04072.pdf)
 
 * Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (CVPR'19) [[Paper]](https://arxiv.org/pdf/1902.09777.pdf) [[Code]](https://github.com/svip-lab/PlanarReconstruction)
+
+<a name="cuboid" />
+
+### Cuboid
+
+* Deep Cuboid Detection: Beyond 2D Bounding Boxes (arXiv'16) [[Paper]](https://arxiv.org/pdf/1611.10010.pdf)
