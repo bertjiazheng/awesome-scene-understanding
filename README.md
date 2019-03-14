@@ -9,6 +9,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ## Table of Contents
 
+- [Survey](#survey)
 - [Dataset](#dataset)
   - [Realistic Datasets](#realistic_dataset)
   - [Synthetic Datasets](#synthetic_dataset)
@@ -22,6 +23,15 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Line Segment](#line_segment)
   - [Junction](#junction)
   - [Plane](#plane)
+
+<a name="survey" />
+
+## Survey
+
+* RGBD Datasets: Past, Present and Future (CVPRW'16) [[Project]](http://www.michaelfirman.co.uk/RGBDdatasets/) [[Paper]](https://arxiv.org/pdf/1604.00999.pdf)
+
+* Indoor Scene Understanding in 2.5/3D for Autonomous Agents: A Survey (IEEE Access'19) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8573760&tag=1
+)
 
 <a name="dataset" />
 
