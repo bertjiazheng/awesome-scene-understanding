@@ -14,9 +14,11 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Realistic Datasets](#realistic_dataset)
   - [Synthetic Datasets](#synthetic_dataset)
 - [Holistic Scene Understanding](#holistic_scene_understanding)
+  - [Perspective Image](#perspective_scene)
+  - [Panoramic Image](#panoramic_scene)
 - [Room Layout Estimation](#room_layout_estimation)
-  - [Perspective Image](#perspective_image)
-  - [Panoramic Image](#panoramic_image)
+  - [Perspective Image](#perspective_layout)
+  - [Panoramic Image](#panoramic_layout)
 - [Floorplan](#floorplan)
 - [Primitive Detection](#primitive_detection)
   - [Junction](#junction)
@@ -75,9 +77,15 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ## Holistic Scene Understanding
 
+<a name="perspective_scene" />
+
+### Perspective Image
+
 * Thinking Inside the Box: Using Appearance Models and Context Based on Room Geometry (ECCV'10) [[Paper]](http://vision.cs.uiuc.edu/~vhedau2/Publications/eccv2010_think_inside.pdf)
 
 * Estimating Spatial Layout of Rooms using Volumetric Reasoning about Objects and Surfaces (NeurIPS'10) [[Paper]](https://papers.nips.cc/paper/4120-estimating-spatial-layout-of-rooms-using-volumetric-reasoning-about-objects-and-surfaces.pdf)
+
+* Efficient Structured Prediction for 3D Indoor Scene Understanding (CVPR'12) [[Paper]](https://ttic.uchicago.edu/~rurtasun/publications/schwing_et_al_cvpr12.pdf)
 
 * Efficient Exact Inference for 3D Indoor Scene Understanding (ECCV'12) [[Paper]](http://schwingag.de/papers/SchwingEtAl_ECCV2012.pdf)
 
@@ -89,8 +97,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Im2CAD (CVPR'18) [[Project]](https://homes.cs.washington.edu/~izadinia/im2cad.html) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Izadinia_IM2CAD_CVPR_2017_paper.pdf)
 
-* Pano2CAD: Room Layout From A Single Panorama Image (WACV'17) [[Paper]](http://bjornstenger.github.io/papers/xu_wacv2017.pdf)
-
 * DeepContext: Context-Encoding Neural Pathways for 3D Holistic Scene Understanding (ICCV'17) [[Project]](http://deepcontext.cs.princeton.edu) [[Paper]](http://deepcontext.cs.princeton.edu/paper.pdf)
 
 * Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene (CVPR'18) [[Project]](https://shubhtuls.github.io/factored3d/) [[Paper]](https://arxiv.org/pdf/1712.01812.pdf) [[Code]](https://github.com/shubhtuls/factored3d)
@@ -101,11 +107,21 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Complete 3D Scene Parsing from an RGBD Image (IJCV'18) [[Paper]](https://arxiv.org/pdf/1710.09490.pdf)
 
+<a name="panoramic_scene" />
+
+### Panoramic Image
+
+* PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding (ECCV'14) [[Project]](http://panocontext.cs.princeton.edu/) [[Paper]](http://panocontext.cs.princeton.edu/paper.pdf)
+
+* Pano2CAD: Room Layout From A Single Panorama Image (WACV'17) [[Paper]](http://bjornstenger.github.io/papers/xu_wacv2017.pdf)
+
+* Automatic 3D Indoor Scene Modeling from Single Panorama (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Automatic_3D_Indoor_CVPR_2018_paper.pdf)
+
 <a name="room_layout_estimation" />
 
 ## Room Layout Estimation
 
-<a name="perspective_image" />
+<a name="perspective_layout" />
 
 ### Perspective Image
 
@@ -125,11 +141,9 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Thinking Outside the Box: Generation of Unconstrained 3D Room Layouts (ACCV'18)
 
-<a name="panoramic_image" />
+<a name="panoramic_layout" />
 
 ### Panoramic Image
-
-* PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding (ECCV'14) [[Project]](http://panocontext.cs.princeton.edu/) [[Paper]](http://panocontext.cs.princeton.edu/paper.pdf)
 
 * Efficient 3D Room Shape Recovery From a Single Panorama (CVPR'16) [[Project]](http://cgcad.thss.tsinghua.edu.cn/yanghao/3droom/) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780954) [[Code]](https://github.com/YANG-H/Panoramix)
 
