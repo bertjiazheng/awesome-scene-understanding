@@ -23,6 +23,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Line Segment](#line_segment)
   - [Wireframe](#wireframe)
   - [Plane](#plane)
+  - [Rectangle](#rectangle)
   - [Cuboid](#cuboid)
 
 <a name="survey" />
@@ -195,6 +196,12 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image (CVPR'19) [[Paper]](https://arxiv.org/pdf/1812.04072.pdf)
 
 * Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (CVPR'19) [[Paper]](https://arxiv.org/pdf/1902.09777.pdf) [[Code]](https://github.com/svip-lab/PlanarReconstruction)
+
+<a name="rectangle" />
+
+### Rectangle
+
+* Bottom-Up/Top-Down Image Parsing with Attribute Grammar (TPAMI'09) [[Paper]](http://www.stat.ucla.edu/~sczhu/papers/PAMI_Grammar_rectangle.pdf)
 
 <a name="cuboid" />
 
