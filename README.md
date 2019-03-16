@@ -189,7 +189,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Novel Single View Constraints for Manhattan 3D Line Reconstruction (3DV'18) [[Paper]](https://arxiv.org/pdf/1810.03737.pdf)
 
-* Learning Attraction Field Representation for Robust Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/pdf/1812.02122.pdf)
+* Learning Attraction Field Representation for Robust Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/pdf/1812.02122.pdf) [[Code]](git@github.com:cherubicXN/afm_cvpr2019.git)
 
 <a name="wireframe" />
 
