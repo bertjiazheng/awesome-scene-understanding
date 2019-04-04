@@ -1,4 +1,3 @@
-
 # Awesome Scene Understanding
 
 A resource repository for scene understanding, inspired by [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning).
@@ -164,6 +163,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * Raster-to-Vector: Revisiting Floorplan Transformation (ICCV'17) [[Project]](http://art-programmer.github.io/floorplan-transformation.html) [[Paper]](https://www.cse.wustl.edu/~chenliu/floorplan-transformation/paper.pdf) [[Code]](https://github.com/art-programmer/FloorplanTransformation)
 
 * FloorNet: A unified framework for floorplan reconstruction from 3D scans (ECCV'18) [[Project]](http://art-programmer.github.io/floornet.html) [[Paper]](https://arxiv.org/pdf/1804.00090.pdf) [[Code]](https://github.com/art-programmer/FloorNet)
+
+* CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis [[Paper]](https://arxiv.org/abs/1904.01920) [[Code]](https://github.com/CubiCasa/CubiCasa5k)
 
 <a name="primitive_detection" />
 
