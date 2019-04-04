@@ -192,7 +192,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Learning Attraction Field Representation for Robust Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/pdf/1812.02122.pdf) [[Code]](https://github.com/cherubicXN/afm_cvpr2019)
 
-* PPGNet: Learning Point-Pair Graph for Line Segment Detection (CVPR'19) 
+* PPGNet: Learning Point-Pair Graph for Line Segment Detection (CVPR'19) [[Code]](https://github.com/svip-lab/PPGNet)
 
 <a name="wireframe" />
 
