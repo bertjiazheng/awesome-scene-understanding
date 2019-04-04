@@ -154,7 +154,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama (CVPR'19) [[Project]](https://cgv.cs.nthu.edu.tw/projects/dulanet) [[Paper]](https://arxiv.org/pdf/1811.11977.pdf)
 
-* Corners for Layout: End-to-End Layout Recovery from 360 Images [[Project]](https://cfernandezlab.github.io/CFL/)  [[Paper]](https://arxiv.org/pdf/1903.08094.pdf) [[Code]](https://github.com/cfernandezlab/CFL-End-to-End-Layout-Recovery-from-360-Images)
+* Corners for Layout: End-to-End Layout Recovery from 360 Images (CoRR'19) [[Project]](https://cfernandezlab.github.io/CFL/)  [[Paper]](https://arxiv.org/pdf/1903.08094.pdf) [[Code]](https://github.com/cfernandezlab/CFL-End-to-End-Layout-Recovery-from-360-Images)
 
 <a name="floorplan" />
 
@@ -164,7 +164,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * FloorNet: A unified framework for floorplan reconstruction from 3D scans (ECCV'18) [[Project]](http://art-programmer.github.io/floornet.html) [[Paper]](https://arxiv.org/pdf/1804.00090.pdf) [[Code]](https://github.com/art-programmer/FloorNet)
 
-* CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis [[Paper]](https://arxiv.org/abs/1904.01920) [[Code]](https://github.com/CubiCasa/CubiCasa5k)
+* CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis (CoRR'19) [[Paper]](https://arxiv.org/abs/1904.01920) [[Code]](https://github.com/CubiCasa/CubiCasa5k)
 
 <a name="primitive_detection" />
 
