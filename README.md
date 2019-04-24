@@ -126,7 +126,11 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Recovering the Spatial Layout of Cluttered Rooms (ICCV'09) [[Paper]](http://dhoiem.cs.illinois.edu/publications/iccv2009_hedau_indoor.pdf)
 
+* Estimating the 3D Layout of Indoor Scenes and its Clutter from Depth Sensors (ICCV'13) [[Project]](https://cs.stanford.edu/people/zjian/project/ICCV13DepthLayout/ICCV13DepthLayout.html) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Zhang_Estimating_the_3D_2013_ICCV_paper.pdf)
+
 * Box In the Box: Joint 3D Layout and Object Reasoning from Single Images (CVPR'13) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Schwing_Box_in_the_2013_ICCV_paper.pdf)
+
+* Rent3D: Floor-Plan Priors for Monocular Layout Estimation (CVPR'15) [[Project]](http://www.cs.toronto.edu/~fidler/projects/rent3D.html) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Liu_Rent3D_Floor-Plan_Priors_2015_CVPR_paper.pdf)
 
 * Learning Informative Edge Maps for Indoor Scene Layout Prediction (ICCV'15) [[Homepage]](http://arunmallya.github.io/) [[Paper]](http://slazebni.cs.illinois.edu/publications/iccv15_informative.pdf)
 
