@@ -236,11 +236,9 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * 3D-R2N2:  A Unified Approach for Single and Multi-view 3D Object Reconstruction (ECCV'16) [[Project]](http://3d-r2n2.stanford.edu/) [[Paper]](https://arxiv.org/pdf/1604.00449.pdf) [[Code]](https://github.com/chrischoy/3D-R2N2/)
 
-### Point Cloud-based
+### Surface-based
 
 * A Point Set Generation Network for 3D Object Reconstruction from a Single Image (CVPR'17) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf) [[Code]](https://github.com/fanhqme/PointSetGeneration)
-
-### Mesh-based
 
 * Neural 3D Mesh Renderer (CVPR'18) [[Project]](http://hiroharu-kato.com/projects_en/neural_renderer.html) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kato_Neural_3D_Mesh_CVPR_2018_paper.pdf) [[Code]](https://github.com/hiroharu-kato/neural_renderer)
 
@@ -249,6 +247,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (ECCV'18) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf) [[Code]](https://github.com/nywang16/Pixel2Mesh)
 
 * GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects (CoRR'19) [[Paper]](https://arxiv.org/pdf/1901.11461.pdf) [[Code]](https://github.com/EdwardSmith1884/GEOMetrics)
+
+A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images (CVPR'19) [[Paper]](https://arxiv.org/pdf/1903.04704.pdf)
 
 ### Primitive-based
 
@@ -259,3 +259,5 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * 3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks (ICCV'17) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zou_3D-PRNN_Generating_Shape_ICCV_2017_paper.pdf) [[Code]](https://github.com/zouchuhang/3D-PRNN)
 
 * Im2Struct: Recovering 3D Shape Structure from a Single RGB Image（CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Niu_Im2Struct_Recovering_3D_CVPR_2018_paper.pdf) [[Code]](https://github.com/chengjieniu/Im2Struct)
+
+* Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids (CVPR'19) [[Paper]](https://arxiv.org/pdf/1904.09970.pdf) [[Code]](https://github.com/paschalidoud/superquadric_parsing)
