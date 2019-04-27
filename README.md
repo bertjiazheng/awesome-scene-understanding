@@ -248,7 +248,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects (CoRR'19) [[Paper]](https://arxiv.org/pdf/1901.11461.pdf) [[Code]](https://github.com/EdwardSmith1884/GEOMetrics)
 
-A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images (CVPR'19) [[Paper]](https://arxiv.org/pdf/1903.04704.pdf)
+* A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images (CVPR'19) [[Paper]](https://arxiv.org/pdf/1903.04704.pdf)
 
 ### Primitive-based
 
