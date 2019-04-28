@@ -26,7 +26,13 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Plane](#plane)
   - [Rectangle](#rectangle)
   - [Cuboid](#cuboid)
-- [Object](#object)
+- [Object Reconstruction](#object)
+  - [Voxel](#voxel)
+  - [Point Cloud](#point_cloud)
+  - [Mesh](#mesh)
+  - [Primitive](#primitive)
+
+
 
 <a name="survey" />
 
@@ -230,15 +236,23 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 <a name="object" />
 
-## Object
+## Object Reconstruction
+
+<a name="voxel" />
 
 ### Voxel-based
 
 * 3D-R2N2:  A Unified Approach for Single and Multi-view 3D Object Reconstruction (ECCV'16) [[Project]](http://3d-r2n2.stanford.edu/) [[Paper]](https://arxiv.org/pdf/1604.00449.pdf) [[Code]](https://github.com/chrischoy/3D-R2N2/)
 
-### Surface-based
+<a name="point_cloud" />
+
+### Point Cloud-based
 
 * A Point Set Generation Network for 3D Object Reconstruction from a Single Image (CVPR'17) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf) [[Code]](https://github.com/fanhqme/PointSetGeneration)
+
+<a name="mesh" />
+
+### Mesh-based
 
 * Neural 3D Mesh Renderer (CVPR'18) [[Project]](http://hiroharu-kato.com/projects_en/neural_renderer.html) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kato_Neural_3D_Mesh_CVPR_2018_paper.pdf) [[Code]](https://github.com/hiroharu-kato/neural_renderer)
 
@@ -249,6 +263,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects (CoRR'19) [[Paper]](https://arxiv.org/pdf/1901.11461.pdf) [[Code]](https://github.com/EdwardSmith1884/GEOMetrics)
 
 * A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images (CVPR'19) [[Paper]](https://arxiv.org/pdf/1903.04704.pdf)
+
+<a name="primitive" />
 
 ### Primitive-based
 
