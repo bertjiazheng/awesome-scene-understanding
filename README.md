@@ -262,7 +262,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (ECCV'18) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf) [[Code]](https://github.com/nywang16/Pixel2Mesh)
 
-* GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects (CoRR'19) [[Paper]](https://arxiv.org/pdf/1901.11461.pdf) [[Code]](https://github.com/EdwardSmith1884/GEOMetrics)
+* GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects (ICML'19) [[Paper]](https://arxiv.org/pdf/1901.11461.pdf) [[Code]](https://github.com/EdwardSmith1884/GEOMetrics)
 
 * A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images (CVPR'19) [[Paper]](https://arxiv.org/pdf/1903.04704.pdf)
 
