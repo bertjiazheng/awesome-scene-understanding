@@ -32,8 +32,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Mesh](#mesh)
   - [Primitive](#primitive)
 
-
-
 <a name="survey" />
 
 ## Survey
@@ -211,6 +209,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 ### Wireframe
 
 * Learning to Parse Wireframes in Images of Man-Made Environments (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Learning_to_Parse_CVPR_2018_paper.pdf) [[Code]](https://github.com/huangkuns/wireframe)
+
+* End-to-End Wireframe Parsing (CoRR'19) [[Paper]](https://arxiv.org/pdf/1905.03246.pdf)
 
 <a name="plane" />
 
