@@ -202,13 +202,13 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Learning Attraction Field Representation for Robust Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/pdf/1812.02122.pdf) [[Code]](https://github.com/cherubicXN/afm_cvpr2019)
 
-* PPGNet: Learning Point-Pair Graph for Line Segment Detection (CVPR'19) [[Code]](https://github.com/svip-lab/PPGNet)
-
 <a name="wireframe" />
 
 ### Wireframe
 
 * Learning to Parse Wireframes in Images of Man-Made Environments (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Learning_to_Parse_CVPR_2018_paper.pdf) [[Code]](https://github.com/huangkuns/wireframe)
+
+* PPGNet: Learning Point-Pair Graph for Line Segment Detection (CVPR'19) [[Code]](https://github.com/svip-lab/PPGNet) [[Paper]](https://arxiv.org/pdf/1905.03415.pdf)
 
 * End-to-End Wireframe Parsing (CoRR'19) [[Paper]](https://arxiv.org/pdf/1905.03246.pdf) [[Code]](https://github.com/zhou13/lcnn)
 
