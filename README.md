@@ -212,6 +212,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * End-to-End Wireframe Parsing (CoRR'19) [[Paper]](https://arxiv.org/pdf/1905.03246.pdf) [[Code]](https://github.com/zhou13/lcnn)
 
+* Learning to Reconstruct 3D Manhattan Wireframes from a Single Image (CoRR'19) [[Paper]](https://arxiv.org/pdf/1905.07482.pdf)
+
 <a name="plane" />
 
 ### Plane
