@@ -172,6 +172,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * FloorNet: A unified framework for floorplan reconstruction from 3D scans (ECCV'18) [[Project]](http://art-programmer.github.io/floornet.html) [[Paper]](https://arxiv.org/pdf/1804.00090.pdf) [[Code]](https://github.com/art-programmer/FloorNet)
 
+* Floorplan Priors for Joint Camera Pose and Room Layout Estimation (CoRR'18) [[Paper]](https://arxiv.org/pdf/1812.06677.pdf)
+
 * CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis (CoRR'19) [[Paper]](https://arxiv.org/abs/1904.01920) [[Code]](https://github.com/CubiCasa/CubiCasa5k)
 
 * DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences (CoRR'19) [[Paper]](https://arxiv.org/pdf/1904.11595.pdf)
