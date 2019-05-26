@@ -27,8 +27,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Rectangle](#rectangle)
   - [Cuboid](#cuboid)
 - [Object Reconstruction](#object)
-  - [Voxel](#voxel)
-  - [Point Cloud](#point_cloud)
   - [Mesh](#mesh)
   - [Primitive](#primitive)
 
@@ -224,7 +222,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Recovering 3D Planes from a Single Image via Convolutional Neural Networks (ECCV'18) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fengting_Yang_Recovering_3D_Planes_ECCV_2018_paper.pdf) [[Code]](https://github.com/fuy34/planerecover)
 
-* PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image (CVPR'19) [[Paper]](https://arxiv.org/pdf/1812.04072.pdf)
+* PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image (CVPR'19) [[Paper]](https://arxiv.org/pdf/1812.04072.pdf) [[Code]](https://github.com/NVlabs/planercnn)
 
 * Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (CVPR'19) [[Paper]](https://arxiv.org/pdf/1902.09777.pdf) [[Code]](https://github.com/svip-lab/PlanarReconstruction)
 
@@ -243,20 +241,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 <a name="object" />
 
 ## Object Reconstruction
-
-<a name="voxel" />
-
-### Voxel-based
-
-* 3D-R2N2:  A Unified Approach for Single and Multi-view 3D Object Reconstruction (ECCV'16) [[Project]](http://3d-r2n2.stanford.edu/) [[Paper]](https://arxiv.org/pdf/1604.00449.pdf) [[Code]](https://github.com/chrischoy/3D-R2N2/)
-
-<a name="point_cloud" />
-
-### Point Cloud-based
-
-* A Point Set Generation Network for 3D Object Reconstruction from a Single Image (CVPR'17) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf) [[Code]](https://github.com/fanhqme/PointSetGeneration)
-
-<a name="mesh" />
 
 ### Mesh-based
 
