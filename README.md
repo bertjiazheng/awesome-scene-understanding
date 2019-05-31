@@ -238,6 +238,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Cuboid
 
+* A Linear Approach to Matching Cuboids in RGBD Images (CVPR'13) [[Project]](https://vision.princeton.edu/projects/2013/RGBDcuboid/index.html) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Jiang_A_Linear_Approach_2013_CVPR_paper.pdf)
+
 * Deep Cuboid Detection: Beyond 2D Bounding Boxes (CoRR'16) [[Paper]](https://arxiv.org/pdf/1611.10010.pdf)
 
 <a name="object" />
