@@ -146,7 +146,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Thinking Outside the Box: Generation of Unconstrained 3D Room Layouts (ACCV'18)
 
-* Flat2Layout: Flat Representation for Estimating Layout of General Room Types (CoRR'18) [[Paper]](https://arxiv.org/pdf/1903.08094.pdf)
+* Flat2Layout: Flat Representation for Estimating Layout of General Room Types (CoRR'19) [[Paper]](https://arxiv.org/pdf/1903.08094.pdf)
 
 <a name="panoramic_layout" />
 
