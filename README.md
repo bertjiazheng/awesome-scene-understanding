@@ -224,7 +224,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Recovering 3D Planes from a Single Image via Convolutional Neural Networks (ECCV'18) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fengting_Yang_Recovering_3D_Planes_ECCV_2018_paper.pdf) [[Code]](https://github.com/fuy34/planerecover)
 
-* PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image (CVPR'19) [[Paper]](https://arxiv.org/pdf/1812.04072.pdf) [[Code]](https://github.com/NVlabs/planercnn)
+* PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image (CVPR'19) [[Project]](https://research.nvidia.com/publication/2019-06_PlaneRCNN) [[Paper]](https://arxiv.org/pdf/1812.04072.pdf) [[Code]](https://github.com/NVlabs/planercnn)
 
 * Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (CVPR'19) [[Paper]](https://arxiv.org/pdf/1902.09777.pdf) [[Code]](https://github.com/svip-lab/PlanarReconstruction)
 
