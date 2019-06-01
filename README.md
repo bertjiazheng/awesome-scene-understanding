@@ -222,6 +222,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image (CVPR'18) [[Project]](https://www.cse.wustl.edu/~chenliu/planenet.html) [[Paper]](https://arxiv.org/abs/1804.06278) [[Code]](https://github.com/art-programmer/PlaneNet)
 
+* LS3D: Single-View Gestalt 3D Surface Reconstruction from Manhattan Line Segment (ACCV'18) [[Paper]](http://www.elderlab.yorku.ca/wp-content/uploads/2018/12/LS3DACCV18.pdf)
+
 * Recovering 3D Planes from a Single Image via Convolutional Neural Networks (ECCV'18) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fengting_Yang_Recovering_3D_Planes_ECCV_2018_paper.pdf) [[Code]](https://github.com/fuy34/planerecover)
 
 * PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image (CVPR'19) [[Project]](https://research.nvidia.com/publication/2019-06_PlaneRCNN) [[Paper]](https://arxiv.org/pdf/1812.04072.pdf) [[Code]](https://github.com/NVlabs/planercnn)
