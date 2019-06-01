@@ -144,7 +144,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * RoomNet: End-to-End Room Layout Estimation (ICCV'17) [[Paper]](https://arxiv.org/pdf/1703.06241.pdf)
 
-* Thinking Outside the Box: Generation of Unconstrained 3D Room Layouts (ACCV'18)
+* Thinking Outside the Box: Generation of Unconstrained 3D Room Layouts (ACCV'18) [[Paper]](https://arxiv.org/pdf/1905.03105.pdf)
 
 * Flat2Layout: Flat Representation for Estimating Layout of General Room Types (CoRR'19) [[Paper]](https://arxiv.org/pdf/1903.08094.pdf)
 
