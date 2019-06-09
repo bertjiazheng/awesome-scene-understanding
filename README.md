@@ -269,6 +269,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images (CVPR'19) [[Paper]](https://arxiv.org/pdf/1903.04704.pdf)
 
+* Mesh R-CNN (CoRR'19) [[Paper]](https://arxiv.org/pdf/1906.02739.pdf)
+
 <a name="primitive" />
 
 ### Primitive-based
