@@ -27,6 +27,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Rectangle](#rectangle)
   - [Cuboid](#cuboid)
 - [Object Reconstruction](#object)
+  - [Patch](#patch)
   - [Mesh](#mesh)
   - [Primitive](#primitive)
 
@@ -248,11 +249,19 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ## Object Reconstruction
 
+<a name="patch" />
+
+### Patch-based
+
+* A Papier-Mâché Approach to Learning 3D Surface Generation (CVPR'18) [[Project]](http://imagine.enpc.fr/~groueixt/atlasnet/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf) [[Code]](https://github.com/ThibaultGROUEIX/AtlasNet)
+
+* Adaptive O-CNN: A Patch-based Deep Representation of 3D Shapes (SIGGRAPH Asia'18) [[Project]](https://wang-ps.github.io/AO-CNN) [[Paper]](https://arxiv.org/pdf/1809.07917.pdf) [[Code]](https://github.com/Microsoft/O-CNN)
+
+<a name="mesh" />
+
 ### Mesh-based
 
 * Neural 3D Mesh Renderer (CVPR'18) [[Project]](http://hiroharu-kato.com/projects_en/neural_renderer.html) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kato_Neural_3D_Mesh_CVPR_2018_paper.pdf) [[Code]](https://github.com/hiroharu-kato/neural_renderer)
-
-* A Papier-Mâché Approach to Learning 3D Surface Generation (CVPR'18) [[Project]](http://imagine.enpc.fr/~groueixt/atlasnet/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf) [[Code]](https://github.com/ThibaultGROUEIX/AtlasNet)
 
 * Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (ECCV'18) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf) [[Code]](https://github.com/nywang16/Pixel2Mesh)
 
