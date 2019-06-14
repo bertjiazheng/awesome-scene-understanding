@@ -61,6 +61,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Matterport3D: Learning from RGB-D Data in Indoor Environments (3DV'17) [[Project]](https://niessner.github.io/Matterport/) [[Paper]](https://arxiv.org/pdf/1709.06158.pdf) [[Code]](https://github.com/niessner/Matterport) 
 
+* The Replica Dataset: A Digital Replica of Indoor Spaces (CoRR'19) [[Paper]](https://arxiv.org/pdf/1906.05797.pdf)
+
 <a name="synthetic_dataset" />
 
 ### Synthetic Dataset
@@ -69,7 +71,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * SceneNet: Understanding Real World Indoor Scenes With Synthetic Data (CVPR'16) [[Project]](https://robotvault.bitbucket.io/) [[Paper]](http://arxiv.org/pdf/1511.07041.pdf)
 
-* [SUNCG] Semantic Scene Completion from a Single Depth Image (CVPR'17) [[Project]](http://suncg.cs.princeton.edu/) [[Paper]](https://arxiv.org/pdf/1611.08974v1.pdf)
+* [SUNCG] Semantic Scene Completion from a Single Depth Image (CVPR'17) [[Paper]](https://arxiv.org/pdf/1611.08974v1.pdf)
 
 * SceneNet RGB-D: Can 5M Synthetic Images Beat Generic ImageNet Pre-training on Indoor Segmentation? (ICCV'17) [[Project]](https://robotvault.bitbucket.io/scenenet-rgbd.html) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/McCormac_SceneNet_RGB-D_Can_ICCV_2017_paper.pdf)
 
