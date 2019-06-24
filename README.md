@@ -61,7 +61,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Matterport3D: Learning from RGB-D Data in Indoor Environments (3DV'17) [[Project]](https://niessner.github.io/Matterport/) [[Paper]](https://arxiv.org/pdf/1709.06158.pdf) [[Code]](https://github.com/niessner/Matterport) 
 
-* The Replica Dataset: A Digital Replica of Indoor Spaces (CoRR'19) [[Paper]](https://arxiv.org/pdf/1906.05797.pdf)
+* The Replica Dataset: A Digital Replica of Indoor Spaces (CoRR'19) [[Paper]](https://arxiv.org/pdf/1906.05797.pdf) [[Code]](https://github.com/facebookresearch/Replica-Dataset)
 
 <a name="synthetic_dataset" />
 
