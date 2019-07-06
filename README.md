@@ -177,6 +177,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Floorplan Priors for Joint Camera Pose and Room Layout Estimation (CoRR'18) [[Paper]](https://arxiv.org/pdf/1812.06677.pdf)
 
+* HouseExpo: A Large-scale 2D Indoor Layout Dataset for Learning-based Algorithms on Mobile Robots (CoRR'19) [[Paper]](https://arxiv.org/pdf/1903.09845.pdf) [[Code]](https://github.com/TeaganLi/HouseExpo)
+
 * CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis (CoRR'19) [[Paper]](https://arxiv.org/abs/1904.01920) [[Code]](https://github.com/CubiCasa/CubiCasa5k)
 
 * DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences (CoRR'19) [[Paper]](https://arxiv.org/pdf/1904.11595.pdf)
