@@ -30,6 +30,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Patch](#patch)
   - [Mesh](#mesh)
   - [Primitive](#primitive)
+  - [Implicit](#implicit)
 
 <a name="survey" />
 
@@ -288,3 +289,19 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * Im2Struct: Recovering 3D Shape Structure from a Single RGB Image（CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Niu_Im2Struct_Recovering_3D_CVPR_2018_paper.pdf) [[Code]](https://github.com/chengjieniu/Im2Struct)
 
 * Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids (CVPR'19) [[Paper]](https://arxiv.org/pdf/1904.09970.pdf) [[Code]](https://github.com/paschalidoud/superquadric_parsing)
+
+<a name="Implicit" />
+
+### Implicit
+
+* Learning Implicit Fields for Generative Shape Modeling (CVPR'19) [[Project]](https://www.sfu.ca/~zhiqinc/imgan/Readme.html) [[Paper]](https://arxiv.org/pdf/1812.02822.pdf) [[Code]](https://github.com/czq142857/implicit-decoder)
+
+* Occupancy Networks: Learning 3D Reconstruction in Function Space (CVPR'19) [[Project]](https://avg.is.tuebingen.mpg.de/publications/occupancy-networks) [[Paper]](https://arxiv.org/pdf/1812.03828.pdf) [[Code]](https://github.com/autonomousvision/occupancy_networks)
+
+* DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation (CVPR'19) [[Paper]](https://arxiv.org/pdf/1901.05103.pdf) [[Code]](https://github.com/facebookresearch/DeepSDF)
+
+* Deep Level Sets: Implicit Surface Representations for 3D Shape Inference (CoRR'19) [[Paper]](https://arxiv.org/pdf/1901.06802.pdf)
+
+* Learning Shape Templates with Structured Implicit Functions (CoRR'19) [[Paper]](https://arxiv.org/pdf/1904.06447.pdf)
+
+* DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction (CoRR'19) [[Paper]](https://arxiv.org/pdf/1905.10711.pdf) [[Code]](https://github.com/laughtervv/DISN)
