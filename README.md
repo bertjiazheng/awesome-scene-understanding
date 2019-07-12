@@ -100,9 +100,11 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Scene Parsing by Integrating Function, Geometry and Appearance Models (CVPR'13) [[Project]](http://www.stat.ucla.edu/~ybzhao/research/functionality/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/papers/Zhao_Scene_Parsing_by_2013_CVPR_paper.pdf)
 
-* Im2CAD (CVPR'18) [[Project]](https://homes.cs.washington.edu/~izadinia/im2cad.html) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Izadinia_IM2CAD_CVPR_2017_paper.pdf)
+* Emptying, Refurnishing, and Relighting Indoor Spaces (SIGGRAPH Asia'16) [[Project]](https://grail.cs.washington.edu/projects/emptying/) [[Paper]](https://grail.cs.washington.edu/projects/emptying/emptying.pdf)
 
 * DeepContext: Context-Encoding Neural Pathways for 3D Holistic Scene Understanding (ICCV'17) [[Project]](http://deepcontext.cs.princeton.edu) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_DeepContext_Context-Encoding_Neural_ICCV_2017_paper.pdf)
+
+* Im2CAD (CVPR'18) [[Project]](https://homes.cs.washington.edu/~izadinia/im2cad.html) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Izadinia_IM2CAD_CVPR_2017_paper.pdf)
 
 * Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene (CVPR'18) [[Project]](https://shubhtuls.github.io/factored3d/) [[Paper]](https://arxiv.org/pdf/1712.01812.pdf) [[Code]](https://github.com/shubhtuls/factored3d)
 
