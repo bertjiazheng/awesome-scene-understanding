@@ -220,9 +220,9 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * PPGNet: Learning Point-Pair Graph for Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/pdf/1905.03415.pdf) [[Code]](https://github.com/svip-lab/PPGNet)
 
-* End-to-End Wireframe Parsing (CoRR'19) [[Paper]](https://arxiv.org/pdf/1905.03246.pdf) [[Code]](https://github.com/zhou13/lcnn)
+* End-to-End Wireframe Parsing (ICCV'19) [[Paper]](https://arxiv.org/pdf/1905.03246.pdf) [[Code]](https://github.com/zhou13/lcnn)
 
-* Learning to Reconstruct 3D Manhattan Wireframes from a Single Image (CoRR'19) [[Paper]](https://arxiv.org/pdf/1905.07482.pdf)
+* Learning to Reconstruct 3D Manhattan Wireframes from a Single Image (ICCV'19) [[Paper]](https://arxiv.org/pdf/1905.07482.pdf)
 
 <a name="plane" />
 
