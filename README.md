@@ -78,6 +78,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset (BMVC'18) [[Project]](https://interiornet.org/) [[Paper]](https://arxiv.org/pdf/1809.00716.pdf)
 
+* Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling (CoRR'19) [[Project]](https://structured3d-dataset.org) [[Paper]](https://arxiv.org/pdf/1908.00222.pdf) [[Code]](https://github.com/bertjiazheng/Structured3D)
+
 <a name="holistic_scene_understanding" />
 
 ## Holistic Scene Understanding
