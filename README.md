@@ -30,6 +30,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Patch](#patch)
   - [Mesh](#mesh)
   - [Primitive](#primitive)
+  - [Hierarchy](#hierarchy)
   - [Implicit](#implicit)
 
 <a name="survey" />
@@ -284,8 +285,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Primitive-based
 
-* GRASS: Generative Recursive Autoencoders for Shape Structures (SIGGRAPH'17) [[Project]](https://kevinkaixu.net/projects/grass.html) [[Paper]](https://arxiv.org/pdf/1705.02090.pdf) [[Code]](https://github.com/junli-lj/Grass)
-
 * Learning Shape Abstractions by Assembling Volumetric Primitives (CVPR'17) [[Project]](https://shubhtuls.github.io/volumetricPrimitives/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tulsiani_Learning_Shape_Abstractions_CVPR_2017_paper.pdf) [[Code]](https://github.com/shubhtuls/volumetricPrimitives)
 
 * 3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks (ICCV'17) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zou_3D-PRNN_Generating_Shape_ICCV_2017_paper.pdf) [[Code]](https://github.com/zouchuhang/3D-PRNN)
@@ -293,6 +292,14 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * Im2Struct: Recovering 3D Shape Structure from a Single RGB Image（CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Niu_Im2Struct_Recovering_3D_CVPR_2018_paper.pdf) [[Code]](https://github.com/chengjieniu/Im2Struct)
 
 * Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids (CVPR'19) [[Paper]](https://arxiv.org/pdf/1904.09970.pdf) [[Code]](https://github.com/paschalidoud/superquadric_parsing)
+
+<a name="hierarchy" />
+
+### Hierarchy
+
+* GRASS: Generative Recursive Autoencoders for Shape Structures (SIGGRAPH'17) [[Project]](https://kevinkaixu.net/projects/grass.html) [[Paper]](https://arxiv.org/pdf/1705.02090.pdf) [[Code]](https://github.com/junli-lj/Grass)
+
+* StructureNet : Hierarchical Graph Networks for 3D Shape Generation (SIGGRAPH Asia'19) [[Project]](https://cs.stanford.edu/~kaichun/structurenet/) [[Paper]](https://arxiv.org/pdf/1908.00575.pdf) [[Code]](https://github.com/daerduoCarey/structurenet)
 
 <a name="Implicit" />
 
