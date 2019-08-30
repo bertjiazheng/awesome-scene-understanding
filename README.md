@@ -189,6 +189,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences (CoRR'19) [[Paper]](https://arxiv.org/pdf/1904.11595.pdf)
 
+* Deep Floor Plan Recognition using a Multi-task Network with Room-boundary-Guided Attention (ICCV'19) [[Project]](https://github.com/zlzeng/DeepFloorplan) [[Paper]](https://arxiv.org/pdf/1908.11025.pdf)
+
 <a name="primitive_detection" />
 
 ## Primitive Detection
