@@ -177,6 +177,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ## Floorplan
 
+### Reconstruction
+
 * Raster-to-Vector: Revisiting Floorplan Transformation (ICCV'17) [[Project]](http://art-programmer.github.io/floorplan-transformation.html) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Raster-To-Vector_Revisiting_Floorplan_ICCV_2017_paper.pdf) [[Code]](https://github.com/art-programmer/FloorplanTransformation)
 
 * FloorNet: A unified framework for floorplan reconstruction from 3D scans (ECCV'18) [[Project]](http://art-programmer.github.io/floornet.html) [[Paper]](https://arxiv.org/pdf/1804.00090.pdf) [[Code]](https://github.com/art-programmer/FloorNet)
@@ -188,6 +190,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis (CoRR'19) [[Paper]](https://arxiv.org/abs/1904.01920) [[Code]](https://github.com/CubiCasa/CubiCasa5k)
 
 * DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences (CoRR'19) [[Paper]](https://arxiv.org/pdf/1904.11595.pdf)
+
+* Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path (ICCV'19) [[Project]](https://jcchen.me/floor-sp/) [[Paper]](https://arxiv.org/pdf/1908.06702.pdf) [[Code]](https://github.com/woodfrog/floor-sp)
 
 * Deep Floor Plan Recognition using a Multi-task Network with Room-boundary-Guided Attention (ICCV'19) [[Project]](https://github.com/zlzeng/DeepFloorplan) [[Paper]](https://arxiv.org/pdf/1908.11025.pdf)
 
@@ -281,7 +285,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images (CVPR'19) [[Paper]](https://arxiv.org/pdf/1903.04704.pdf)
 
-* Mesh R-CNN (CoRR'19) [[Paper]](https://arxiv.org/pdf/1906.02739.pdf)
+* Mesh R-CNN (ICCV'19) [[Paper]](https://arxiv.org/pdf/1906.02739.pdf)
 
 <a name="primitive" />
 
@@ -317,4 +321,4 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Learning Shape Templates with Structured Implicit Functions (CoRR'19) [[Paper]](https://arxiv.org/pdf/1904.06447.pdf)
 
-* DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction (CoRR'19) [[Paper]](https://arxiv.org/pdf/1905.10711.pdf) [[Code]](https://github.com/laughtervv/DISN)
+* DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction (NeurIPS'19) [[Paper]](https://arxiv.org/pdf/1905.10711.pdf) [[Code]](https://github.com/laughtervv/DISN)
