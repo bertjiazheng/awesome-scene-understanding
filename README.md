@@ -65,6 +65,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * The Replica Dataset: A Digital Replica of Indoor Spaces (CoRR'19) [[Paper]](https://arxiv.org/pdf/1906.05797.pdf) [[Code]](https://github.com/facebookresearch/Replica-Dataset)
 
+* 3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera (ICCV'19) [[Project]](https://3dscenegraph.stanford.edu/) [[Paper]](https://3dscenegraph.stanford.edu/images/3DSceneGraph.pdf)
+
 <a name="synthetic_dataset" />
 
 ### Synthetic Dataset
