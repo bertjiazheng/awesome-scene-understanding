@@ -195,6 +195,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Deep Floor Plan Recognition using a Multi-task Network with Room-boundary-Guided Attention (ICCV'19) [[Project]](https://github.com/zlzeng/DeepFloorplan) [[Paper]](https://arxiv.org/pdf/1908.11025.pdf)
 
+* Floorplan-Jigsaw: Jointly Estimating Scene Layout and Aligning Partial Scans (ICCV'19) [[Project]](https://enigma-li.github.io/projects/indoorRecons/floorplanJigsaw.html) [[Paper]](https://enigma-li.github.io/projects/indoorRecons/src/paper/floorplanJigsaw_ICCV2019.pdf)
+
 <a name="primitive_detection" />
 
 ## Primitive Detection
