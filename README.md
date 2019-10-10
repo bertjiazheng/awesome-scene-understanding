@@ -175,6 +175,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Corners for Layout: End-to-End Layout Recovery from 360 Images (CoRR'19) [[Project]](https://cfernandezlab.github.io/CFL/)  [[Paper]](https://arxiv.org/pdf/1903.08094.pdf) [[Code]](https://github.com/cfernandezlab/CFL-End-to-End-Layout-Recovery-from-360-Images)
 
+* 3D Manhattan Room Layout Reconstruction from a Single 360 Image (CoRR'19) [[Paper]](https://arxiv.org/pdf/1910.04099.pdf) [[Code]](https://github.com/zouchuhang/LayoutNetv2)
+
 <a name="floorplan" />
 
 ## Floorplan
