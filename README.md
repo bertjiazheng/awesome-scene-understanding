@@ -8,6 +8,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ## Table of Contents
 
+- [Tutorial](#tutorial)
 - [Survey](#survey)
 - [Dataset](#dataset)
   - [Realistic Datasets](#realistic_dataset)
@@ -32,6 +33,12 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Primitive](#primitive)
   - [Hierarchy](#hierarchy)
   - [Implicit](#implicit)
+
+<a name="tutorial" />
+
+## Tutorial
+
+* Holistic 3D Reconstruction: Learning to Reconstruct Holistic 3D Structures from Sensorial Data (ICCV'19) [[Webpage]](https://holistic-3d.github.io/iccv19/) [[Resources]](https://github.com/holistic-3d/holistic-3d-resources)
 
 <a name="survey" />
 
