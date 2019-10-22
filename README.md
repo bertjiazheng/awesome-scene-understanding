@@ -28,11 +28,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Rectangle](#rectangle)
   - [Cuboid](#cuboid)
 - [Object Reconstruction](#object)
-  - [Patch](#patch)
-  - [Mesh](#mesh)
-  - [Primitive](#primitive)
-  - [Hierarchy](#hierarchy)
-  - [Implicit](#implicit)
 
 <a name="tutorial" />
 
@@ -276,31 +271,9 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ## Object Reconstruction
 
-<a name="patch" />
+* Symmetry Hierarchy of Man-Made Objects (Computer Graphics Forum'11) [[Project]](https://kevinkaixu.net/projects/symh.html) [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
 
-### Patch-based
-
-* A Papier-Mâché Approach to Learning 3D Surface Generation (CVPR'18) [[Project]](http://imagine.enpc.fr/~groueixt/atlasnet/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf) [[Code]](https://github.com/ThibaultGROUEIX/AtlasNet)
-
-* Adaptive O-CNN: A Patch-based Deep Representation of 3D Shapes (SIGGRAPH Asia'18) [[Project]](https://wang-ps.github.io/AO-CNN) [[Paper]](https://arxiv.org/pdf/1809.07917.pdf) [[Code]](https://github.com/Microsoft/O-CNN)
-
-<a name="mesh" />
-
-### Mesh-based
-
-* Neural 3D Mesh Renderer (CVPR'18) [[Project]](http://hiroharu-kato.com/projects_en/neural_renderer.html) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kato_Neural_3D_Mesh_CVPR_2018_paper.pdf) [[Code]](https://github.com/hiroharu-kato/neural_renderer)
-
-* Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (ECCV'18) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf) [[Code]](https://github.com/nywang16/Pixel2Mesh)
-
-* GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects (ICML'19) [[Paper]](https://arxiv.org/pdf/1901.11461.pdf) [[Code]](https://github.com/EdwardSmith1884/GEOMetrics)
-
-* A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images (CVPR'19) [[Paper]](https://arxiv.org/pdf/1903.04704.pdf)
-
-* Mesh R-CNN (ICCV'19) [[Paper]](https://arxiv.org/pdf/1906.02739.pdf)
-
-<a name="primitive" />
-
-### Primitive-based
+* GRASS: Generative Recursive Autoencoders for Shape Structures (SIGGRAPH'17) [[Project]](https://kevinkaixu.net/projects/grass.html) [[Paper]](https://arxiv.org/pdf/1705.02090.pdf) [[Code]](https://github.com/junli-lj/Grass)
 
 * Learning Shape Abstractions by Assembling Volumetric Primitives (CVPR'17) [[Project]](https://shubhtuls.github.io/volumetricPrimitives/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tulsiani_Learning_Shape_Abstractions_CVPR_2017_paper.pdf) [[Code]](https://github.com/shubhtuls/volumetricPrimitives)
 
@@ -308,28 +281,12 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Im2Struct: Recovering 3D Shape Structure from a Single RGB Image（CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Niu_Im2Struct_Recovering_3D_CVPR_2018_paper.pdf) [[Code]](https://github.com/chengjieniu/Im2Struct)
 
+* 3D Interpreter Networks for Viewer-Centered Wireframe Modeling [[Project]](http://3dinterpreter.csail.mit.edu/) [[Paper]](https://arxiv.org/pdf/1804.00782.pdf)
+
 * Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids (CVPR'19) [[Paper]](https://arxiv.org/pdf/1904.09970.pdf) [[Code]](https://github.com/paschalidoud/superquadric_parsing)
 
-<a name="hierarchy" />
+* PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding (CVPR'19) [[Project]](https://cs.stanford.edu/~kaichun/partnet/) [[Paper]](https://arxiv.org/pdf/1812.02713.pdf) [[Code]](https://github.com/daerduoCarey/partnet_dataset) [[PartNet-Symh]](https://github.com/kevin-kaixu/partnet-symh)
 
-### Hierarchy
-
-* GRASS: Generative Recursive Autoencoders for Shape Structures (SIGGRAPH'17) [[Project]](https://kevinkaixu.net/projects/grass.html) [[Paper]](https://arxiv.org/pdf/1705.02090.pdf) [[Code]](https://github.com/junli-lj/Grass)
+* PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation (CVPR'19) [[Project]](https://kevinkaixu.net/projects/partnet.html) [[Paper]](https://arxiv.org/pdf/1903.00709.pdf) [[Code]](https://github.com/FoggYu/PartNet)
 
 * StructureNet : Hierarchical Graph Networks for 3D Shape Generation (SIGGRAPH Asia'19) [[Project]](https://cs.stanford.edu/~kaichun/structurenet/) [[Paper]](https://arxiv.org/pdf/1908.00575.pdf) [[Code]](https://github.com/daerduoCarey/structurenet)
-
-<a name="Implicit" />
-
-### Implicit
-
-* Learning Implicit Fields for Generative Shape Modeling (CVPR'19) [[Project]](https://www.sfu.ca/~zhiqinc/imgan/Readme.html) [[Paper]](https://arxiv.org/pdf/1812.02822.pdf) [[Code]](https://github.com/czq142857/implicit-decoder)
-
-* Occupancy Networks: Learning 3D Reconstruction in Function Space (CVPR'19) [[Project]](https://avg.is.tuebingen.mpg.de/publications/occupancy-networks) [[Paper]](https://arxiv.org/pdf/1812.03828.pdf) [[Code]](https://github.com/autonomousvision/occupancy_networks)
-
-* DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation (CVPR'19) [[Paper]](https://arxiv.org/pdf/1901.05103.pdf) [[Code]](https://github.com/facebookresearch/DeepSDF)
-
-* Deep Level Sets: Implicit Surface Representations for 3D Shape Inference (CoRR'19) [[Paper]](https://arxiv.org/pdf/1901.06802.pdf)
-
-* Learning Shape Templates with Structured Implicit Functions (CoRR'19) [[Paper]](https://arxiv.org/pdf/1904.06447.pdf)
-
-* DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction (NeurIPS'19) [[Paper]](https://arxiv.org/pdf/1905.10711.pdf) [[Code]](https://github.com/laughtervv/DISN)
