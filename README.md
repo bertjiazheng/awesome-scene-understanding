@@ -25,8 +25,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
   - [Line Segment](#line_segment)
   - [Wireframe](#wireframe)
   - [Plane](#plane)
-  - [Rectangle](#rectangle)
   - [Cuboid](#cuboid)
+  - [Others](#others)
 - [Object Reconstruction](#object)
 
 <a name="tutorial" />
@@ -253,19 +253,23 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (CVPR'19) [[Paper]](https://arxiv.org/pdf/1902.09777.pdf) [[Code]](https://github.com/svip-lab/PlanarReconstruction)
 
-<a name="rectangle" />
-
-### Rectangle
-
-* Bottom-Up/Top-Down Image Parsing with Attribute Grammar (TPAMI'09) [[Paper]](http://www.stat.ucla.edu/~sczhu/papers/PAMI_Grammar_rectangle.pdf)
-
 <a name="cuboid" />
 
 ### Cuboid
 
+* Localizing 3D Cuboids in Single-view Images (NIPS'12) [[Paper]](http://papers.nips.cc/paper/4842-localizing-3d-cuboids-in-single-view-images.pdf)
+
 * A Linear Approach to Matching Cuboids in RGBD Images (CVPR'13) [[Project]](https://vision.princeton.edu/projects/2013/RGBDcuboid/index.html) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Jiang_A_Linear_Approach_2013_CVPR_paper.pdf)
 
 * Deep Cuboid Detection: Beyond 2D Bounding Boxes (CoRR'16) [[Paper]](https://arxiv.org/pdf/1611.10010.pdf)
+
+<a name="others" />
+
+### Others
+
+* Detection and Matching of Rectilinear Structures (CVPR'08) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.330.89&rep=rep1&type=pdf)
+
+* Bottom-Up/Top-Down Image Parsing with Attribute Grammar (TPAMI'09) [[Paper]](http://www.stat.ucla.edu/~sczhu/papers/PAMI_Grammar_rectangle.pdf)
 
 <a name="object" />
 
