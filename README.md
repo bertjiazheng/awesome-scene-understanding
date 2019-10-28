@@ -294,3 +294,5 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation (CVPR'19) [[Project]](https://kevinkaixu.net/projects/partnet.html) [[Paper]](https://arxiv.org/pdf/1903.00709.pdf) [[Code]](https://github.com/FoggYu/PartNet)
 
 * StructureNet : Hierarchical Graph Networks for 3D Shape Generation (SIGGRAPH Asia'19) [[Project]](https://cs.stanford.edu/~kaichun/structurenet/) [[Paper]](https://arxiv.org/pdf/1908.00575.pdf) [[Code]](https://github.com/daerduoCarey/structurenet)
+
+* Learning Adaptive Hierarchical Cuboid Abstractions of 3D Shape Collections (SIGGRAPH Asia'19) [[Project]](https://isunchy.github.io/projects/cuboid_abstraction.html) [[Paper]](https://isunchy.github.io/projects/cuboid_abstraction_files/PrimitiveGen.pdf) [[Code]](https://github.com/isunchy/cuboid_abstraction)
