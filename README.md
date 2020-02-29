@@ -123,6 +123,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Complete 3D Scene Parsing from an RGBD Image (IJCV'18) [[Paper]](https://arxiv.org/pdf/1710.09490.pdf)
 
+* Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image (CVPR'20) [[Paper]](https://arxiv.org/pdf/2002.12212.pdf)
+
 <a name="panoramic_scene" />
 
 ### Panoramic Image
