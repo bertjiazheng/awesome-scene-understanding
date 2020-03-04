@@ -243,6 +243,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Learning to Reconstruct 3D Manhattan Wireframes from a Single Image (ICCV'19) [[Paper]](https://arxiv.org/pdf/1905.07482.pdf)
 
+* Holistically-Attracted Wireframe Parsing (CVPR'20) [[Paper]](https://arxiv.org/pdf/2003.01663.pdf)
+
 <a name="plane" />
 
 ### Plane
