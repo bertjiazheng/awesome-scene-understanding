@@ -165,6 +165,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Flat2Layout: Flat Representation for Estimating Layout of General Room Types (CoRR'19) [[Paper]](https://arxiv.org/pdf/1903.08094.pdf)
 
+* Smart Hypothesis Generation for Efficient and Robust Room Layout Estimation (WACV'20) [[Paper]](https://arxiv.org/pdf/1910.12257.pdf)
+
 * General 3D Room Layout from a Single View by Render-and-Compare (CoRR'19) [[Paper]](http://arxiv.org/pdf/2001.02149.pdf)
 
 <a name="panoramic_layout" />
