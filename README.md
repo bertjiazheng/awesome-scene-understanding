@@ -209,6 +209,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Floorplan-Jigsaw: Jointly Estimating Scene Layout and Aligning Partial Scans (ICCV'19) [[Project]](https://enigma-li.github.io/projects/indoorRecons/floorplanJigsaw.html) [[Paper]](https://enigma-li.github.io/projects/indoorRecons/src/paper/floorplanJigsaw_ICCV2019.pdf)
 
+* Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes (CoRR'20) [[Paper]](http://arxiv.org/abs/2003.07356)
+
 <a name="primitive_detection" />
 
 ## Primitive Detection
