@@ -265,6 +265,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (CVPR'19) [[Paper]](https://arxiv.org/pdf/1902.09777.pdf) [[Code]](https://github.com/svip-lab/PlanarReconstruction)
 
+* Peek-a-Boo : Occlusion Reasoning in Indoor Scenes with Plane Representations (CVPR'20) [[Paper]](https://cseweb.ucsd.edu/~mkchandraker/pdf/cvpr20_peekaboo.pdf)
+
 <a name="cuboid" />
 
 ### Cuboid
