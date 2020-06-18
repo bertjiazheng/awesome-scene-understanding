@@ -44,6 +44,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Indoor Scene Understanding in 2.5/3D for Autonomous Agents: A Survey (IEEE Access'19) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8573760&tag=1)
 
+* State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments (Computer Graphics Forum'20) [[Paper]](http://vic.crs4.it/data/papers/eg2020-star-indoor.pdf)
+
 <a name="dataset" />
 
 ## Dataset
