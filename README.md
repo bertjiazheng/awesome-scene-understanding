@@ -124,6 +124,10 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Complete 3D Scene Parsing from an RGBD Image (IJCV'18) [[Paper]](https://arxiv.org/abs/1710.09490)
 
+* Hoilistc++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commensense (ICCV'19) [[Project]](https://yixchen.github.io/holisticpp/) [[Paper]](https://arxiv.org/abs/1909.01507) [[Code]](https://github.com/yixchen/holistic_scene_human)
+
+* 3D Object Detection from a Single RGB Image via Perspective Points (NIPS'19) [[Paper]](https://papers.nips.cc/paper/9093-perspectivenet-3d-object-detection-from-a-single-rgb-image-via-perspective-points.pdf)
+
 * Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image (CVPR'20) [[Paper]](https://arxiv.org/abs/2002.12212)
 
 <a name="panoramic_scene" />
