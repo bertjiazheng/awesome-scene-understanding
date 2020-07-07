@@ -172,7 +172,9 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Smart Hypothesis Generation for Efficient and Robust Room Layout Estimation (WACV'20) [[Paper]](https://arxiv.org/abs/1910.12257)
 
-* General 3D Room Layout from a Single View by Render-and-Compare (CoRR'19) [[Paper]](http://arxiv.org/abs/2001.02149)
+* General 3D Room Layout from a Single View by Render-and-Compare (ECCV'20) [[Paper]](http://arxiv.org/abs/2001.02149)
+
+* Structural Deep Metric Learning for Room Layout Estimation (ECCV'20)
 
 <a name="panoramic_layout" />
 
@@ -191,6 +193,10 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * Corners for Layout: End-to-End Layout Recovery from 360 Images (CoRR'19) [[Project]](https://cfernandezlab.github.io/CFL/)  [[Paper]](https://arxiv.org/abs/1903.08094) [[Code]](https://github.com/cfernandezlab/CFL-End-to-End-Layout-Recovery-from-360-Images)
 
 * 3D Manhattan Room Layout Reconstruction from a Single 360 Image (CoRR'19) [[Paper]](https://arxiv.org/abs/1910.04099) [[Code]](https://github.com/zouchuhang/LayoutNetv2)
+
+* AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image Beyond the Manhattan World Assumption (ECCV'20)
+
+* Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image (ECCV'20)
 
 <a name="floorplan" />
 
@@ -271,6 +277,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (CVPR'19) [[Paper]](https://arxiv.org/abs/1902.09777) [[Code]](https://github.com/svip-lab/PlanarReconstruction)
 
 * Peek-a-Boo : Occlusion Reasoning in Indoor Scenes with Plane Representations (CVPR'20) [[Paper]](https://cseweb.ucsd.edu/~mkchandraker/pdf/cvpr20_peekaboo.pdf)
+
+* Learning Inter-Plane Relations for Piecewise Planar Reconstruction (ECCV'20)
 
 <a name="cuboid" />
 
