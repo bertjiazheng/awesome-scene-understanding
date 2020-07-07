@@ -248,7 +248,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Learning Attraction Field Representation for Robust Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/abs/1812.02122) [[Code]](https://github.com/cherubicXN/afm_cvpr2019)
 
-* Deep Hough Transform for Semantic Line Detection (CoRR'20) [[Paper]](https://arxiv.org/abs/2003.04676) [[Code]](https://github.com/Hanqer/deep-hough-transform)
+* Deep Hough Transform for Semantic Line Detection (ECCV'20) [[Paper]](https://arxiv.org/abs/2003.04676) [[Code]](https://github.com/Hanqer/deep-hough-transform)
 
 <a name="wireframe" />
 
