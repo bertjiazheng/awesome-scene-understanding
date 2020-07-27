@@ -172,7 +172,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Smart Hypothesis Generation for Efficient and Robust Room Layout Estimation (WACV'20) [[Paper]](https://arxiv.org/abs/1910.12257)
 
-* General 3D Room Layout from a Single View by Render-and-Compare (ECCV'20) [[Paper]](http://arxiv.org/abs/2001.02149)
+* General 3D Room Layout from a Single View by Render-and-Compare (ECCV'20) [[Project]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/general-3d-room-layout-from-a-single-view-by-render-and-compare/) [[Paper]](http://arxiv.org/abs/2001.02149) [[Dataset]](https://github.com/vevenom/ScanNet-Layout)
 
 * Structural Deep Metric Learning for Room Layout Estimation (ECCV'20)
 
@@ -250,6 +250,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Deep Hough Transform for Semantic Line Detection (ECCV'20) [[Paper]](https://arxiv.org/abs/2003.04676) [[Code]](https://github.com/Hanqer/deep-hough-transform)
 
+* Deep Hough-Transform Line Priors (ECCV'20) [[Paper]](https://arxiv.org/pdf/2007.09493.pdf) [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)
+
 <a name="wireframe" />
 
 ### Wireframe
@@ -262,7 +264,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Learning to Reconstruct 3D Manhattan Wireframes from a Single Image (ICCV'19) [[Paper]](https://arxiv.org/abs/1905.07482)
 
-* Holistically-Attracted Wireframe Parsing (CVPR'20) [[Paper]](https://arxiv.org/abs/2003.01663)
+* Holistically-Attracted Wireframe Parsing (CVPR'20) [[Paper]](https://arxiv.org/abs/2003.01663) [[Code]](https://github.com/cherubicXN/hawp)
 
 <a name="plane" />
 
