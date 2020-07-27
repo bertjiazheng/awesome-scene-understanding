@@ -280,7 +280,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Peek-a-Boo : Occlusion Reasoning in Indoor Scenes with Plane Representations (CVPR'20) [[Paper]](https://cseweb.ucsd.edu/~mkchandraker/pdf/cvpr20_peekaboo.pdf)
 
-* Learning Inter-Plane Relations for Piecewise Planar Reconstruction (ECCV'20)
+* Learning Inter-Plane Relations for Piecewise Planar Reconstruction (ECCV'20) [[Code]](https://github.com/yi-ming-qian/interplane)
 
 <a name="cuboid" />
 
