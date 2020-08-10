@@ -54,6 +54,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Realistic Dataset
 
+* HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures (CoRR'20) [[Project]](https://holicity.io/) [[Paper]](https://arxiv.org/abs/2008.03286) [[Code]](https://github.com/zhou13/holicity)
+
 * 3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera (ICCV'19) [[Project]](https://3dscenegraph.stanford.edu/) [[Paper]](https://3dscenegraph.stanford.edu/images/3DSceneGraph.pdf)
 
 * The Replica Dataset: A Digital Replica of Indoor Spaces (CoRR'19) [[Paper]](https://arxiv.org/abs/1906.05797) [[Code]](https://github.com/facebookresearch/Replica-Dataset)
