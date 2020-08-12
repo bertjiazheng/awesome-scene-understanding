@@ -74,7 +74,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * [NYUv2] Indoor Segmentation and Support Inference from RGBD Images (ECCV'12) [[Project]](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2) [[Paper]](http://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)
 
-
 <a name="synthetic_dataset" />
 
 ### Synthetic Dataset
@@ -90,7 +89,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * SceneNet: Understanding Real World Indoor Scenes With Synthetic Data (CVPR'16) [[Project]](https://robotvault.bitbucket.io/) [[Paper]](http://arxiv.org/abs/1511.07041)
 
 * The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes (CVPR'16) [[Project]](http://synthia-dataset.net/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf)
-
 
 <a name="holistic_scene_understanding" />
 
@@ -182,7 +180,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Recovering the Spatial Layout of Cluttered Rooms (ICCV'09) [[Paper]](http://dhoiem.cs.illinois.edu/publications/iccv2009_hedau_indoor.pdf)
 
-
 <a name="panoramic_layout" />
 
 ### Panoramic Image
@@ -243,6 +240,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Line Segment
 
+* TP-LSD: Tri-Points Based Line Segment Detector (ECCV'20)
+
 * Deep Hough-Transform Line Priors (ECCV'20) [[Paper]](https://arxiv.org/pdf/2007.09493.pdf) [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)
 
 * Deep Hough Transform for Semantic Line Detection (ECCV'20) [[Paper]](https://arxiv.org/abs/2003.04676) [[Code]](https://github.com/Hanqer/deep-hough-transform)
@@ -262,6 +261,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 <a name="wireframe" />
 
 ### Wireframe
+
 * Holistically-Attracted Wireframe Parsing (CVPR'20) [[Paper]](https://arxiv.org/abs/2003.01663) [[Code]](https://github.com/cherubicXN/hawp)
 
 * Learning to Reconstruct 3D Manhattan Wireframes from a Single Image (ICCV'19) [[Paper]](https://arxiv.org/abs/1905.07482)
@@ -271,7 +271,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * PPGNet: Learning Point-Pair Graph for Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/abs/1905.03415) [[Code]](https://github.com/svip-lab/PPGNet)
 
 * Learning to Parse Wireframes in Images of Man-Made Environments (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Learning_to_Parse_CVPR_2018_paper.pdf) [[Code]](https://github.com/huangkuns/wireframe)
-
 
 <a name="plane" />
 
@@ -288,7 +287,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * Recovering 3D Planes from a Single Image via Convolutional Neural Networks (ECCV'18) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fengting_Yang_Recovering_3D_Planes_ECCV_2018_paper.pdf) [[Code]](https://github.com/fuy34/planerecover)
 
 * PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image (CVPR'18) [[Project]](https://www.cse.wustl.edu/~chenliu/planenet.html) [[Paper]](https://arxiv.org/abs/1804.06278) [[Code]](https://github.com/art-programmer/PlaneNet)
-
 
 <a name="cuboid" />
 
