@@ -150,7 +150,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Perspective Image
 
-* GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20)
+* GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20) [[Matterport3D Layout Dataset]](https://vsislab.github.io/Matterport3D-Layout/)
 
 * Structural Deep Metric Learning for Room Layout Estimation (ECCV'20)
 
@@ -188,7 +188,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image Beyond the Manhattan World Assumption (ECCV'20) [[Project]](https://www.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:AI3%27) [[Paper]](http://vic.crs4.it/data/papers/eccv2020-atlantanet.pdf)
 
-* 3D Manhattan Room Layout Reconstruction from a Single 360 Image (CoRR'19) [[Paper]](https://arxiv.org/abs/1910.04099) [[Code]](https://github.com/zouchuhang/LayoutNetv2)
+* 3D Manhattan Room Layout Reconstruction from a Single 360 Image (CoRR'19) [[Paper]](https://arxiv.org/abs/1910.04099) [[Code]](https://github.com/zouchuhang/LayoutNetv2) [[MatterportLayout]](https://github.com/ericsujw/Matterport3DLayoutAnnotation)
 
 * Corners for Layout: End-to-End Layout Recovery from 360 Images (ICRA'19) [[Project]](https://cfernandezlab.github.io/CFL/)  [[Paper]](https://arxiv.org/abs/1903.08094) [[Code]](https://github.com/cfernandezlab/CFL-End-to-End-Layout-Recovery-from-360-Images)
 
