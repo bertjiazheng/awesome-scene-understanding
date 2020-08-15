@@ -152,15 +152,15 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 (AW: Atlanta-world, SS: single-floor and single-ceiling, PP: Piece-wise Planarity.)
 
-| Dataset             | Modality | #Frames | Prior  | Source       |
-|---------------------|----------|---------|--------|--------------|
-| Hedau               | RGB      | 366     | Cuboid | -            |
-| LSUN                | RGB      | 5,394   | Cuboid | -            |
-| NYUv2 303           | RGB-D    | 303     | Cuboid | NYUv2        |
-| SUN RGB-D           | RGB-D    | 10,335  | AW+SS  | -            |
-| ScanNet-Layout      | RGB-D    | 293     | PP     | ScanNet      |
-| Matterport3D-Layout | RGB-D    | 7,360   | PP     | Matterport   |
-| Structured3D        | RGB-D    | 82,027  | AW+SS  | Structured3D |
+| Dataset                       | Modality | #Frames | Prior  | Source                          |
+|-------------------------------|----------|---------|--------|---------------------------------|
+| Hedau (ICCV'09)               | RGB      | 366     | Cuboid | -                               |
+| NYUv2 303 (ICCV'13)           | RGB-D    | 303     | Cuboid | NYUv2                           |
+| LSUN Room Layout(2016)        | RGB      | 5,394   | Cuboid | SUN                             |
+| SUN RGB-D (CVPR'15)           | RGB-D    | 10,335  | AW+SS  | NYUv2, Berkeley B3DO, and SUN3D |
+| ScanNet-Layout (ECCV'20)      | RGB-D    | 293     | PP     | ScanNet                         |
+| Matterport3D-Layout (ECCV'20) | RGB-D    | 7,360   | PP     | Matterport                      |
+| Structured3D (ECCV'20)        | RGB-D    | 82,027  | AW+SS  | Structured3D                    |
 
 * GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20) [[Matterport3D Layout Dataset]](https://vsislab.github.io/Matterport3D-Layout/)
 
@@ -198,12 +198,12 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 (MW: Manhattan world, AW: Atlanta world, SS: single-floor and single-ceiling.)
 
-| Dataset             | Modality | #Frames | Prior     | Source         |
-|---------------------|----------|---------|-----------|----------------|
-| PanoContext         | RGB      | 500     | Cuboid    | SUN360         |
-| 2D-3D-Stanford      | RGB-D    | 571     | Cuboid    | 2D-3D-Stanford |
-| Matterport3D-Layout | RGB-D    | 2,295   | MW+SS     | Matterport     |
-| Structured3D        | RGB-D    | 196,515 | AW+SS     | Structured3D   |
+| Dataset                    | Modality | #Frames | Prior     | Source         |
+|----------------------------|----------|---------|-----------|----------------|
+| PanoContext (ECCV'14)      | RGB      | 500     | Cuboid    | SUN360         |
+| 2D-3D-S (CVPR'18)          | RGB-D    | 571     | Cuboid    | 2D-3D-S        |
+| Matterport3D-Layout (2020) | RGB-D    | 2,295   | MW+SS     | Matterport     |
+| Structured3D (ECCV'20)     | RGB-D    | 196,515 | AW+SS     | Structured3D   |
 
 * Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image (ECCV'20)
 
