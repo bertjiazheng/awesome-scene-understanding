@@ -166,7 +166,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Structural Deep Metric Learning for Room Layout Estimation (ECCV'20)
 
-* General 3D Room Layout from a Single View by Render-and-Compare (ECCV'20) [[Project]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/general-3d-room-layout-from-a-single-view-by-render-and-compare/) [[Paper]](http://arxiv.org/abs/2001.02149) [[Dataset]](https://github.com/vevenom/ScanNet-Layout)
+* General 3D Room Layout from a Single View by Render-and-Compare (ECCV'20) [[Project]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/general-3d-room-layout-from-a-single-view-by-render-and-compare/) [[Paper]](http://arxiv.org/abs/2001.02149) [[ScanNet-Layout Dataset]](https://github.com/vevenom/ScanNet-Layout)
 
 * Smart Hypothesis Generation for Efficient and Robust Room Layout Estimation (WACV'20) [[Paper]](https://arxiv.org/abs/1910.12257)
 
@@ -198,12 +198,12 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 (MW: Manhattan world, AW: Atlanta world, SS: single-floor and single-ceiling.)
 
-| Dataset                    | Modality | #Frames | Prior     | Source         |
-|----------------------------|----------|---------|-----------|----------------|
-| PanoContext (ECCV'14)      | RGB      | 500     | Cuboid    | SUN360         |
-| 2D-3D-S (CVPR'18)          | RGB-D    | 571     | Cuboid    | 2D-3D-S        |
-| Matterport3D-Layout (2020) | RGB-D    | 2,295   | MW+SS     | Matterport     |
-| Structured3D (ECCV'20)     | RGB-D    | 196,515 | AW+SS     | Structured3D   |
+| Dataset                 | Modality | #Frames | Prior     | Source         |
+|-------------------------|----------|---------|-----------|----------------|
+| PanoContext (ECCV'14)   | RGB      | 500     | Cuboid    | SUN360         |
+| 2D-3D-S (CVPR'18)       | RGB-D    | 571     | Cuboid    | 2D-3D-S        |
+| MatterportLayout (2020) | RGB-D    | 2,295   | MW+SS     | Matterport     |
+| Structured3D (ECCV'20)  | RGB-D    | 196,515 | AW+SS     | Structured3D   |
 
 * Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image (ECCV'20)
 
