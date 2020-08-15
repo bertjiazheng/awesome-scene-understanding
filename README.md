@@ -150,6 +150,18 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Perspective Image
 
+(AW: Atlanta-world, SS: single-floor and single-ceiling, PP: Piece-wise Planarity.)
+
+| Dataset             | Modality | #Frames | Prior  | Source     |
+|---------------------|----------|---------|--------|------------|
+| Hedau               | RGB      | 366     | Cuboid | -          |
+| LSUN                | RGB      | 5,394   | Cuboid | -          |
+| NYUv2 303           | RGB-D    | 303     | Cuboid | NYUv2      |
+| SUN RGB-D           | RGB-D    | 10,335  | AW+SS  | -          |
+| ScanNet-Layout      | RGB-D    | 293     | PP     | ScanNet    |
+| Matterport3D-Layout | RGB-D    | 7,360   | PP     | Matterport |
+| Structured3D        | RGB-D    | 82,027  | AW+SS  | -          |
+
 * GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20) [[Matterport3D Layout Dataset]](https://vsislab.github.io/Matterport3D-Layout/)
 
 * Structural Deep Metric Learning for Room Layout Estimation (ECCV'20)
@@ -183,6 +195,15 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 <a name="panoramic_layout" />
 
 ### Panoramic Image
+
+(MW: Manhattan world, AW: Atlanta world, SS: single-floor and single-ceiling.)
+
+| Dataset             | Modality | #Frames | Prior     | Source         |
+|---------------------|----------|---------|-----------|----------------|
+| PanoContext         | RGB      | 500     | Cuboid    | -              |
+| 2D-3D-Stanford      | RGB-D    | 571     | Cuboid    | 2D-3D-Stanford |
+| Matterport3D-Layout | RGB-D    | 2,295   | MW        | Matterport     |
+| Structured3D        | RGB-D    | 196,515 | AW+SS     | -              |
 
 * Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image (ECCV'20)
 
