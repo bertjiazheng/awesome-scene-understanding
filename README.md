@@ -162,7 +162,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 | Matterport3D-Layout (ECCV'20) | RGB-D    | 7,360   | PP     | Matterport                      |
 | Structured3D (ECCV'20)        | RGB-D    | 82,027  | AW+SS  | Structured3D                    |
 
-* GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20) [[Matterport3D Layout Dataset]](https://vsislab.github.io/Matterport3D-Layout/)
+* GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20) [[Paper]](https://arxiv.org/abs/2008.06286) [[Matterport3D Layout Dataset]](https://vsislab.github.io/Matterport3D-Layout/)
 
 * Structural Deep Metric Learning for Room Layout Estimation (ECCV'20)
 
