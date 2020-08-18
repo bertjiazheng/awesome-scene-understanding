@@ -156,7 +156,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 |-------------------------------|----------|---------|--------|---------------------------------|
 | Hedau (ICCV'09)               | RGB      | 366     | Cuboid | -                               |
 | NYUv2 303 (ICCV'13)           | RGB-D    | 303     | Cuboid | NYUv2                           |
-| LSUN Room Layout(2016)        | RGB      | 5,394   | Cuboid | SUN                             |
+| LSUN Room Layout (2016)       | RGB      | 5,394   | Cuboid | SUN                             |
 | SUN RGB-D (CVPR'15)           | RGB-D    | 10,335  | AW+SS  | NYUv2, Berkeley B3DO, and SUN3D |
 | ScanNet-Layout (ECCV'20)      | RGB-D    | 293     | PP     | ScanNet                         |
 | Matterport3D-Layout (ECCV'20) | RGB-D    | 7,360   | PP     | Matterport                      |
@@ -164,7 +164,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20) [[Paper]](https://arxiv.org/abs/2008.06286) [[Matterport3D Layout Dataset]](https://vsislab.github.io/Matterport3D-Layout/)
 
-* Structural Deep Metric Learning for Room Layout Estimation (ECCV'20)
+* Structural Deep Metric Learning for Room Layout Estimation (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630715.pdf)
 
 * General 3D Room Layout from a Single View by Render-and-Compare (ECCV'20) [[Project]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/general-3d-room-layout-from-a-single-view-by-render-and-compare/) [[Paper]](http://arxiv.org/abs/2001.02149) [[ScanNet-Layout Dataset]](https://github.com/vevenom/ScanNet-Layout)
 
@@ -205,7 +205,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 | MatterportLayout (2020) | RGB-D    | 2,295   | MW+SS     | Matterport     |
 | Structured3D (ECCV'20)  | RGB-D    | 196,515 | AW+SS     | Structured3D   |
 
-* Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image (ECCV'20)
+* Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610647.pdf)
 
 * AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image Beyond the Manhattan World Assumption (ECCV'20) [[Project]](https://www.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:AI3%27) [[Paper]](http://vic.crs4.it/data/papers/eccv2020-atlantanet.pdf)
 
