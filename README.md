@@ -207,7 +207,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610647.pdf)
 
-* AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image Beyond the Manhattan World Assumption (ECCV'20) [[Project]](https://www.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:AI3%27) [[Paper]](http://vic.crs4.it/data/papers/eccv2020-atlantanet.pdf)
+* AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image Beyond the Manhattan World Assumption (ECCV'20) [[Project]](https://www.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:AI3%27) [[Paper]](http://vic.crs4.it/data/papers/eccv2020-atlantanet.pdf) [[Code]](https://github.com/crs4/AtlantaNet)
 
 * 3D Manhattan Room Layout Reconstruction from a Single 360 Image (CoRR'19) [[Paper]](https://arxiv.org/abs/1910.04099) [[Code]](https://github.com/zouchuhang/LayoutNetv2) [[MatterportLayout]](https://github.com/ericsujw/Matterport3DLayoutAnnotation)
 
