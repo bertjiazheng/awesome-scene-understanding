@@ -166,7 +166,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Structural Deep Metric Learning for Room Layout Estimation (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630715.pdf)
 
-* General 3D Room Layout from a Single View by Render-and-Compare (ECCV'20) [[Project]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/general-3d-room-layout-from-a-single-view-by-render-and-compare/) [[Paper]](http://arxiv.org/abs/2001.02149) [[ScanNet-Layout Dataset]][ScanNet-Layout]
+* General 3D Room Layout from a Single View by Render-and-Compare (ECCV'20) [[Project]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/general-3d-room-layout-from-a-single-view-by-render-and-compare/) [[Paper]](http://arxiv.org/abs/2001.02149) [[ScanNet-Layout Dataset]][ScanNet-Layout]  [[Code]](https://github.com/vevenom/RoomLayout3D_RandC)
 
 * Smart Hypothesis Generation for Efficient and Robust Room Layout Estimation (WACV'20) [[Paper]](https://arxiv.org/abs/1910.12257)
 
