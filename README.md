@@ -206,6 +206,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 | [LayoutMP3D][LayoutMP3D] (2020)             | RGB-D    | 2,505   | MW+SS     | Matterport     |
 | Structured3D (ECCV'20)                      | RGB-D    | 196,515 | AW+SS     | Structured3D   |
 
+* Training and Post Processing 3D Room Layout Beyond the Manhattan World Assumption (ECCV Workshop'20) [[Paper]](https://arxiv.org/abs/2009.02857)
+
 * Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610647.pdf)
 
 * AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image Beyond the Manhattan World Assumption (ECCV'20) [[Project]](https://www.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:AI3%27) [[Paper]](http://vic.crs4.it/data/papers/eccv2020-atlantanet.pdf) [[Code]](https://github.com/crs4/AtlantaNet)
