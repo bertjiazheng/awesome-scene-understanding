@@ -44,7 +44,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Indoor Scene Understanding in 2.5/3D for Autonomous Agents: A Survey (IEEE Access'19) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8573760&tag=1)
 
-* RGBD Datasets: Past, Present and Future (CVPRW'16) [[Project]](http://www.michaelfirman.co.uk/RGBDdatasets/) [[Paper]](https://arxiv.org/abs/1604.00999)
+* RGBD Datasets: Past, Present and Future (CVPR Workshop'16) [[Project]](http://www.michaelfirman.co.uk/RGBDdatasets/) [[Paper]](https://arxiv.org/abs/1604.00999)
 
 <a name="dataset" />
 
