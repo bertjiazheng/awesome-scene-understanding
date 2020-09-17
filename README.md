@@ -264,6 +264,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Line Segment
 
+* LGNN: A Context-aware Line Segment Detector (ACM MM'20) [[Paper]](https://arxiv.org/abs/2008.05892)
+
 * TP-LSD: Tri-Points Based Line Segment Detector (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720766.pdf)
 
 * Deep Hough-Transform Line Priors (ECCV'20) [[Paper]](https://arxiv.org/pdf/2007.09493.pdf) [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)
@@ -302,7 +304,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Learning Inter-Plane Relations for Piecewise Planar Reconstruction (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520324.pdf) [[Code]](https://github.com/yi-ming-qian/interplane)
 
-* Peek-a-Boo : Occlusion Reasoning in Indoor Scenes with Plane Representations (CVPR'20) [[Paper]](https://cseweb.ucsd.edu/~mkchandraker/pdf/cvpr20_peekaboo.pdf)
+* Peek-a-Boo: Occlusion Reasoning in Indoor Scenes with Plane Representations (CVPR'20) [[Paper]](https://cseweb.ucsd.edu/~mkchandraker/pdf/cvpr20_peekaboo.pdf)
 
 * Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (CVPR'19) [[Paper]](https://arxiv.org/abs/1902.09777) [[Code]](https://github.com/svip-lab/PlanarReconstruction)
 
