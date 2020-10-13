@@ -268,7 +268,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * TP-LSD: Tri-Points Based Line Segment Detector (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720766.pdf)
 
-* Deep Hough-Transform Line Priors (ECCV'20) [[Paper]](https://arxiv.org/pdf/2007.09493.pdf) [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)
+* Deep Hough-Transform Line Priors (ECCV'20) [[Paper]](https://arxiv.org/abs/2007.09493) [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)
 
 * Deep Hough Transform for Semantic Line Detection (ECCV'20) [[Paper]](https://arxiv.org/abs/2003.04676) [[Code]](https://github.com/Hanqer/deep-hough-transform)
 
