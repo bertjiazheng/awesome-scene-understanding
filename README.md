@@ -302,7 +302,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Plane
 
-* Learning Inter-Plane Relations for Piecewise Planar Reconstruction (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520324.pdf) [[Code]](https://github.com/yi-ming-qian/interplane)
+* Learning Pairwise Inter-Plane Relations for Piecewise Planar Reconstruction (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520324.pdf) [[Code]](https://github.com/yi-ming-qian/interplane)
 
 * Peek-a-Boo: Occlusion Reasoning in Indoor Scenes with Plane Representations (CVPR'20) [[Project]](https://www.nec-labs.com/~mas/peekaboo/) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Peek-a-Boo_Occlusion_Reasoning_in_Indoor_Scenes_With_Plane_Representations_CVPR_2020_paper.pdf)
 
