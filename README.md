@@ -78,6 +78,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Synthetic Dataset
 
+* Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding (CoRR'20) [[Project]](https://mikeroberts3000.github.io/papers/hypersim/) [[Paper]](https://arxiv.org/abs/2011.02523) [[Code]](https://github.com/mikeroberts3000/ml-hypersim)
+
 * Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling (ECCV'20) [[Project]](https://structured3d-dataset.org) [[Paper]](https://arxiv.org/abs/1908.00222) [[Code]](https://github.com/bertjiazheng/Structured3D)
 
 * InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset (BMVC'18) [[Project]](https://interiornet.org/) [[Paper]](https://arxiv.org/abs/1809.00716)
