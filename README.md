@@ -270,6 +270,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 ### Line Segment
 
+* Line Segment Detection Using Transformers without Edges (CoRR'21) [[Paper]](https://arxiv.org/abs/2101.01909)
+
 * LGNN: A Context-aware Line Segment Detector (ACM MM'20) [[Paper]](https://arxiv.org/abs/2008.05892)
 
 * TP-LSD: Tri-Points Based Line Segment Detector (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720766.pdf)
