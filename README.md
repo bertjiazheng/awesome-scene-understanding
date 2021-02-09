@@ -212,6 +212,8 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 | [LayoutMP3D][LayoutMP3D] (2020)             | RGB-D    | 2,505   | MW+SS     | Matterport     |
 | Structured3D (ECCV'20)                      | RGB-D    | 196,515 | AW+SS     | Structured3D   |
 
+* Single-Shot Cuboids: Geodesics-based End-to-end Manhattan Aligned Layout Estimation from Spherical Panoramas (CoRR'21) [[Project]](https://vcl3d.github.io/SingleShotCuboids/) [[Paper]](https://arxiv.org/abs/2102.03939) [[Code]](https://github.com/VCL3D/SingleShotCuboids)
+
 * Manhattan Room Layout Reconstruction from a Single 360 image: A Comparative Study of State-of-the-art Methods (IJCV'21) [[Paper]](https://arxiv.org/abs/1910.04099) [[Code]](https://github.com/zouchuhang/LayoutNetv2) [[MatterportLayout Dataset]][MatterportLayout]
 
 * Training and Post Processing 3D Room Layout Beyond the Manhattan World Assumption (ECCV Workshop'20) [[Paper]](https://arxiv.org/abs/2009.02857)
