@@ -1,42 +1,30 @@
 # Awesome Scene Understanding
 
-A resource repository for scene understanding, inspired by [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning).
-
-## Contributing
-
-Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scene-understanding/pulls) to add papers.
+A list of awesome scene understanding papers.
 
 ## Table of Contents
 
-- [Workshops and Tutorials](#workshop)
-- [Survey](#survey)
-- [Dataset](#dataset)
-  - [Realistic Datasets](#realistic_dataset)
-  - [Synthetic Datasets](#synthetic_dataset)
-- [Holistic Scene Understanding](#holistic_scene_understanding)
-  - [Perspective Image](#perspective_scene)
-  - [Panoramic Image](#panoramic_scene)
-- [Room Layout Estimation](#room_layout_estimation)
-  - [Perspective Image](#perspective_layout)
-  - [Panoramic Image](#panoramic_layout)
-- [Floorplan](#floorplan)
-- [Primitive Detection](#primitive_detection)
-  - [Junction](#junction)
-  - [Line Segment](#line_segment)
-  - [Wireframe](#wireframe)
-  - [Plane](#plane)
-  - [Cuboid](#cuboid)
-  - [Others](#others)
-
-<a name="workshop" />
+* [Workshops and Tutorials](#Workshops-and-Tutorials)
+* [Survey](##survey)
+* [Dataset](##dataset)
+  + [Realistic Dataset](###Realistic-Dataset)
+  + [Synthetic Dataset](###Synthetic-Dataset)
+* [Holistic Scene Understanding](##Holistic-Scene-Understanding)
+* [Room Layout Estimation](##Room-Layout-Estimation)
+* [Floorplan](##floorplan)
+* [Primitive Detection](##Primitive-Detection)
+  + [Junction](###Junction)
+  + [Line Segment](###line-segment)
+  + [Wireframe](###Wireframe)
+  + [Plane](###Plane)
+  + [Cuboid](###Cuboid)
+  + [Others](###Others)
 
 ## Workshops and Tutorials
 
 * Holistic Scene Structures for 3D Vision (ECCV'20) [[Webpage]](https://holistic-3d.github.io/eccv20/) [[Challenge]](https://holistic-3d.github.io/eccv20/challenge.html)
 
 * Holistic 3D Reconstruction: Learning to Reconstruct Holistic 3D Structures from Sensorial Data (ICCV'19) [[Webpage]](https://holistic-3d.github.io/iccv19/) [[Resources]](https://github.com/holistic-3d/holistic-3d-resources)
-
-<a name="survey" />
 
 ## Survey
 
@@ -46,11 +34,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * RGBD Datasets: Past, Present and Future (CVPR Workshop'16) [[Project]](http://www.michaelfirman.co.uk/RGBDdatasets/) [[Paper]](https://arxiv.org/abs/1604.00999)
 
-<a name="dataset" />
-
 ## Dataset
-
-<a name="realistic_dataset" />
 
 ### Realistic Dataset
 
@@ -76,8 +60,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * [NYUv2] Indoor Segmentation and Support Inference from RGBD Images (ECCV'12) [[Project]](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2) [[Paper]](http://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)
 
-<a name="synthetic_dataset" />
-
 ### Synthetic Dataset
 
 * 3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics (CoRR'20) [[Project]](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) [[Paper]](https://arxiv.org/abs/2011.09127) [[Code]](https://github.com/3D-FRONT-FUTURE/3D-FRONT-ToolBox)
@@ -98,11 +80,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes (CVPR'16) [[Project]](http://synthia-dataset.net/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf)
 
-<a name="holistic_scene_understanding" />
-
 ## Holistic Scene Understanding
-
-<a name="perspective_scene" />
 
 ### Perspective Image
 
@@ -140,8 +118,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Thinking Inside the Box: Using Appearance Models and Context Based on Room Geometry (ECCV'10) [[Paper]](http://vision.cs.uiuc.edu/~vhedau2/Publications/eccv2010_think_inside.pdf)
 
-<a name="panoramic_scene" />
-
 ### Panoramic Image
 
 * Automatic 3D Indoor Scene Modeling from Single Panorama (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Automatic_3D_Indoor_CVPR_2018_paper.pdf)
@@ -150,11 +126,7 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding (ECCV'14) [[Project]](http://panocontext.cs.princeton.edu/) [[Paper]](http://panocontext.cs.princeton.edu/paper.pdf)
 
-<a name="room_layout_estimation" />
-
 ## Room Layout Estimation
-
-<a name="perspective_layout" />
 
 ### Perspective Image
 
@@ -164,11 +136,11 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 |------------------------------------------------------|----------|---------|--------|---------------------------------|
 | Hedau (ICCV'09)                                      | RGB      | 366     | Cuboid | -                               |
 | NYUv2 303 (ICCV'13)                                  | RGB-D    | 303     | Cuboid | NYUv2                           |
-| LSUN Room Layout (2016)                              | RGB      | 5,394   | Cuboid | SUN                             |
-| SUN RGB-D (CVPR'15)                                  | RGB-D    | 10,335  | AW+SS  | NYUv2, Berkeley B3DO, and SUN3D |
+| LSUN Room Layout (2016)                              | RGB      | 5394    | Cuboid | SUN                             |
+| SUN RGB-D (CVPR'15)                                  | RGB-D    | 10335   | AW+SS  | NYUv2, Berkeley B3DO, and SUN3D |
 | [ScanNet-Layout][ScanNet-Layout] (ECCV'20)           | RGB-D    | 293     | PP     | ScanNet                         |
-| [Matterport3D-Layout][Matterport3D-Layout] (ECCV'20) | RGB-D    | 7,360   | PP     | Matterport                      |
-| Structured3D (ECCV'20)                               | RGB-D    | 82,027  | AW+SS  | Structured3D                    |
+| [Matterport3D-Layout][Matterport3D-Layout] (ECCV'20) | RGB-D    | 7360    | PP     | Matterport                      |
+| Structured3D (ECCV'20)                               | RGB-D    | 82027   | AW+SS  | Structured3D                    |
 
 * GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20) [[Paper]](https://arxiv.org/abs/2008.06286) [[Matterport3D Layout Dataset]][Matterport3D-Layout]
 
@@ -200,8 +172,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Recovering the Spatial Layout of Cluttered Rooms (ICCV'09) [[Paper]](http://dhoiem.cs.illinois.edu/publications/iccv2009_hedau_indoor.pdf)
 
-<a name="panoramic_layout" />
-
 ### Panoramic Image
 
 (MW: Manhattan world, AW: Atlanta world, SS: single-floor and single-ceiling.)
@@ -210,9 +180,9 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 |---------------------------------------------|----------|---------|-----------|----------------|
 | PanoContext (ECCV'14)                       | RGB      | 500     | Cuboid    | SUN360         |
 | 2D-3D-S (CVPR'18)                           | RGB-D    | 571     | Cuboid    | 2D-3D-S        |
-| [MatterportLayout][MatterportLayout] (2020) | RGB-D    | 2,295   | MW+SS     | Matterport     |
-| [LayoutMP3D][LayoutMP3D] (2020)             | RGB-D    | 2,505   | MW+SS     | Matterport     |
-| Structured3D (ECCV'20)                      | RGB-D    | 196,515 | AW+SS     | Structured3D   |
+| [MatterportLayout][MatterportLayout] (2020) | RGB-D    | 2295    | MW+SS     | Matterport     |
+| [LayoutMP3D][LayoutMP3D] (2020)             | RGB-D    | 2505    | MW+SS     | Matterport     |
+| Structured3D (ECCV'20)                      | RGB-D    | 196515  | AW+SS     | Structured3D   |
 
 * Single-Shot Cuboids: Geodesics-based End-to-end Manhattan Aligned Layout Estimation from Spherical Panoramas (CoRR'21) [[Project]](https://vcl3d.github.io/SingleShotCuboids/) [[Paper]](https://arxiv.org/abs/2102.03939) [[Code]](https://github.com/VCL3D/SingleShotCuboids)
 
@@ -236,8 +206,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Efficient 3D Room Shape Recovery From a Single Panorama (CVPR'16) [[Project]](http://cgcad.thss.tsinghua.edu.cn/yanghao/3droom/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_Efficient_3D_Room_CVPR_2016_paper.pdf) [[Code]](https://github.com/YANG-H/Panoramix)
 
-<a name="floorplan" />
-
 ## Floorplan
 
 * Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes (CoRR'20) [[Paper]](http://arxiv.org/abs/2003.07356)
@@ -260,17 +228,11 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * Raster-to-Vector: Revisiting Floorplan Transformation (ICCV'17) [[Project]](http://art-programmer.github.io/floorplan-transformation.html) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Raster-To-Vector_Revisiting_Floorplan_ICCV_2017_paper.pdf) [[Code]](https://github.com/art-programmer/FloorplanTransformation)
 
-<a name="primitive_detection" />
-
 ## Primitive Detection
-
-<a name="junction" />
 
 ### Junction
 
 * Manhattan Junction Catalogue for Spatial Reasoning of Indoor Scenes (CVPR'13) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Ramalingam_Manhattan_Junction_Catalogue_2013_CVPR_paper.pdf)
-
-<a name="line_segment" />
 
 ### Line Segment
 
@@ -296,8 +258,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * LSD: A Fast Line Segment Detector with a False Detection Control (TPAMI'10) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4731268)
 
-<a name="wireframe" />
-
 ### Wireframe
 
 * Holistically-Attracted Wireframe Parsing (CVPR'20) [[Paper]](https://arxiv.org/abs/2003.01663) [[Code]](https://github.com/cherubicXN/hawp)
@@ -309,8 +269,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * PPGNet: Learning Point-Pair Graph for Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/abs/1905.03415) [[Code]](https://github.com/svip-lab/PPGNet)
 
 * Learning to Parse Wireframes in Images of Man-Made Environments (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Learning_to_Parse_CVPR_2018_paper.pdf) [[Code]](https://github.com/huangkuns/wireframe)
-
-<a name="plane" />
 
 ### Plane
 
@@ -326,8 +284,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 
 * PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image (CVPR'18) [[Project]](https://www.cse.wustl.edu/~chenliu/planenet.html) [[Paper]](https://arxiv.org/abs/1804.06278) [[Code]](https://github.com/art-programmer/PlaneNet)
 
-<a name="cuboid" />
-
 ### Cuboid
 
 * Deep Cuboid Detection: Beyond 2D Bounding Boxes (CoRR'16) [[Paper]](https://arxiv.org/abs/1611.10010.pdf)
@@ -335,8 +291,6 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 * A Linear Approach to Matching Cuboids in RGBD Images (CVPR'13) [[Project]](https://vision.princeton.edu/projects/2013/RGBDcuboid/index.html) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Jiang_A_Linear_Approach_2013_CVPR_paper.pdf)
 
 * Localizing 3D Cuboids in Single-view Images (NIPS'12) [[Paper]](http://papers.nips.cc/paper/4842-localizing-3d-cuboids-in-single-view-images.pdf)
-
-<a name="others" />
 
 ### Others
 
@@ -348,4 +302,3 @@ Please feel free to [pull requests](https://github.com/bertjiazheng/awesome-scen
 [Matterport3D-Layout]: https://vsislab.github.io/Matterport3D-Layout/
 [MatterportLayout]: https://github.com/ericsujw/Matterport3DLayoutAnnotation
 [LayoutMP3D]: https://github.com/fuenwang/LayoutMP3D
-
