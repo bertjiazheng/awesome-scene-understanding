@@ -88,7 +88,7 @@ A list of awesome scene understanding papers.
 
 * 3D Object Detection from a Single RGB Image via Perspective Points (NIPS'19) [[Paper]](https://papers.nips.cc/paper/9093-perspectivenet-3d-object-detection-from-a-single-rgb-image-via-perspective-points.pdf)
 
-* Hoilistc++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commensense (ICCV'19) [[Project]](https://yixchen.github.io/holisticpp/) [[Paper]](https://arxiv.org/abs/1909.01507) [[Code]](https://github.com/yixchen/holistic_scene_human)
+* Hoilistc++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense (ICCV'19) [[Project]](https://yixchen.github.io/holisticpp/) [[Paper]](https://arxiv.org/abs/1909.01507) [[Code]](https://github.com/yixchen/holistic_scene_human)
 
 * Complete 3D Scene Parsing from an RGBD Image (IJCV'18) [[Paper]](https://arxiv.org/abs/1710.09490)
 
