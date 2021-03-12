@@ -84,6 +84,8 @@ A list of awesome scene understanding papers.
 
 ### Perspective Image
 
+* Holistic 3D Scene Understanding from a Single Image with Implicit Representation (CoRR'21) [[Paper]](https://arxiv.org/abs/2103.06422)
+
 * Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image (CVPR'20) [[Paper]](https://arxiv.org/abs/2002.12212) [[Code]](https://github.com/yinyunie/Total3DUnderstanding)
 
 * 3D Object Detection from a Single RGB Image via Perspective Points (NIPS'19) [[Paper]](https://papers.nips.cc/paper/9093-perspectivenet-3d-object-detection-from-a-single-rgb-image-via-perspective-points.pdf)
