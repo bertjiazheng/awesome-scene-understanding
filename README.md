@@ -2,6 +2,8 @@
 
 A list of awesome scene understanding papers.
 
+## Workshops and Tutorials
+
 * Holistic Scene Structures for 3D Vision (ECCV'20) [[Webpage]](https://holistic-3d.github.io/eccv20/) [[Challenge]](https://holistic-3d.github.io/eccv20/challenge.html)
 
 * Holistic 3D Reconstruction: Learning to Reconstruct Holistic 3D Structures from Sensorial Data (ICCV'19) [[Webpage]](https://holistic-3d.github.io/iccv19/) [[Resources]](https://github.com/holistic-3d/holistic-3d-resources)
@@ -165,6 +167,8 @@ A list of awesome scene understanding papers.
 | [MatterportLayout][MatterportLayout] (2020) | RGB-D    | 2295    | MW+SS     | Matterport     |
 | [LayoutMP3D][LayoutMP3D] (2020)             | RGB-D    | 2505    | MW+SS     | Matterport     |
 | Structured3D (ECCV'20)                      | RGB-D    | 196515  | AW+SS     | Structured3D   |
+
+* SSLayout360: Semi-Supervised Indoor Layout Estimation from 360 Panorama (CVPR'21) [[Paper]](https://arxiv.org/abs/2103.13696)
 
 * Single-Shot Cuboids: Geodesics-based End-to-end Manhattan Aligned Layout Estimation from Spherical Panoramas (CoRR'21) [[Project]](https://vcl3d.github.io/SingleShotCuboids/) [[Paper]](https://arxiv.org/abs/2102.03939) [[Code]](https://github.com/VCL3D/SingleShotCuboids)
 
