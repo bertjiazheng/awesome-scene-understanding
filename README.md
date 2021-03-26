@@ -2,26 +2,6 @@
 
 A list of awesome scene understanding papers.
 
-## Table of Contents
-
-* [Workshops and Tutorials](#Workshops-and-Tutorials)
-* [Survey](#survey)
-* [Dataset](#dataset)
-  + [Realistic Dataset](#Realistic-Dataset)
-  + [Synthetic Dataset](#Synthetic-Dataset)
-* [Holistic Scene Understanding](#Holistic-Scene-Understanding)
-* [Room Layout Estimation](#Room-Layout-Estimation)
-* [Floorplan](#Floorplan)
-* [Primitive Detection](#Primitive-Detection)
-  + [Junction](#Junction)
-  + [Line Segment](#Line-Segment)
-  + [Wireframe](#Wireframe)
-  + [Plane](#Plane)
-  + [Cuboid](#Cuboid)
-  + [Others](#Others)
-
-## Workshops and Tutorials
-
 * Holistic Scene Structures for 3D Vision (ECCV'20) [[Webpage]](https://holistic-3d.github.io/eccv20/) [[Challenge]](https://holistic-3d.github.io/eccv20/challenge.html)
 
 * Holistic 3D Reconstruction: Learning to Reconstruct Holistic 3D Structures from Sensorial Data (ICCV'19) [[Webpage]](https://holistic-3d.github.io/iccv19/) [[Resources]](https://github.com/holistic-3d/holistic-3d-resources)
