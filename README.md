@@ -258,7 +258,7 @@ A list of awesome scene understanding papers.
 
 ### Plane
 
-* Planar Surface Reconstruction From Sparse Views (CoRR'21) [[Paper]](https://arxiv.org/abs/2103.14644) [[Code]](https://github.com/jinlinyi/SparsePlanes)
+* Planar Surface Reconstruction From Sparse Views (CoRR'21) [[Project]](https://jinlinyi.github.io/SparsePlanes/) [[Paper]](https://arxiv.org/abs/2103.14644) [[Code]](https://github.com/jinlinyi/SparsePlanes)
 
 * Learning Pairwise Inter-Plane Relations for Piecewise Planar Reconstruction (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520324.pdf) [[Code]](https://github.com/yi-ming-qian/interplane)
 
