@@ -194,23 +194,29 @@ A list of awesome scene understanding papers.
 
 ## Floorplan
 
+### Point Cloud
+
+* MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans (CoRR'21) [[Paper]](https://arxiv.org/abs/2103.11161)
+
 * Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes (CoRR'20) [[Paper]](http://arxiv.org/abs/2003.07356)
 
+* Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path (ICCV'19) [[Project]](https://jcchen.me/floor-sp/) [[Paper]](https://arxiv.org/abs/1908.06702) [[Code]](https://github.com/woodfrog/floor-sp)
+
+* FloorNet: A unified framework for floorplan reconstruction from 3D scans (ECCV'18) [[Project]](http://art-programmer.github.io/floornet.html) [[Paper]](https://arxiv.org/abs/1804.00090) [[Code]](https://github.com/art-programmer/FloorNet)
+
+### Multi-view
+
 * Floorplan-Jigsaw: Jointly Estimating Scene Layout and Aligning Partial Scans (ICCV'19) [[Project]](https://enigma-li.github.io/projects/indoorRecons/floorplanJigsaw.html) [[Paper]](https://enigma-li.github.io/projects/indoorRecons/src/paper/floorplanJigsaw_ICCV2019.pdf)
+
+* DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences (CoRR'19) [[Paper]](https://arxiv.org/abs/1904.11595)
+
+### Image
 
 * HouseExpo: A Large-scale 2D Indoor Layout Dataset for Learning-based Algorithms on Mobile Robots (IROS'20) [[Paper]](https://arxiv.org/abs/1903.09845) [[Code]](https://github.com/TeaganLi/HouseExpo)
 
 * Deep Floor Plan Recognition using a Multi-task Network with Room-boundary-Guided Attention (ICCV'19) [[Project]](https://github.com/zlzeng/DeepFloorplan) [[Paper]](https://arxiv.org/abs/1908.11025)
 
-* Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path (ICCV'19) [[Project]](https://jcchen.me/floor-sp/) [[Paper]](https://arxiv.org/abs/1908.06702) [[Code]](https://github.com/woodfrog/floor-sp)
-
-* DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences (CoRR'19) [[Paper]](https://arxiv.org/abs/1904.11595)
-
 * CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis (CoRR'19) [[Paper]](https://arxiv.org/abs/1904.01920) [[Code]](https://github.com/CubiCasa/CubiCasa5k)
-
-* Floorplan Priors for Joint Camera Pose and Room Layout Estimation (CoRR'18) [[Paper]](https://arxiv.org/abs/1812.06677)
-
-* FloorNet: A unified framework for floorplan reconstruction from 3D scans (ECCV'18) [[Project]](http://art-programmer.github.io/floornet.html) [[Paper]](https://arxiv.org/abs/1804.00090) [[Code]](https://github.com/art-programmer/FloorNet)
 
 * Raster-to-Vector: Revisiting Floorplan Transformation (ICCV'17) [[Project]](http://art-programmer.github.io/floorplan-transformation.html) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Raster-To-Vector_Revisiting_Floorplan_ICCV_2017_paper.pdf) [[Code]](https://github.com/art-programmer/FloorplanTransformation)
 
