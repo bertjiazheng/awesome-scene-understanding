@@ -212,6 +212,8 @@ A list of awesome scene understanding papers.
 
 ### Image
 
+* Versailles-FP dataset: Wall Detection in Ancient Floor Plans (CoRR'21) [[Paper]](https://arxiv.org/abs/2103.08064)
+
 * HouseExpo: A Large-scale 2D Indoor Layout Dataset for Learning-based Algorithms on Mobile Robots (IROS'20) [[Paper]](https://arxiv.org/abs/1903.09845) [[Code]](https://github.com/TeaganLi/HouseExpo)
 
 * Deep Floor Plan Recognition using a Multi-task Network with Room-boundary-Guided Attention (ICCV'19) [[Project]](https://github.com/zlzeng/DeepFloorplan) [[Paper]](https://arxiv.org/abs/1908.11025)
