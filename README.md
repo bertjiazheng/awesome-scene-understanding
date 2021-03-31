@@ -230,7 +230,7 @@ A list of awesome scene understanding papers.
 
 ### Line Segment
 
-* Line Segment Detection Using Transformers without Edges (CoRR'21) [[Paper]](https://arxiv.org/abs/2101.01909)
+* Line Segment Detection Using Transformers without Edges (CVPR'21) [[Paper]](https://arxiv.org/abs/2101.01909)
 
 * LGNN: A Context-aware Line Segment Detector (ACM MM'20) [[Paper]](https://arxiv.org/abs/2008.05892)
 
