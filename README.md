@@ -168,6 +168,8 @@ A list of awesome scene understanding papers.
 | [LayoutMP3D][LayoutMP3D] (2020)             | RGB-D    | 2505    | MW+SS     | Matterport     |
 | Structured3D (ECCV'20)                      | RGB-D    | 196515  | AW+SS     | Structured3D   |
 
+* LED<sup>2</sup>-Net: Monocular 360˚ Layout Estimation via Differentiable Depth Rendering (CVPR'21) [[Project]](https://fuenwang.ml/project/led2net/) [[Code]](https://github.com/fuenwang/LED2-Net)
+
 * SSLayout360: Semi-Supervised Indoor Layout Estimation from 360 Panorama (CVPR'21) [[Paper]](https://arxiv.org/abs/2103.13696)
 
 * Single-Shot Cuboids: Geodesics-based End-to-end Manhattan Aligned Layout Estimation from Spherical Panoramas (CoRR'21) [[Project]](https://vcl3d.github.io/SingleShotCuboids/) [[Paper]](https://arxiv.org/abs/2102.03939) [[Code]](https://github.com/VCL3D/SingleShotCuboids)
