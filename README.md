@@ -1,6 +1,6 @@
 # Awesome Scene Understanding
 
-A list of awesome scene understanding papers.
+A list of papers for scene understanding.
 
 ## Workshops and Tutorials
 
