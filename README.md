@@ -44,7 +44,7 @@ A list of papers for scene understanding.
 
 ### Synthetic Dataset
 
-* 3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics (CoRR'20) [[Project]](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) [[Paper]](https://arxiv.org/abs/2011.09127) [[Code]](https://github.com/3D-FRONT-FUTURE/3D-FRONT-ToolBox)
+* 3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics (CoRR'20) [[Project]](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) [[Paper]](https://arxiv.org/abs/2011.09127) [[Code]](https://github.com/3D-FRONT-FUTURE/3D-FRONT-ToolBox) [[Rendering Tool]](https://github.com/alibaba/Trescope)
 
 * Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding (CoRR'20) [[Project]](https://mikeroberts3000.github.io/papers/hypersim) [[Paper]](https://arxiv.org/abs/2011.02523) [[Code]](https://github.com/apple/ml-hypersim)
 
