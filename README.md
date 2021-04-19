@@ -126,7 +126,7 @@ A list of papers for scene understanding.
 | [Matterport3D-Layout][Matterport3D-Layout] (ECCV'20) | RGB-D    | 7360    | PP     | Matterport                      |
 | Structured3D (ECCV'20)                               | RGB-D    | 82027   | AW+SS  | Structured3D                    |
 
-* Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image (CoRR'21) [[Code]](https://github.com/CYang0515/NonCuboidRoom)
+* Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image (CoRR'21) [[Paper]](https://arxiv.org/abs/2104.07986) [[Code]](https://github.com/CYang0515/NonCuboidRoom)
 
 * GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20) [[Paper]](https://arxiv.org/abs/2008.06286) [[Matterport3D Layout Dataset]][Matterport3D-Layout]
 
