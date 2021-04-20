@@ -170,7 +170,7 @@ A list of papers for scene understanding.
 | [LayoutMP3D][LayoutMP3D] (2020)             | RGB-D    | 2505    | MW+SS     | Matterport     |
 | Structured3D (ECCV'20)                      | RGB-D    | 196515  | AW+SS     | Structured3D   |
 
-* OmniLayout: Room Layout Reconstruction from Indoor Spherical Panoramas (CVPR Workshop'21) [[Paper]](https://arxiv.org/abs/2104.09403)
+* OmniLayout: Room Layout Reconstruction from Indoor Spherical Panoramas (CVPR Workshop'21) [[Paper]](https://arxiv.org/abs/2104.09403) [[Code]](https://github.com/rshivansh/OmniLayout)
 
 * LED<sup>2</sup>-Net: Monocular 360˚ Layout Estimation via Differentiable Depth Rendering (CVPR'21) [[Project]](https://fuenwang.ml/project/led2net/) [[Paper]](https://arxiv.org/abs/2104.00568) [[Code]](https://github.com/fuenwang/LED2-Net)
 
