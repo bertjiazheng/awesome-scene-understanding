@@ -260,6 +260,8 @@ A list of papers for scene understanding.
 
 ### Wireframe
 
+* Fully Convolutional Line Parsing (CoRR'21) [[Code]](https://github.com/Delay-Xili/F-Clip)
+
 * Holistically-Attracted Wireframe Parsing (CVPR'20) [[Paper]](https://arxiv.org/abs/2003.01663) [[Code]](https://github.com/cherubicXN/hawp)
 
 * Learning to Reconstruct 3D Manhattan Wireframes from a Single Image (ICCV'19) [[Paper]](https://arxiv.org/abs/1905.07482) [[Code]](https://github.com/zhou13/shapeunity)
