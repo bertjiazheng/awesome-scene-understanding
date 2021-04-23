@@ -234,7 +234,9 @@ A list of papers for scene understanding.
 
 * Manhattan Junction Catalogue for Spatial Reasoning of Indoor Scenes (CVPR'13) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Ramalingam_Manhattan_Junction_Catalogue_2013_CVPR_paper.pdf)
 
-### Line Segment
+### Line Segment and Wireframe
+
+* Fully Convolutional Line Parsing (CoRR'21) [[Paper]](https://arxiv.org/abs/2104.11207) [[Code]](https://github.com/Delay-Xili/F-Clip)
 
 * Line Segment Detection Using Transformers without Edges (CVPR'21) [[Paper]](https://arxiv.org/abs/2101.01909)
 
@@ -246,22 +248,6 @@ A list of papers for scene understanding.
 
 * Deep Hough Transform for Semantic Line Detection (ECCV'20) [[Paper]](https://arxiv.org/abs/2003.04676) [[Code]](https://github.com/Hanqer/deep-hough-transform)
 
-* Learning Attraction Field Representation for Robust Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/abs/1812.02122) [[Code]](https://github.com/cherubicXN/afm_cvpr2019)
-
-* Novel Single View Constraints for Manhattan 3D Line Reconstruction (3DV'18) [[Paper]](https://arxiv.org/abs/1810.03737)
-
-* A Novel Linelet-Based Representation for Line Segment Detection (TPAMI'18) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7926451)
-
-* MCMLSD: A Dynamic Programming Approach to Line Segment Detection (CVPR'17) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf)
-
-* Lifting 3D Manhattan Lines from a Single Image (ICCV'15) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6751171)
-
-* LSD: A Fast Line Segment Detector with a False Detection Control (TPAMI'10) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4731268)
-
-### Wireframe
-
-* Fully Convolutional Line Parsing (CoRR'21) [[Code]](https://github.com/Delay-Xili/F-Clip)
-
 * Holistically-Attracted Wireframe Parsing (CVPR'20) [[Paper]](https://arxiv.org/abs/2003.01663) [[Code]](https://github.com/cherubicXN/hawp)
 
 * Learning to Reconstruct 3D Manhattan Wireframes from a Single Image (ICCV'19) [[Paper]](https://arxiv.org/abs/1905.07482) [[Code]](https://github.com/zhou13/shapeunity)
@@ -270,7 +256,19 @@ A list of papers for scene understanding.
 
 * PPGNet: Learning Point-Pair Graph for Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/abs/1905.03415) [[Code]](https://github.com/svip-lab/PPGNet)
 
+* Learning Attraction Field Representation for Robust Line Segment Detection (CVPR'19) [[Paper]](https://arxiv.org/abs/1812.02122) [[Code]](https://github.com/cherubicXN/afm_cvpr2019)
+
+* Novel Single View Constraints for Manhattan 3D Line Reconstruction (3DV'18) [[Paper]](https://arxiv.org/abs/1810.03737)
+
 * Learning to Parse Wireframes in Images of Man-Made Environments (CVPR'18) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Learning_to_Parse_CVPR_2018_paper.pdf) [[Code]](https://github.com/huangkuns/wireframe)
+
+* A Novel Linelet-Based Representation for Line Segment Detection (TPAMI'18) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7926451)
+
+* MCMLSD: A Dynamic Programming Approach to Line Segment Detection (CVPR'17) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf)
+
+* Lifting 3D Manhattan Lines from a Single Image (ICCV'15) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6751171)
+
+* LSD: A Fast Line Segment Detector with a False Detection Control (TPAMI'10) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4731268)
 
 ### Plane
 
