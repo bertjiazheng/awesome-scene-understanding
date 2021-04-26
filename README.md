@@ -236,6 +236,8 @@ A list of papers for scene understanding.
 
 ### Line Segment and Wireframe
 
+Please refer to [Wireframe](https://github.com/Delay-Xili/Wireframe) to see more comprehensive review.
+
 * Fully Convolutional Line Parsing (CoRR'21) [[Paper]](https://arxiv.org/abs/2104.11207) [[Code]](https://github.com/Delay-Xili/F-Clip)
 
 * Line Segment Detection Using Transformers without Edges (CVPR'21) [[Paper]](https://arxiv.org/abs/2101.01909)
