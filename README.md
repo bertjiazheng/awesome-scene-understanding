@@ -4,6 +4,8 @@ A list of papers for scene understanding.
 
 ## Workshops and Tutorials
 
+* Holistic Structures for 3D Vision (ICCV'21) [[Webpage]](https://holistic-3d.github.io/iccv21/)
+
 * Holistic Scene Structures for 3D Vision (ECCV'20) [[Webpage]](https://holistic-3d.github.io/eccv20/) [[Challenge]](https://holistic-3d.github.io/eccv20/challenge.html)
 
 * Holistic 3D Reconstruction: Learning to Reconstruct Holistic 3D Structures from Sensorial Data (ICCV'19) [[Webpage]](https://holistic-3d.github.io/iccv19/) [[Resources]](https://github.com/holistic-3d/holistic-3d-resources)
