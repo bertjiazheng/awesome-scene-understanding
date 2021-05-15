@@ -50,7 +50,7 @@ A list of papers for scene understanding.
 
 * Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding (CoRR'20) [[Project]](https://mikeroberts3000.github.io/papers/hypersim) [[Paper]](https://arxiv.org/abs/2011.02523) [[Code]](https://github.com/apple/ml-hypersim)
 
-* OpenRooms: An End-to-End Open Framework for Photorealistic Indoor Scene Datasets (CoRR'20) [[Project]](https://ucsd-openrooms.github.io/) [[Paper]](https://arxiv.org/abs/2007.12868)
+* OpenRooms: An End-to-End Open Framework for Photorealistic Indoor Scene Datasets (CVPR'21) [[Project]](https://ucsd-openrooms.github.io/) [[Paper]](https://arxiv.org/abs/2007.12868)
 
 * Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling (ECCV'20) [[Project]](https://structured3d-dataset.org) [[Paper]](https://arxiv.org/abs/1908.00222) [[Code]](https://github.com/bertjiazheng/Structured3D)
 
