@@ -244,6 +244,8 @@ Please refer to [Wireframe](https://github.com/Delay-Xili/Wireframe) to see more
 
 * Fully Convolutional Line Parsing (CoRR'21) [[Paper]](https://arxiv.org/abs/2104.11207) [[Code]](https://github.com/Delay-Xili/F-Clip)
 
+* SOLD²: Self-supervised Occlusion-aware Line Description and Detection (CVPR'21) [[Paper]](https://arxiv.org/abs/2104.03362) [[Code]](https://github.com/cvg/SOLD2)
+
 * Line Segment Detection Using Transformers without Edges (CVPR'21) [[Paper]](https://arxiv.org/abs/2101.01909)
 
 * LGNN: A Context-aware Line Segment Detector (ACM MM'20) [[Paper]](https://arxiv.org/abs/2008.05892)
