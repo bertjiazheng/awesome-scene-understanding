@@ -250,6 +250,8 @@ Please refer to [Wireframe](https://github.com/Delay-Xili/Wireframe) to see more
 
 * Line Segment Detection Using Transformers without Edges (CVPR'21) [[Paper]](https://arxiv.org/abs/2101.01909)
 
+* PlueckerNet: Learn to Register 3D Line Reconstructions (CVPR'20) [[Paper]](https://arxiv.org/abs/2012.01096) [[Code]](https://github.com/Liumouliu/PlueckerNet)
+
 * LGNN: A Context-aware Line Segment Detector (ACM MM'20) [[Paper]](https://arxiv.org/abs/2008.05892)
 
 * TP-LSD: Tri-Points Based Line Segment Detector (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720766.pdf)
