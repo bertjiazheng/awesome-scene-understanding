@@ -171,7 +171,10 @@ A list of papers for scene understanding.
 | [MatterportLayout][MatterportLayout] (2020) | RGB-D    | 2295    | MW+SS     | Matterport     |
 | [LayoutMP3D][LayoutMP3D] (2020)             | RGB-D    | 2505    | MW+SS     | Matterport     |
 | Structured3D (ECCV'20)                      | RGB-D    | 196515  | AW+SS     | Structured3D   |
+| ZInD (CVPR'21)                              | RGB      | 71474   | AW+SS     | ZinD           |
 
+* Zillow Indoor Dataset: Annotated Floor Plans With 360deg Panoramas and 3D Room Layouts (CVPR'21) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper.pdf)
+ 
 * OmniLayout: Room Layout Reconstruction from Indoor Spherical Panoramas (CVPR Workshop'21) [[Paper]](https://arxiv.org/abs/2104.09403) [[Code]](https://github.com/rshivansh/OmniLayout)
 
 * LED<sup>2</sup>-Net: Monocular 360˚ Layout Estimation via Differentiable Depth Rendering (CVPR'21) [[Project]](https://fuenwang.ml/project/led2net/) [[Paper]](https://arxiv.org/abs/2104.00568) [[Code]](https://github.com/fuenwang/LED2-Net)
