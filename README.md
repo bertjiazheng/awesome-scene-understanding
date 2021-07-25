@@ -70,7 +70,7 @@ A list of papers for scene understanding.
 
 ### Perspective Image
 
-* Holistic 3D Scene Understanding from a Single Image with Implicit Representation (CoRR'21) [[Paper]](https://arxiv.org/abs/2103.06422)
+* Holistic 3D Scene Understanding from a Single Image with Implicit Representation (CVPR'21) [[Paper]](https://arxiv.org/abs/2103.06422)
 
 * Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image (CVPR'20) [[Paper]](https://arxiv.org/abs/2002.12212) [[Code]](https://github.com/yinyunie/Total3DUnderstanding)
 
