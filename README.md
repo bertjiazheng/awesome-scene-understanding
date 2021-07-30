@@ -289,6 +289,8 @@ Please refer to [Wireframe](https://github.com/Delay-Xili/Wireframe) to see more
 
 ### Plane
 
+* PlaneTR: Structure-Guided Transformers for 3D Plane Recovery (ICCV'21) [[Paper]](https://arxiv.org/abs/2107.13108) [[Code]](https://github.com/IceTTTb/PlaneTR3D)
+
 * Planar Surface Reconstruction From Sparse Views (ICCV'21) [[Project]](https://jinlinyi.github.io/SparsePlanes/) [[Paper]](https://arxiv.org/abs/2103.14644) [[Code]](https://github.com/jinlinyi/SparsePlanes)
 
 * Indoor Panorama Planar 3D Reconstruction via Divide and Conquer (CVPR'21) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Indoor_Panorama_Planar_3D_Reconstruction_via_Divide_and_Conquer_CVPR_2021_paper.pdf)
