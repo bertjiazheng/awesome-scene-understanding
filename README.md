@@ -225,6 +225,8 @@ A list of papers for scene understanding.
 
 ### Image
 
+* Residential floor plan recognition and reconstruction (CVPR'21) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Residential_Floor_Plan_Recognition_and_Reconstruction_CVPR_2021_paper.pdf)
+
 * Versailles-FP dataset: Wall Detection in Ancient Floor Plans (CoRR'21) [[Paper]](https://arxiv.org/abs/2103.08064)
 
 * HouseExpo: A Large-scale 2D Indoor Layout Dataset for Learning-based Algorithms on Mobile Robots (IROS'20) [[Paper]](https://arxiv.org/abs/1903.09845) [[Code]](https://github.com/TeaganLi/HouseExpo)
