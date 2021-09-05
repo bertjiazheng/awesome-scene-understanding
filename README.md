@@ -297,7 +297,7 @@ Please refer to [Wireframe](https://github.com/Delay-Xili/Wireframe) to see more
 
 * Planar Surface Reconstruction From Sparse Views (ICCV'21) [[Project]](https://jinlinyi.github.io/SparsePlanes/) [[Paper]](https://arxiv.org/abs/2103.14644) [[Code]](https://github.com/jinlinyi/SparsePlanes)
 
-* Indoor Panorama Planar 3D Reconstruction via Divide and Conquer (CVPR'21) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Indoor_Panorama_Planar_3D_Reconstruction_via_Divide_and_Conquer_CVPR_2021_paper.pdf)
+* Indoor Panorama Planar 3D Reconstruction via Divide and Conquer (CVPR'21) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Indoor_Panorama_Planar_3D_Reconstruction_via_Divide_and_Conquer_CVPR_2021_paper.pdf) [[Code]](https://github.com/sunset1995/PanoPlane360)
 
 * Learning Pairwise Inter-Plane Relations for Piecewise Planar Reconstruction (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520324.pdf) [[Code]](https://github.com/yi-ming-qian/interplane)
 
