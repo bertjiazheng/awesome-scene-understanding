@@ -211,7 +211,7 @@ A list of papers for scene understanding.
 
 ### Point Cloud
 
-* MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans (CoRR'21) [[Paper]](https://arxiv.org/abs/2103.11161)
+* MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans (ICCV'21) [[Paper]](https://arxiv.org/abs/2103.11161)
 
 * Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes (CoRR'20) [[Paper]](http://arxiv.org/abs/2003.07356)
 
