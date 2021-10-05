@@ -134,6 +134,8 @@ A list of papers for scene understanding.
 
 * Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image (WACV'22) [[Paper]](https://arxiv.org/abs/2104.07986) [[Code]](https://github.com/CYang0515/NonCuboidRoom)
 
+* RoomStructNet: Learning to Rank Non-Cuboidal Room Layouts From Single View (CoRR'21) [[Paper]](https://arxiv.org/abs/2110.00644)
+
 * GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20) [[Paper]](https://arxiv.org/abs/2008.06286) [[Matterport3D Layout Dataset]][Matterport3D-Layout]
 
 * Structural Deep Metric Learning for Room Layout Estimation (ECCV'20) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630715.pdf)
