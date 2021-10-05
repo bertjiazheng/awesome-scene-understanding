@@ -253,9 +253,9 @@ Please refer to [Wireframe](https://github.com/Delay-Xili/Wireframe) to see more
 
 * Towards Real-time and Light-weight Line Segment Detection (CoRR'21) [[Paper]](https://arxiv.org/abs/2106.00186) [[Code]](https://github.com/navervision/mlsd)
 
-* ELSD: Efficient Line Segment Detector and Descriptor (CoRR'21) [[Paper]](https://arxiv.org/abs/2104.14205)
-
 * Fully Convolutional Line Parsing (CoRR'21) [[Paper]](https://arxiv.org/abs/2104.11207) [[Code]](https://github.com/Delay-Xili/F-Clip)
+
+* ELSD: Efficient Line Segment Detector and Descriptor (ICCV'21) [[Paper]](https://arxiv.org/abs/2104.14205)
 
 * SOLD²: Self-supervised Occlusion-aware Line Description and Detection (CVPR'21) [[Paper]](https://arxiv.org/abs/2104.03362) [[Code]](https://github.com/cvg/SOLD2)
 
