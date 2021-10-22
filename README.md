@@ -297,6 +297,8 @@ Please refer to [Wireframe](https://github.com/Delay-Xili/Wireframe) to see more
 
 ### Plane
 
+* PlaneRecNet: Multi-Task Learning with Cross-Task Consistency for Piece-Wise Plane Detection and Reconstruction from a Single RGB Image (BMVC'21) [[Paper]](https://arxiv.org/abs/2110.11219) [[Code]](https://github.com/EryiXie/PlaneRecNet)
+
 * PlaneTR: Structure-Guided Transformers for 3D Plane Recovery (ICCV'21) [[Paper]](https://arxiv.org/abs/2107.13108) [[Code]](https://github.com/IceTTTb/PlaneTR3D)
 
 * Planar Surface Reconstruction From Sparse Views (ICCV'21) [[Project]](https://jinlinyi.github.io/SparsePlanes/) [[Paper]](https://arxiv.org/abs/2103.14644) [[Code]](https://github.com/jinlinyi/SparsePlanes)
