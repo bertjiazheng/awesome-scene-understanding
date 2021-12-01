@@ -253,6 +253,8 @@ A list of papers for scene understanding.
 
 Please refer to [Wireframe](https://github.com/Delay-Xili/Wireframe) to see more comprehensive review.
 
+* Hole-robust Wireframe Detection (WACV'22) [[Paper]](https://arxiv.org/abs/2111.15064)
+
 * Towards Real-time and Light-weight Line Segment Detection (CoRR'21) [[Paper]](https://arxiv.org/abs/2106.00186) [[Code]](https://github.com/navervision/mlsd)
 
 * Fully Convolutional Line Parsing (CoRR'21) [[Paper]](https://arxiv.org/abs/2104.11207) [[Code]](https://github.com/Delay-Xili/F-Clip)
