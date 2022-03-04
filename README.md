@@ -179,6 +179,8 @@ A list of papers for scene understanding.
 | Structured3D (ECCV'20)                      | RGB-D    | 196515  | AW+SS     | Structured3D   |
 | [ZInD](Zind) (CVPR'21)                      | RGB      | 71474   | AW+SS     | ZinD           |
 
+* LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network (CVPR'22) [[Paper]](https://arxiv.org/abs/2203.01824)
+
 * Transferable End-to-end Room Layout Estimation via Implicit Encoding (CoRR'21) [[Paper]](https://arxiv.org/abs/2112.11340) [[Project]](https://sites.google.com/view/transferrl/)
 
 * Zillow Indoor Dataset: Annotated Floor Plans With 360˚ Panoramas and 3D Room Layouts (CVPR'21) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper.pdf) [[Code]](https://github.com/zillow/zind)
