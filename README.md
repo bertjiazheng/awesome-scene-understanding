@@ -179,6 +179,8 @@ A list of papers for scene understanding.
 | Structured3D (ECCV'20)                      | RGB-D    | 196515  | AW+SS     | Structured3D   |
 | [ZInD](Zind) (CVPR'21)                      | RGB      | 71474   | AW+SS     | ZinD           |
 
+* Self-supervised 360˚ Room Layout Estimation (CoRR'22) [[Paper]](https://arxiv.org/abs/2203.16057) [[Code]](https://github.com/joshua049/Stereo-360-Layout)
+
 * LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network (CVPR'22) [[Paper]](https://arxiv.org/abs/2203.01824)
 
 * Transferable End-to-end Room Layout Estimation via Implicit Encoding (CoRR'21) [[Paper]](https://arxiv.org/abs/2112.11340) [[Project]](https://sites.google.com/view/transferrl/)
