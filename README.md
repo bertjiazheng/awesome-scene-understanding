@@ -231,6 +231,8 @@ A list of papers for scene understanding.
 
 ### Multi-view
 
+* MVLayoutNet: 3D Layout Reconstruction with Multi-View Panoramas (CoRR'21) [[Paper]](https://arxiv.org/abs/2112.06133)
+
 * Extreme Structure From Motion for Indoor Panoramas Without Visual Overlaps (ICCV'21) [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shabani_Extreme_Structure_From_Motion_for_Indoor_Panoramas_Without_Visual_Overlaps_ICCV_2021_paper.pdf)] [[Code](https://github.com/aminshabani/extreme-indoor-sfm)]
 
 * Floorplan-Jigsaw: Jointly Estimating Scene Layout and Aligning Partial Scans (ICCV'19) [[Project]](https://enigma-li.github.io/projects/indoorRecons/floorplanJigsaw.html) [[Paper]](https://enigma-li.github.io/projects/indoorRecons/src/paper/floorplanJigsaw_ICCV2019.pdf)
