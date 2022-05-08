@@ -269,7 +269,7 @@ Please refer to [Wireframe](https://github.com/Delay-Xili/Wireframe) to see more
 
 * Hole-robust Wireframe Detection (WACV'22) [[Paper]](https://arxiv.org/abs/2111.15064)
 
-* Fully Convolutional Line Parsing (CoRR'21) [[Paper]](https://arxiv.org/abs/2104.11207) [[Code]](https://github.com/Delay-Xili/F-Clip)
+* Fully Convolutional Line Parsing (Neurocomputing'22) [[Paper]](https://arxiv.org/abs/2104.11207) [[Code]](https://github.com/Delay-Xili/F-Clip)
 
 * ELSD: Efficient Line Segment Detector and Descriptor (ICCV'21) [[Paper]](https://arxiv.org/abs/2104.14205)
 
