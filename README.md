@@ -2,6 +2,12 @@
 
 A curated list of awesome scene understanding papers, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
+## Related Resources
+
+* [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
+* [awesome-planar-reconstruction](https://github.com/chenzhaiyu/awesome-planar-reconstruction)
+* [Wireframe](https://github.com/Delay-Xili/Wireframe)
+
 ## Workshops and Tutorials
 
 * Holistic Structures for 3D Vision (ECCV'22) [[Webpage]](https://holistic-3d.github.io/eccv22/)
@@ -262,8 +268,6 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 * Manhattan Junction Catalogue for Spatial Reasoning of Indoor Scenes (CVPR'13) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Ramalingam_Manhattan_Junction_Catalogue_2013_CVPR_paper.pdf)
 
 ### Line Segment and Wireframe
-
-Please refer to [Wireframe](https://github.com/Delay-Xili/Wireframe) to see more comprehensive review.
 
 * Towards Real-time and Light-weight Line Segment Detection (AAAI'22) [[Paper]](https://arxiv.org/abs/2106.00186) [[Code]](https://github.com/navervision/mlsd)
 
