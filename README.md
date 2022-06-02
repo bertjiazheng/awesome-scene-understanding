@@ -140,6 +140,8 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [Matterport3D-Layout][Matterport3D-Layout] (ECCV'20) | RGB-D    | 7360    | PP     | Matterport                      |
 | Structured3D (ECCV'20)                               | RGB-D    | 82027   | AW+SS  | Structured3D                    |
 
+* Semantic Room Wireframe Detection from a Single View (ICPR'22) [[Paper]](https://arxiv.org/abs/2206.00491) [[Code]](https://github.com/DavidGillsjo/SRW-Net)
+
 * Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image (WACV'22) [[Paper]](https://arxiv.org/abs/2104.07986) [[Code]](https://github.com/CYang0515/NonCuboidRoom)
 
 * RoomStructNet: Learning to Rank Non-Cuboidal Room Layouts From Single View (CoRR'21) [[Paper]](https://arxiv.org/abs/2110.00644)
