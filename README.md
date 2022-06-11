@@ -263,7 +263,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 * Raster-to-Vector: Revisiting Floorplan Transformation (ICCV'17) [[Project]](http://art-programmer.github.io/floorplan-transformation.html) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Raster-To-Vector_Revisiting_Floorplan_ICCV_2017_paper.pdf) [[Code]](https://github.com/art-programmer/FloorplanTransformation)
 
-## Primitive Detection
+## Primitive
 
 ### Junction
 
@@ -352,6 +352,16 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 * Bottom-Up/Top-Down Image Parsing with Attribute Grammar (TPAMI'09) [[Paper]](http://www.stat.ucla.edu/~sczhu/papers/PAMI_Grammar_rectangle.pdf)
 
 * Detection and Matching of Rectilinear Structures (CVPR'08) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.330.89&rep=rep1&type=pdf)
+
+## Vanishing Point
+
+* Transformer Based Line Segment Classifier with Image Context for Real-Time Vanishing Point Detection in Manhattan World	(CVPR'22) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tong_Transformer_Based_Line_Segment_Classifier_With_Image_Context_for_Real-Time_CVPR_2022_paper.pdf)
+
+* Deep Vanishing Point Detection: Geometric Priors Make Dataset Variations Vanish	(CVPR'22) [[Paper]](https://arxiv.org/abs/2203.08586)
+
+* NeurVPS: Neural Vanishing Point Scanning via Conic Convolution	(NeurIPS'21) [[Paper]](https://arxiv.org/abs/1910.06316)
+
+* VaPiD: A Rapid Vanishing Point Detector via Learned Optimizers	(ICCV'21) [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_VaPiD_A_Rapid_Vanishing_Point_Detector_via_Learned_Optimizers_ICCV_2021_paper.pdf)
 
 [ScanNet-Layout]: https://github.com/vevenom/ScanNet-Layout
 [Matterport3D-Layout]: https://vsislab.github.io/Matterport3D-Layout/
