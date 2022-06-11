@@ -195,6 +195,8 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 * LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network (CVPR'22) [[Paper]](https://arxiv.org/abs/2203.01824)
 
+* Deep3DLayout: 3D Reconstruction of an Indoor Layout from a Spherical Panoramic Image (SIGGRAPH Asia'21) [[Project]](http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2021:D3R%27)
+
 * Transferable End-to-end Room Layout Estimation via Implicit Encoding (CoRR'21) [[Paper]](https://arxiv.org/abs/2112.11340) [[Project]](https://sites.google.com/view/transferrl/)
 
 * Zillow Indoor Dataset: Annotated Floor Plans With 360˚ Panoramas and 3D Room Layouts (CVPR'21) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper.pdf) [[Code]](https://github.com/zillow/zind)
