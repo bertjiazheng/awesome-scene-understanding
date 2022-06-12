@@ -251,7 +251,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding](https://arxiv.org/abs/1902.09777) | CVPR 2019 | [[code]](https://github.com/svip-lab/PlanarReconstruction) |
 | [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://arxiv.org/abs/1812.04072) | CVPR 2019 | [[project]](https://research.nvidia.com/publication/2019-06_PlaneRCNN) [[code]](https://github.com/NVlabs/planercnn) |
 | [Recovering 3D Planes from a Single Image via Convolutional Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fengting_Yang_Recovering_3D_Planes_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/fuy34/planerecover) |
-| [PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image](https://arxiv.org/abs/1804.06278) | CVPR 2018 | [[project]](https://www.cse.wustl.edu/~chenliu/planenet.html) [[Paper]]() [[code]](https://github.com/art-programmer/PlaneNet) |
+| [PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image](https://arxiv.org/abs/1804.06278) | CVPR 2018 | [[project]](https://www.cse.wustl.edu/~chenliu/planenet.html) [[code]](https://github.com/art-programmer/PlaneNet) |
 
 ## Vanishing Point
 
