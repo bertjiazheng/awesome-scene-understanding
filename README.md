@@ -4,11 +4,11 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 ## Related Resources
 
-* [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
+* [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
 
 * [Holistic 3D Reconstruction](https://github.com/holistic-3d/holistic-3d-resources)
 
-* [awesome-planar-reconstruction](https://github.com/chenzhaiyu/awesome-planar-reconstruction)
+* [Awesome Planar Reconstruction](https://github.com/chenzhaiyu/awesome-planar-reconstruction)
 
 * [Wireframe](https://github.com/Delay-Xili/Wireframe)
 
