@@ -182,7 +182,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path](https://arxiv.org/abs/1908.06702) | ICCV 2019 | [[project]](https://jcchen.me/floor-sp/) [[code]](https://github.com/woodfrog/floor-sp) |
 | [FloorNet: A unified framework for floorplan reconstruction from 3D scans](https://arxiv.org/abs/1804.00090) | ECCV 2018 | [[project]](http://art-programmer.github.io/floornet.html) [[code]](https://github.com/art-programmer/FloorNet) |
 
-### Multi-view
+### Multiple Views
 
 | Papers | Venue | Links |
 |--------|-------|-------|
@@ -192,7 +192,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [Floorplan-Jigsaw: Jointly Estimating Scene Layout and Aligning Partial Scans](https://arxiv.org/abs/1812.06677) | ICCV 2019 | [[project]](https://enigma-li.github.io/projects/indoorRecons/floorplanJigsaw.html) |
 | [DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences]() | CoRR 2019 | - |
 
-### Image
+### Top-view Image
 
 | Papers | Venue | Links |
 |--------|-------|-------|
@@ -241,7 +241,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos](https://openaccess.thecvf.com/content/CVPR2022/html/Xie_PlanarRecon_Real-Time_3D_Plane_Detection_and_Reconstruction_From_Posed_Monocular_CVPR_2022_paper.html) | CVPR 2022 | - |
+| [PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos](https://arxiv.org/abs/2206.07710) | CVPR 2022 | [[Project]](https://neu-vi.github.io/planarrecon/) |
 | [PlaneRecNet: Multi-Task Learning with Cross-Task Consistency for Piece-Wise Plane Detection and Reconstruction from a Single RGB Image](https://arxiv.org/abs/2110.11219) | BMVC 2021 | [[code]](https://github.com/EryiXie/PlaneRecNet) |
 | [PlaneTR: Structure-Guided Transformers for 3D Plane Recovery](https://arxiv.org/abs/2107.13108) | ICCV 2021 | [[code]](https://github.com/IceTTTb/PlaneTR3D) |
 ｜ [Planar Surface Reconstruction From Sparse Views](https://arxiv.org/abs/2103.14644) | ICCV 2021 | [[project]](https://jinlinyi.github.io/SparsePlanes/) [[code]](https://github.com/jinlinyi/SparsePlanes)
