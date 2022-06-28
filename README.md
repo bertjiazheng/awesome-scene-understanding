@@ -237,6 +237,16 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [Lifting 3D Manhattan Lines from a Single Image](https://openaccess.thecvf.com/content_iccv_2013/papers/Ramalingam_Lifting_3D_Manhattan_2013_ICCV_paper.pdf) | ICCV 2013 | - |
 | [LSD: A Fast Line Segment Detector with a False Detection Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4731268) | TPAMI 2010 | - |
 
+### Outdoor Architecture
+
+| Papers | Venue | Links |
+|--------|-------|-------|
+| [HEAT: Holistic Edge Attention Transformer for Structured Reconstruction](https://arxiv.org/abs/2111.15143) | CVPR 2022 | [[Project]](https://heat-structured-reconstruction.github.io/) |
+| [Structured Outdoor Architecture Reconsruction by Exploration and Classification](https://arxiv.org/abs/2108.07990) | ICCV 2021 | [[Project]](https://zhangfuyang.github.io/expcls/) |
+| [Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses](https://arxiv.org/abs/2012.09340) | CVPR 2021 | [[Project]](https://github.com/yi-ming-qian/roofgan) |
+| [Vectorizing World Buildings: Planar Graph Reconstruction by Primitive Detection and Relationship Inference](https://arxiv.org/abs/1912.05135) | ECCV 2020 | [[Project]](https://ennauata.github.io/buildings2vec/page.html) |
+| [Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://arxiv.org/abs/1912.01756) | CVPR 2020 | [[Project]](https://zhangfuyang.github.io/convmpn/) |
+
 ### Plane
 
 | Papers | Venue | Links |
@@ -261,16 +271,6 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [Deep Vanishing Point Detection: Geometric Priors Make Dataset Variations Vanish](https://arxiv.org/abs/2203.08586) | CVPR 2022 | - | 
 | [VaPiD: A Rapid Vanishing Point Detector via Learned Optimizers](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_VaPiD_A_Rapid_Vanishing_Point_Detector_via_Learned_Optimizers_ICCV_2021_paper.pdf) | ICCV 2021 | - |
 | [NeurVPS: Neural Vanishing Point Scanning via Conic Convolution](https://arxiv.org/abs/1910.06316) | NeurIPS 2021 | [[Code]](https://github.com/zhou13/neurvps) |
-
-## Outdoor Architecture
-
-| Papers | Venue | Links |
-|--------|-------|-------|
-| [HEAT: Holistic Edge Attention Transformer for Structured Reconstruction](https://arxiv.org/abs/2111.15143) | CVPR 2022 | [[Project]](https://heat-structured-reconstruction.github.io/) |
-| [Structured Outdoor Architecture Reconsruction by Exploration and Classification](https://arxiv.org/abs/2108.07990) | ICCV 2021 | [[Project]](https://zhangfuyang.github.io/expcls/) |
-| [Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses](https://arxiv.org/abs/2012.09340) | CVPR 2021 | [[Project]](https://github.com/yi-ming-qian/roofgan) |
-| [Vectorizing World Buildings: Planar Graph Reconstruction by Primitive Detection and Relationship Inference](https://arxiv.org/abs/1912.05135) | ECCV 2020 | [[Project]](https://ennauata.github.io/buildings2vec/page.html) |
-| [Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://arxiv.org/abs/1912.01756) | CVPR 2020 | [[Project]](https://zhangfuyang.github.io/convmpn/) |
 
 [ScanNet-Layout]: https://github.com/vevenom/ScanNet-Layout
 [Matterport3D-Layout]: https://vsislab.github.io/Matterport3D-Layout/
