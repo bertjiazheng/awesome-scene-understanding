@@ -243,7 +243,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 |--------|-------|-------|
 | [HEAT: Holistic Edge Attention Transformer for Structured Reconstruction](https://arxiv.org/abs/2111.15143) | CVPR 2022 | [[Project]](https://heat-structured-reconstruction.github.io/) |
 | [Structured Outdoor Architecture Reconsruction by Exploration and Classification](https://arxiv.org/abs/2108.07990) | ICCV 2021 | [[Project]](https://zhangfuyang.github.io/expcls/) |
-| [Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses](https://arxiv.org/abs/2012.09340) | CVPR 2021 | [[Project]](https://github.com/yi-ming-qian/roofgan) |
+| [Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses](https://arxiv.org/abs/2012.09340) | CVPR 2021 | [[Code]](https://github.com/yi-ming-qian/roofgan) |
 | [Vectorizing World Buildings: Planar Graph Reconstruction by Primitive Detection and Relationship Inference](https://arxiv.org/abs/1912.05135) | ECCV 2020 | [[Project]](https://ennauata.github.io/buildings2vec/page.html) |
 | [Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://arxiv.org/abs/1912.01756) | CVPR 2020 | [[Project]](https://zhangfuyang.github.io/convmpn/) |
 
