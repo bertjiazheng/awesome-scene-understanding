@@ -123,7 +123,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [Structural Deep Metric Learning for Room Layout Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630715.pdf) | ECCV 2020 | - |
 | [General 3D Room Layout from a Single View by Render-and-Compare](http://arxiv.org/abs/2001.02149) | ECCV 2020 | [[project]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/general-3d-room-layout-from-a-single-view-by-render-and-compare/) [[ScanNet-Layout Dataset]][ScanNet-Layout] [[code]](https://github.com/vevenom/RoomLayout3D_RandC) |
 | [Smart Hypothesis Generation for Efficient and Robust Room Layout Estimation](https://arxiv.org/abs/1910.12257) | WACV 2020 | - |
-| [Flat2Layout: Flat Representation for Estimating Layout of General Room Types](https://arxiv.org/abs/1903.08094) | CoRR 2019 | - |
+| [Flat2Layout: Flat Representation for Estimating Layout of General Room Types](https://arxiv.org/abs/1905.12571) | CoRR 2019 | - |
 | [Thinking Outside the Box: Generation of Unconstrained 3D Room Layouts](https://arxiv.org/abs/1905.03105) | ACCV 2018 | - |
 | [RoomNet: End-to-End Room Layout Estimation](https://arxiv.org/abs/1703.06241) | ICCV 2017 | - |
 | [Physics Inspired Optimization on Semantic Transfer Features: An Alternative Method for Room Layout Estimation](https://arxiv.org/abs/1707.00383) | CVPR 2017 | [[project]](https://sites.google.com/view/st-pio/) |
