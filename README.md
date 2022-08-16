@@ -117,7 +117,6 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Semantic Room Wireframe Detection from a Single View](https://arxiv.org/abs/2206.00491) | ICPR 2022 | [[code]](https://github.com/DavidGillsjo/SRW-Net) |
 | [Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image](https://arxiv.org/abs/2104.07986) | WACV 2022 | [[code]](https://github.com/CYang0515/NonCuboidRoom) |
 | [RoomStructNet: Learning to Rank Non-Cuboidal Room Layouts From Single View](https://arxiv.org/abs/2110.00644) | CoRR 2021 | - |
 | [GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes](https://arxiv.org/abs/2008.06286) | ECCV 2020 | [[Matterport3D Layout Dataset]][Matterport3D-Layout]
@@ -216,6 +215,8 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [HoW-3D: Holistic 3D Wireframe Perception from a Single Image](https://arxiv.org/abs/2208.06999) | 3DV 2022 | [[Code]](https://github.com/Wenchao-M/HoW-3D) |
+| [Semantic Room Wireframe Detection from a Single View](https://arxiv.org/abs/2206.00491) | ICPR 2022 | [[code]](https://github.com/DavidGillsjo/SRW-Net) |
 | [Towards Real-time and Light-weight Line Segment Detection](https://arxiv.org/abs/2106.00186) | AAAI 2022 | [[code]](https://github.com/navervision/mlsd) |
 | [Hole-robust Wireframe Detection](https://arxiv.org/abs/2111.15064) | WACV 2022 | - |
 | [Fully Convolutional Line Parsing](https://arxiv.org/abs/2104.11207) | Neurocomputing 2022 | [[code]](https://github.com/Delay-Xili/F-Clip) |
