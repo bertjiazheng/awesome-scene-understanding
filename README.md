@@ -26,7 +26,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments](http://vic.crs4.it/data/papers/eg2020-star-indoor.pdf) | Computer Graphics Forum 2020 | [[project]](http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:SI3%27) |
+| [State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments](http://vic.crs4.it/data/papers/eg2020-star-indoor.pdf) | CGF 2020 | [[project]](http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:SI3%27) |
 | [Indoor Scene Understanding in 2.5/3D for Autonomous Agents: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8573760&tag=1) | IEEE Access 2019 | - |
 | [RGBD Datasets: Past, Present and Future](https://arxiv.org/abs/1604.00999) | CVPR Workshop 2016 | [[project]](http://www.michaelfirman.co.uk/RGBDdatasets/) |
 
@@ -53,7 +53,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis](https://arxiv.org/abs/2107.06149) | PG 2022 | [[project]](https://coohom.github.io/MINERVAS/) |
+| [MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis](https://arxiv.org/abs/2107.06149) | CGF 2022 | [[project]](https://coohom.github.io/MINERVAS/) |
 | [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://arxiv.org/abs/2011.09127) | ICCV 2021 | [[project]](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) |
 | [Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding](https://arxiv.org/abs/2011.02523) | ICCV 2021 | [[project]](https://mikeroberts3000.github.io/papers/hypersim) |
 | [OpenRooms: An End-to-End Open Framework for Photorealistic Indoor Scene Datasets](https://arxiv.org/abs/2007.12868) | CVPR 2021 | [[project]](https://ucsd-openrooms.github.io/) |
