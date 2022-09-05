@@ -6,7 +6,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
 
-* [Holistic 3D Reconstruction](https://github.com/holistic-3d/holistic-3d-resources)
+* [Awesome Holistic 3D](https://github.com/holistic-3d/awesome-holistic-3d)
 
 * [Awesome Planar Reconstruction](https://github.com/chenzhaiyu/awesome-planar-reconstruction)
 
