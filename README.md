@@ -187,6 +187,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network](https://arxiv.org/abs/2210.11419) | CoRR 2022 | - |
 | [Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades](https://arxiv.org/abs/2206.00645) | CVPR 2022 | - |
 | [MVLayoutNet: 3D Layout Reconstruction with Multi-View Panoramas](https://arxiv.org/abs/2112.06133) | CoRR 2021 | - |
 | [Extreme Structure From Motion for Indoor Panoramas Without Visual Overlaps](https://openaccess.thecvf.com/content/ICCV2021/papers/Shabani_Extreme_Structure_From_Motion_for_Indoor_Panoramas_Without_Visual_Overlaps_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/aminshabani/extreme-indoor-sfm)] |
