@@ -70,6 +70,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Holistically-Attracted Wireframe Parsing: From Supervised to Self-Supervised Learning](https://arxiv.org/abs/2210.12971) | CoRR 2022 | - |
 | [Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes](https://arxiv.org/abs/2207.08656) | ECCV 2022 | [[project]](https://unclemedm.github.io/InstPIFu/) |
 | [Holistic 3D Scene Understanding from a Single Image with Implicit Representation](https://arxiv.org/abs/2103.06422) | CVPR 2021 | [[project]](https://chengzhag.github.io/publication/im3d/) [[code]](https://github.com/chengzhag/Implicit3DUnderstanding) |
 | [Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image](https://arxiv.org/abs/2002.12212) | CVPR 2020 | [[code]](https://github.com/yinyunie/Total3DUnderstanding) |
