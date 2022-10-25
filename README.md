@@ -152,12 +152,16 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | Papers | Venue | Links |
 |--------|-------|-------|
 | [360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning](https://arxiv.org/abs/2210.12935) | NeurIPS 2022 | [[Project](https://enriquesolarte.github.io/360-mlc/)] |
+| [GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network](https://arxiv.org/abs/2210.11419) | CoRR 2022 | - |
 | [3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform](https://arxiv.org/abs/2207.09291) | ECCV 2022 | [[Code]](https://github.com/Starrah/DMH-Net) | 
+| [Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades](https://arxiv.org/abs/2206.00645) | CVPR 2022 | - |
 | [3D Room Layout Recovery Generalizing across Manhattan and Non-Manhattan Worlds](https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Jia_3D_Room_Layout_Recovery_Generalizing_Across_Manhattan_and_Non-Manhattan_Worlds_CVPRW_2022_paper.pdf) | CVPR 2022 | - |
 | [PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation](https://arxiv.org/abs/2203.15965) | CVPR 2022 | - |
 | [Self-supervised 360˚ Room Layout Estimation](https://arxiv.org/abs/2203.16057) | CoRR 2022 | [[code]](https://github.com/joshua049/Stereo-360-Layout)
 | [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network](https://arxiv.org/abs/2203.01824) | CVPR 2022 | - |
 | [Deep3DLayout: 3D Reconstruction of an Indoor Layout from a Spherical Panoramic Image](http://publications.crs4.it/pubdocs/2021/PAAG21/sigasia2021-deep3dlayout.pdf) | SIGGRAPH Asia 2021 | [[project]](http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2021:D3R%27) |
+| [Extreme Structure From Motion for Indoor Panoramas Without Visual Overlaps](https://openaccess.thecvf.com/content/ICCV2021/papers/Shabani_Extreme_Structure_From_Motion_for_Indoor_Panoramas_Without_Visual_Overlaps_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/aminshabani/extreme-indoor-sfm)] |
+| [MVLayoutNet: 3D Layout Reconstruction with Multi-View Panoramas](https://arxiv.org/abs/2112.06133) | CoRR 2021 | - |
 | [Transferable End-to-end Room Layout Estimation via Implicit Encoding](https://arxiv.org/abs/2112.11340) | CoRR 2021 | [[project]](https://sites.google.com/view/transferrl/)
 | [OmniLayout: Room Layout Reconstruction from Indoor Spherical Panoramas](https://arxiv.org/abs/2104.09403) | CVPR Workshop 2021 | [[code]](https://github.com/rshivansh/OmniLayout)
 | [LED<sup>2</sup>-Net: Monocular 360˚ Layout Estimation via Differentiable Depth Rendering](https://arxiv.org/abs/2104.00568) | CVPR 2021 | [[project]](https://fuenwang.ml/project/led2net/) [[code]](https://github.com/fuenwang/LED2-Net)
@@ -189,12 +193,8 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network](https://arxiv.org/abs/2210.11419) | CoRR 2022 | - |
-| [Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades](https://arxiv.org/abs/2206.00645) | CVPR 2022 | - |
-| [MVLayoutNet: 3D Layout Reconstruction with Multi-View Panoramas](https://arxiv.org/abs/2112.06133) | CoRR 2021 | - |
-| [Extreme Structure From Motion for Indoor Panoramas Without Visual Overlaps](https://openaccess.thecvf.com/content/ICCV2021/papers/Shabani_Extreme_Structure_From_Motion_for_Indoor_Panoramas_Without_Visual_Overlaps_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/aminshabani/extreme-indoor-sfm)] |
 | [Floorplan-Jigsaw: Jointly Estimating Scene Layout and Aligning Partial Scans](https://arxiv.org/abs/1812.06677) | ICCV 2019 | [[project]](https://enigma-li.github.io/projects/indoorRecons/floorplanJigsaw.html) |
-| [DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences]() | CoRR 2019 | - |
+| [DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences](https://arxiv.org/abs/1904.11595) | CoRR 2019 | - |
 
 ### Top-view Image
 
