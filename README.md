@@ -259,6 +259,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [NOPE-SAC: Neural One-Plane RANSAC for Sparse-View Planar 3D Reconstruction](https://arxiv.org/abs/2211.16799) | CoRR 2022 | [[Code]](https://github.com/IceTTTb/NopeSAC) |
 | [PlaneFormers: From Sparse View Planes to 3D Reconstruction](https://arxiv.org/abs/2208.04307) | ECCV 2022 | [[project]](https://samiragarwala.github.io/PlaneFormers) [[code]](https://github.com/samiragarwala/PlaneFormers)
 | [PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos](https://arxiv.org/abs/2206.07710) | CVPR 2022 | [[Project]](https://neu-vi.github.io/planarrecon/) |
 | [PlaneRecNet: Multi-Task Learning with Cross-Task Consistency for Piece-Wise Plane Detection and Reconstruction from a Single RGB Image](https://arxiv.org/abs/2110.11219) | BMVC 2021 | [[code]](https://github.com/EryiXie/PlaneRecNet) |
