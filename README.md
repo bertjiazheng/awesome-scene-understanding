@@ -14,8 +14,6 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 ## Workshops and Tutorials
 
-* [Holistic Structures for 3D Vision Workshop at ECCV 2022](https://holistic-3d.github.io/eccv22/)
-
 * [Holistic Structures for 3D Vision Workshop at ICCV 2021](https://holistic-3d.github.io/iccv21/)
 
 * [Holistic Scene Structures for 3D Vision Workshop at ECCV 2020](https://holistic-3d.github.io/eccv20/)
