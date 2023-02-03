@@ -154,7 +154,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform](https://arxiv.org/abs/2207.09291) | ECCV 2022 | [[Code]](https://github.com/Starrah/DMH-Net) | 
 | [Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades](https://arxiv.org/abs/2206.00645) | CVPR 2022 | - |
 | [3D Room Layout Recovery Generalizing across Manhattan and Non-Manhattan Worlds](https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Jia_3D_Room_Layout_Recovery_Generalizing_Across_Manhattan_and_Non-Manhattan_Worlds_CVPRW_2022_paper.pdf) | CVPR 2022 | - |
-| [PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation](https://arxiv.org/abs/2203.15965) | CVPR 2022 | - |
+| [PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation](https://arxiv.org/abs/2203.15965) | CVPR 2022 | [[code]](https://github.com/zillow/psmnet-layout) |
 | [Self-supervised 360˚ Room Layout Estimation](https://arxiv.org/abs/2203.16057) | CoRR 2022 | [[code]](https://github.com/joshua049/Stereo-360-Layout)
 | [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network](https://arxiv.org/abs/2203.01824) | CVPR 2022 | - |
 | [Deep3DLayout: 3D Reconstruction of an Indoor Layout from a Spherical Panoramic Image](http://publications.crs4.it/pubdocs/2021/PAAG21/sigasia2021-deep3dlayout.pdf) | SIGGRAPH Asia 2021 | [[project]](http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2021:D3R%27) |
