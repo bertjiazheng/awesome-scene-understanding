@@ -199,6 +199,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Parsing Line Segments of Floor Plan Images Using Graph Neural Networks](https://arxiv.org/abs/2303.03851) | CoRR 2023 | - |
 | [Residential floor plan recognition and reconstruction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Residential_Floor_Plan_Recognition_and_Reconstruction_CVPR_2021_paper.pdf) | CVPR 2021 | - |
 | [Versailles-FP dataset: Wall Detection in Ancient Floor Plans](https://arxiv.org/abs/2103.08064) | CoRR 2021 | - |
 | [Deep Floor Plan Recognition using a Multi-task Network with Room-boundary-Guided Attention](https://arxiv.org/abs/1908.11025) | ICCV 2019 | [[project]](https://github.com/zlzeng/DeepFloorplan) |
