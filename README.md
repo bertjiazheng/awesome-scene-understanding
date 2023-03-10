@@ -68,7 +68,6 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Holistically-Attracted Wireframe Parsing: From Supervised to Self-Supervised Learning](https://arxiv.org/abs/2210.12971) | CoRR 2022 | - |
 | [Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes](https://arxiv.org/abs/2207.08656) | ECCV 2022 | [[project]](https://unclemedm.github.io/InstPIFu/) |
 | [Holistic 3D Scene Understanding from a Single Image with Implicit Representation](https://arxiv.org/abs/2103.06422) | CVPR 2021 | [[project]](https://chengzhag.github.io/publication/im3d/) [[code]](https://github.com/chengzhag/Implicit3DUnderstanding) |
 | [Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image](https://arxiv.org/abs/2002.12212) | CVPR 2020 | [[code]](https://github.com/yinyunie/Total3DUnderstanding) |
@@ -219,6 +218,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | Papers | Venue | Links |
 |--------|-------|-------|
 | [DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients](https://arxiv.org/abs/2212.07766) | CoRR 2022 | [[Code]](https://github.com/cvg/DeepLSD) |
+| [Holistically-Attracted Wireframe Parsing: From Supervised to Self-Supervised Learning](https://arxiv.org/abs/2210.12971) | CoRR 2022 | - |
 | [Learning to Construct 3D Building Wireframes from 3D Line Clouds](https://arxiv.org/abs/2208.11948) | BMVC 2022 | [[Code]](https://github.com/Luo1Cheng/LC2WF) |
 | [HoW-3D: Holistic 3D Wireframe Perception from a Single Image](https://arxiv.org/abs/2208.06999) | 3DV 2022 | [[Code]](https://github.com/Wenchao-M/HoW-3D) |
 | [Semantic Room Wireframe Detection from a Single View](https://arxiv.org/abs/2206.00491) | ICPR 2022 | [[code]](https://github.com/DavidGillsjo/SRW-Net) |
