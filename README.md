@@ -151,6 +151,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Disentangling Orthogonal Planes for Indoor Panoramic Room Layout Estimation with Cross-Scale Distortion Awareness](https://arxiv.org/abs/2303.00971) | CVPR 2023 | [[Code](https://github.com/zhijieshen-bjtu/DOPNet)] |
 | [360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning](https://arxiv.org/abs/2210.12935) | NeurIPS 2022 | [[Project]](https://enriquesolarte.github.io/360-mlc/) |
 | [GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network](https://arxiv.org/abs/2210.11419) | CoRR 2022 | - |
 | [3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform](https://arxiv.org/abs/2207.09291) | ECCV 2022 | [[Code]](https://github.com/Starrah/DMH-Net) | 
