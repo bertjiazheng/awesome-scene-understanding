@@ -142,7 +142,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Dataset | Year | Modality | #Frames | Prior | Source |
 |---------|------|----------|---------|-------|--------|
-| [ZInD](Zind) | 2021 | RGB | 71474 | AW+SS | ZinD |
+| [ZInD](ZInD) | 2021 | RGB | 71474 | AW+SS | ZinD |
 | [MatterportLayout][MatterportLayout] | 2020 | RGB-D | 2295 | MW+SS | Matterport |
 | Structured3D | 2020 | RGB-D | 196515 | AW+SS | Structured3D |
 | [LayoutMP3D][LayoutMP3D] | 2020 | RGB-D | 2505 | MW+SS | Matterport |
@@ -293,4 +293,4 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 [Matterport3D-Layout]: https://vsislab.github.io/Matterport3D-Layout/
 [MatterportLayout]: https://github.com/ericsujw/Matterport3DLayoutAnnotation
 [LayoutMP3D]: https://github.com/fuenwang/LayoutMP3D
-[Zind]: https://github.com/zillow/zind
+[ZInD]: https://github.com/zillow/zind
