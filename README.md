@@ -95,7 +95,9 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [PanelNet: Understanding 360 Indoor Environment via Panel Representation](https://arxiv.org/abs/2305.09078) | CVPR 2023 | - |
 | [DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization](https://arxiv.org/abs/2108.10743) | ICCV 2021 | [[code]](https://github.com/chengzhag/DeepPanoContext) |
+| [HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features](https://arxiv.org/abs/2011.11498) | CVPR 2021 | [[Code]](https://github.com/sunset1995/HoHoNet) |
 | [Automatic 3D Indoor Scene Modeling from Single Panorama](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Automatic_3D_Indoor_CVPR_2018_paper.pdf) | CVPR 2018 | - |
 | [Pano2CAD: Room Layout From A Single Panorama Image](http://bjornstenger.github.io/papers/xu_wacv2017.pdf) | WACV 2017 | - |
 | [PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding](http://panocontext.cs.princeton.edu/paper.pdf) | ECCV 2014 | [[project]](http://panocontext.cs.princeton.edu/) |
