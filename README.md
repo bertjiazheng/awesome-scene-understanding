@@ -213,6 +213,15 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis](https://arxiv.org/abs/1904.01920) | Scandinavian Conference on Image Analysis 2019 | [[code]](https://github.com/CubiCasa/CubiCasa5k) |
 | [Raster-to-Vector: Revisiting Floorplan Transformation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Raster-To-Vector_Revisiting_Floorplan_ICCV_2017_paper.pdf) | ICCV 2017 | [[project]](http://art-programmer.github.io/floorplan-transformation.html) [[code]](https://github.com/art-programmer/FloorplanTransformation) |
 
+### Visual Localization
+
+| Papers | Venue | Links |
+|--------|-------|-------|
+| [LaLaLoc++: Global Floor Plan Comprehension for Layout Localisation in Unvisited Environments](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870681.pdf) | ECCV 2022 | [[code]](https://github.com/ActiveVisionLab/LaLaLoc) |
+| [LASER: LAtent SpacE Rendering for 2D Visual Localization](https://arxiv.org/abs/2204.00157) | CVPR 2022 | - |
+| [LaLaLoc: Latent Layout Localisation in Dynamic, Unvisited Environments](https://arxiv.org/abs/2104.09169) | ICCV 2021 | - |
+
+
 ## Primitive
 
 ### Junction
