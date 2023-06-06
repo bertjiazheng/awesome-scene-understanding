@@ -190,6 +190,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models](https://arxiv.org/abs/2306.01461) | CoRR 2023 | [[project]](https://poly-diffuse.github.io/)
 | [Connecting the Dots: Floorplan Reconstruction Using Two-Level Queries](https://arxiv.org/abs/2211.15658) | CVPR 2023 | [[project]](https://ywyue.github.io/RoomFormer/) [[code]](https://github.com/ywyue/RoomFormer) |
 | [MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans](https://arxiv.org/abs/2103.11161) | ICCV 2021 | - |
 | [Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes](http://arxiv.org/abs/2003.07356) | CoRR 2020 | - |
