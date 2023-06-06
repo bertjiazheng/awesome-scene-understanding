@@ -2,6 +2,9 @@
 
 A curated list of awesome scene understanding papers, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
+* 📷 Multi-view images
+* 🎲 Point cloud
+
 ## Related Resources
 
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
@@ -121,6 +124,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [ST-RoomNet: Learning Room Layout Estimation From Single Image Through Unsupervised Spatial Transformations](https://openaccess.thecvf.com/content/CVPR2023W/VOCVALC/html/Ibrahem_ST-RoomNet_Learning_Room_Layout_Estimation_From_Single_Image_Through_Unsupervised_CVPRW_2023_paper) | CVPR Workshop 2023 | - |
 | [Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image](https://arxiv.org/abs/2104.07986) | WACV 2022 | [[code]](https://github.com/CYang0515/NonCuboidRoom) |
 | [RoomStructNet: Learning to Rank Non-Cuboidal Room Layouts From Single View](https://arxiv.org/abs/2110.00644) | CoRR 2021 | - |
 | [GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes](https://arxiv.org/abs/2008.06286) | ECCV 2020 | [[Matterport3D Layout Dataset]][Matterport3D-Layout]
@@ -154,20 +158,17 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs](https://arxiv.org/abs/2304.12624) | CVPR 2023 Workshop | |
+| 📷 [GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network](https://arxiv.org/abs/2210.11419) | CVPR Workshop 2023 | - |
+| [Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs](https://arxiv.org/abs/2304.12624) | CVPR Workshop 2023 | |
 | [U2RLE: Uncertainty-Guided 2-Stage Room Layout Estimation](https://arxiv.org/abs/2304.08580) | CVPR 2023 | |
 | [Disentangling Orthogonal Planes for Indoor Panoramic Room Layout Estimation with Cross-Scale Distortion Awareness](https://arxiv.org/abs/2303.00971) | CVPR 2023 | [[Code](https://github.com/zhijieshen-bjtu/DOPNet)] |
-| [360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning](https://arxiv.org/abs/2210.12935) | NeurIPS 2022 | [[Project]](https://enriquesolarte.github.io/360-mlc/) |
-| [GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network](https://arxiv.org/abs/2210.11419) | CoRR 2022 | - |
+| 📷 [360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning](https://arxiv.org/abs/2210.12935) | NeurIPS 2022 | [[Project]](https://enriquesolarte.github.io/360-mlc/) |
 | [3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform](https://arxiv.org/abs/2207.09291) | ECCV 2022 | [[Code]](https://github.com/Starrah/DMH-Net) | 
-| [Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades](https://arxiv.org/abs/2206.00645) | CVPR 2022 | - |
 | [3D Room Layout Recovery Generalizing across Manhattan and Non-Manhattan Worlds](https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Jia_3D_Room_Layout_Recovery_Generalizing_Across_Manhattan_and_Non-Manhattan_Worlds_CVPRW_2022_paper.pdf) | CVPR 2022 | - |
-| [PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation](https://arxiv.org/abs/2203.15965) | CVPR 2022 | [[code]](https://github.com/zillow/psmnet-layout) |
+| 📷 [PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation](https://arxiv.org/abs/2203.15965) | CVPR 2022 | [[code]](https://github.com/zillow/psmnet-layout) |
 | [Self-supervised 360˚ Room Layout Estimation](https://arxiv.org/abs/2203.16057) | CoRR 2022 | [[code]](https://github.com/joshua049/Stereo-360-Layout)
 | [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network](https://arxiv.org/abs/2203.01824) | CVPR 2022 | - |
 | [Deep3DLayout: 3D Reconstruction of an Indoor Layout from a Spherical Panoramic Image](http://publications.crs4.it/pubdocs/2021/PAAG21/sigasia2021-deep3dlayout.pdf) | SIGGRAPH Asia 2021 | [[project]](http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2021:D3R%27) |
-| [Extreme Structure From Motion for Indoor Panoramas Without Visual Overlaps](https://openaccess.thecvf.com/content/ICCV2021/papers/Shabani_Extreme_Structure_From_Motion_for_Indoor_Panoramas_Without_Visual_Overlaps_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/aminshabani/extreme-indoor-sfm) |
-| [MVLayoutNet: 3D Layout Reconstruction with Multi-View Panoramas](https://arxiv.org/abs/2112.06133) | CoRR 2021 | - |
 | [Transferable End-to-end Room Layout Estimation via Implicit Encoding](https://arxiv.org/abs/2112.11340) | CoRR 2021 | [[project]](https://sites.google.com/view/transferrl/)
 | [OmniLayout: Room Layout Reconstruction from Indoor Spherical Panoramas](https://arxiv.org/abs/2104.09403) | CVPR Workshop 2021 | [[code]](https://github.com/rshivansh/OmniLayout)
 | [LED<sup>2</sup>-Net: Monocular 360˚ Layout Estimation via Differentiable Depth Rendering](https://arxiv.org/abs/2104.00568) | CVPR 2021 | [[project]](https://fuenwang.ml/project/led2net/) [[code]](https://github.com/fuenwang/LED2-Net)
@@ -186,25 +187,21 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 ## Floorplan
 
-### Point Cloud
-
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models](https://arxiv.org/abs/2306.01461) | CoRR 2023 | [[project]](https://poly-diffuse.github.io/)
-| [Connecting the Dots: Floorplan Reconstruction Using Two-Level Queries](https://arxiv.org/abs/2211.15658) | CVPR 2023 | [[project]](https://ywyue.github.io/RoomFormer/) [[code]](https://github.com/ywyue/RoomFormer) |
-| [MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans](https://arxiv.org/abs/2103.11161) | ICCV 2021 | - |
-| [Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes](http://arxiv.org/abs/2003.07356) | CoRR 2020 | - |
-| [Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path](https://arxiv.org/abs/1908.06702) | ICCV 2019 | [[project]](https://jcchen.me/floor-sp/) [[code]](https://github.com/woodfrog/floor-sp) |
-| [FloorNet: A unified framework for floorplan reconstruction from 3D scans](https://arxiv.org/abs/1804.00090) | ECCV 2018 | [[project]](http://art-programmer.github.io/floornet.html) [[code]](https://github.com/art-programmer/FloorNet) |
+| 🎲 [PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models](https://arxiv.org/abs/2306.01461) | CoRR 2023 | [[project]](https://poly-diffuse.github.io/)
+| 🎲 [Connecting the Dots: Floorplan Reconstruction Using Two-Level Queries](https://arxiv.org/abs/2211.15658) | CVPR 2023 | [[project]](https://ywyue.github.io/RoomFormer/) [[code]](https://github.com/ywyue/RoomFormer) |
+| 📷 [Floorplan Restoration by Structure Hallucinating Transformer Cascades](https://arxiv.org/abs/2206.00645) | CoRR 2022 | - |
+| 📷 [MVLayoutNet: 3D Layout Reconstruction with Multi-View Panoramas](https://arxiv.org/abs/2112.06133) | CoRR 2021 | - |
+| 📷 [Extreme Structure From Motion for Indoor Panoramas Without Visual Overlaps](https://openaccess.thecvf.com/content/ICCV2021/papers/Shabani_Extreme_Structure_From_Motion_for_Indoor_Panoramas_Without_Visual_Overlaps_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/aminshabani/extreme-indoor-sfm) |
+| 🎲 [MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans](https://arxiv.org/abs/2103.11161) | ICCV 2021 | - |
+| 🎲 [Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes](http://arxiv.org/abs/2003.07356) | CoRR 2020 | - |
+| 🎲 [Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path](https://arxiv.org/abs/1908.06702) | ICCV 2019 | [[project]](https://jcchen.me/floor-sp/) [[code]](https://github.com/woodfrog/floor-sp) |
+| 📷 [Floorplan-Jigsaw: Jointly Estimating Scene Layout and Aligning Partial Scans](https://arxiv.org/abs/1812.06677) | ICCV 2019 | [[project]](https://enigma-li.github.io/projects/indoorRecons/floorplanJigsaw.html) |
+| 🎲 [DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences](https://arxiv.org/abs/1904.11595) | CoRR 2019 | - |
+| 📷 [FloorNet: A unified framework for floorplan reconstruction from 3D scans](https://arxiv.org/abs/1804.00090) | ECCV 2018 | [[project]](http://art-programmer.github.io/floornet.html) [[code]](https://github.com/art-programmer/FloorNet) |
 
-### Multiple Views
-
-| Papers | Venue | Links |
-|--------|-------|-------|
-| [Floorplan-Jigsaw: Jointly Estimating Scene Layout and Aligning Partial Scans](https://arxiv.org/abs/1812.06677) | ICCV 2019 | [[project]](https://enigma-li.github.io/projects/indoorRecons/floorplanJigsaw.html) |
-| [DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences](https://arxiv.org/abs/1904.11595) | CoRR 2019 | - |
-
-### Top-view Image
+### Floorplan Vectorization
 
 | Papers | Venue | Links |
 |--------|-------|-------|
@@ -279,12 +276,12 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [NOPE-SAC: Neural One-Plane RANSAC for Sparse-View Planar 3D Reconstruction](https://arxiv.org/abs/2211.16799) | CoRR 2022 | [[Code]](https://github.com/IceTTTb/NopeSAC) |
-| [PlaneFormers: From Sparse View Planes to 3D Reconstruction](https://arxiv.org/abs/2208.04307) | ECCV 2022 | [[project]](https://samiragarwala.github.io/PlaneFormers) [[code]](https://github.com/samiragarwala/PlaneFormers)
-| [PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos](https://arxiv.org/abs/2206.07710) | CVPR 2022 | [[Project]](https://neu-vi.github.io/planarrecon/) |
+| 📷 [NOPE-SAC: Neural One-Plane RANSAC for Sparse-View Planar 3D Reconstruction](https://arxiv.org/abs/2211.16799) | CoRR 2022 | [[Code]](https://github.com/IceTTTb/NopeSAC) |
+| 📷 [PlaneFormers: From Sparse View Planes to 3D Reconstruction](https://arxiv.org/abs/2208.04307) | ECCV 2022 | [[project]](https://samiragarwala.github.io/PlaneFormers) [[code]](https://github.com/samiragarwala/PlaneFormers)
+| 📷 [PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos](https://arxiv.org/abs/2206.07710) | CVPR 2022 | [[Project]](https://neu-vi.github.io/planarrecon/) |
 | [PlaneRecNet: Multi-Task Learning with Cross-Task Consistency for Piece-Wise Plane Detection and Reconstruction from a Single RGB Image](https://arxiv.org/abs/2110.11219) | BMVC 2021 | [[code]](https://github.com/EryiXie/PlaneRecNet) |
 | [PlaneTR: Structure-Guided Transformers for 3D Plane Recovery](https://arxiv.org/abs/2107.13108) | ICCV 2021 | [[code]](https://github.com/IceTTTb/PlaneTR3D) |
-| [Planar Surface Reconstruction From Sparse Views](https://arxiv.org/abs/2103.14644) | ICCV 2021 | [[project]](https://jinlinyi.github.io/SparsePlanes/) [[code]](https://github.com/jinlinyi/SparsePlanes)
+| 📷 [Planar Surface Reconstruction From Sparse Views](https://arxiv.org/abs/2103.14644) | ICCV 2021 | [[project]](https://jinlinyi.github.io/SparsePlanes/) [[code]](https://github.com/jinlinyi/SparsePlanes)
 | [Indoor Panorama Planar 3D Reconstruction via Divide and Conquer](https://arxiv.org/abs/2106.14166) | CVPR 2021 | [[code]](https://github.com/sunset1995/PanoPlane360) |
 | [Learning Pairwise Inter-Plane Relations for Piecewise Planar Reconstruction](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520324.pdf) | ECCV 2020 | [[code]](https://github.com/yi-ming-qian/interplane) |
 | [Peek-a-Boo: Occlusion Reasoning in Indoor Scenes with Plane Representations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Peek-a-Boo_Occlusion_Reasoning_in_Indoor_Scenes_With_Plane_Representations_CVPR_2020_paper.pdf) | CVPR 2020 | [[project]](https://www.nec-labs.com/~mas/peekaboo/) |
