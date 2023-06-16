@@ -114,7 +114,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Dataset | Year | Modality | #Frames | Prior | Source |
 |---------|------|----------|---------|-------|--------|
-| CAD-Estate | 2023 | RGB Video | Generic | RealEstate-10K |
+| [CAD-Estate](cad-estate) | 2023 | RGB Video | Generic | RealEstate-10K |
 | [Matterport3D-Layout][Matterport3D-Layout] | 2020 | RGB-D | 7360 | PP | Matterport |
 | [ScanNet-Layout][ScanNet-Layout] | 2020 | RGB-D | 293 | PP | ScanNet |
 | Structured3D | 2020 | RGB-D | 82027   | AW+SS  | Structured3D |
@@ -125,7 +125,6 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Estimating Generic 3D Room Structures from 2D Annotations](https://arxiv.org/abs/2306.09077) | CoRR 2023 | [[dataset](https://github.com/google-research/cad-estate)] |
 | [ST-RoomNet: Learning Room Layout Estimation From Single Image Through Unsupervised Spatial Transformations](https://openaccess.thecvf.com/content/CVPR2023W/VOCVALC/html/Ibrahem_ST-RoomNet_Learning_Room_Layout_Estimation_From_Single_Image_Through_Unsupervised_CVPRW_2023_paper) | CVPR Workshop 2023 | - |
 | [Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image](https://arxiv.org/abs/2104.07986) | WACV 2022 | [[code]](https://github.com/CYang0515/NonCuboidRoom) |
 | [RoomStructNet: Learning to Rank Non-Cuboidal Room Layouts From Single View](https://arxiv.org/abs/2110.00644) | CoRR 2021 | - |
@@ -306,3 +305,4 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 [MatterportLayout]: https://github.com/ericsujw/Matterport3DLayoutAnnotation
 [LayoutMP3D]: https://github.com/fuenwang/LayoutMP3D
 [ZInD]: https://github.com/zillow/zind
+[cad-estate]: https://github.com/google-research/cad-estate
