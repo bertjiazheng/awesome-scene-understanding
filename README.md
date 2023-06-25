@@ -125,6 +125,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Polygon Detection for Room Layout Estimation using Heterogeneous Graphs and Wireframes](https://arxiv.org/abs/2306.12203) | CoRR 2023 | - |
 | [ST-RoomNet: Learning Room Layout Estimation From Single Image Through Unsupervised Spatial Transformations](https://openaccess.thecvf.com/content/CVPR2023W/VOCVALC/html/Ibrahem_ST-RoomNet_Learning_Room_Layout_Estimation_From_Single_Image_Through_Unsupervised_CVPRW_2023_paper) | CVPR Workshop 2023 | - |
 | [Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image](https://arxiv.org/abs/2104.07986) | WACV 2022 | [[code]](https://github.com/CYang0515/NonCuboidRoom) |
 | [RoomStructNet: Learning to Rank Non-Cuboidal Room Layouts From Single View](https://arxiv.org/abs/2110.00644) | CoRR 2021 | - |
