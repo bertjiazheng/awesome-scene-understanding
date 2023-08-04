@@ -235,7 +235,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| 📷[Volumetric Wireframe Parsing from Neural Attraction Fields](https://arxiv.org/abs/2307.10206) | CoRR 2023 | - |
+| 📷[Volumetric Wireframe Parsing from Neural Attraction Fields](https://arxiv.org/abs/2307.10206) | CoRR 2023 | [[code](https://github.com/cherubicXN/neat)] |
 | 📷[NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images](https://arxiv.org/abs/2303.07653) | CVPR 2023 | [[project]](https://yunfan1202.github.io/NEF/) |
 | [DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients](https://arxiv.org/abs/2212.07766) | CoRR 2022 | [[Code]](https://github.com/cvg/DeepLSD) |
 | [Holistically-Attracted Wireframe Parsing: From Supervised to Self-Supervised Learning](https://arxiv.org/abs/2210.12971) | CoRR 2022 | - |
