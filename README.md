@@ -298,6 +298,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction](https://arxiv.org/abs/2308.10694) | ICCV 2023 | - |
 | [Transformer Based Line Segment Classifier with Image Context for Real-Time Vanishing Point Detection in Manhattan World](https://openaccess.thecvf.com/content/CVPR2022/papers/Tong_Transformer_Based_Line_Segment_Classifier_With_Image_Context_for_Real-Time_CVPR_2022_paper.pdf) | CVPR 2022 | - |
 | [Deep Vanishing Point Detection: Geometric Priors Make Dataset Variations Vanish](https://arxiv.org/abs/2203.08586) | CVPR 2022 | - | 
 | [VaPiD: A Rapid Vanishing Point Detector via Learned Optimizers](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_VaPiD_A_Rapid_Vanishing_Point_Detector_via_Learned_Optimizers_ICCV_2021_paper.pdf) | ICCV 2021 | - |
