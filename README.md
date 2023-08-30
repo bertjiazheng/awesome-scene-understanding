@@ -160,6 +160,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [iBARLE: imBalance-Aware Room Layout Estimation](https://arxiv.org/abs/2308.15050) | CoRR 2023 | |
 | 📷 [GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network](https://arxiv.org/abs/2210.11419) | CVPR Workshop 2023 | - |
 | [Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs](https://arxiv.org/abs/2304.12624) | CVPR Workshop 2023 | |
 | [U2RLE: Uncertainty-Guided 2-Stage Room Layout Estimation](https://arxiv.org/abs/2304.08580) | CVPR 2023 | |
