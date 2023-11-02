@@ -74,6 +74,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture](https://arxiv.org/abs/2311.00457) | 3DV 2024 | [[project]](https://dali-jack.github.io/SSR) |
 | [Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes](https://arxiv.org/abs/2207.08656) | ECCV 2022 | [[code]](https://github.com/UncleMEDM/InstPIFu) |
 | [Holistic 3D Scene Understanding from a Single Image with Implicit Representation](https://arxiv.org/abs/2103.06422) | CVPR 2021 | [[project]](https://chengzhag.github.io/publication/im3d/) [[code]](https://github.com/chengzhag/Implicit3DUnderstanding) |
 | [Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image](https://arxiv.org/abs/2002.12212) | CVPR 2020 | [[code]](https://github.com/yinyunie/Total3DUnderstanding) |
