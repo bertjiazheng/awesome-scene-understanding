@@ -29,6 +29,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes](https://arxiv.org/abs/2304.03188) | CGF 2023 | - |
 | [State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments](http://vic.crs4.it/data/papers/eg2020-star-indoor.pdf) | CGF 2020 | [[project]](http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:SI3%27) |
 | [Indoor Scene Understanding in 2.5/3D for Autonomous Agents: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8573760&tag=1) | IEEE Access 2019 | - |
 | [RGBD Datasets: Past, Present and Future](https://arxiv.org/abs/1604.00999) | CVPR Workshop 2016 | [[project]](http://www.michaelfirman.co.uk/RGBDdatasets/) |
@@ -39,6 +40,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data](https://openreview.net/forum?id=tjZjv_qh_CE) | NeurIPS 2021 Dataset Track | [[code]](https://github.com/apple/ARKitScenes)
 | [Zillow Indoor Dataset: Annotated Floor Plans With 360˚ Panoramas and 3D Room Layouts](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper.pdf) | CVPR 2021 | [[code]](https://github.com/zillow/zind) |
 | [HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures](https://arxiv.org/abs/2008.03286) | CoRR 2020 | [[project]](https://holicity.io/) |
 | [OASIS: A Large-Scale Dataset for Single Image 3D in the Wild](https://arxiv.org/abs/2007.13215) | CVPR 2020 | [[project]](https://oasis.cs.princeton.edu/) |
