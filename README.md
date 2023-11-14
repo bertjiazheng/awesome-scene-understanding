@@ -118,7 +118,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Dataset | Year | Modality | #Frames | Prior | Source |
 |---------|------|----------|---------|-------|--------|
-| [CAD-Estate][cad-estate] | 2023 | RGB Video | Generic | RealEstate-10K |
+| [CAD-Estate][cad-estate] | 2023 | RGB Video | - | Generic | RealEstate-10K |
 | [Matterport3D-Layout][Matterport3D-Layout] | 2020 | RGB-D | 7360 | PP | Matterport |
 | [ScanNet-Layout][ScanNet-Layout] | 2020 | RGB-D | 293 | PP | ScanNet |
 | Structured3D | 2020 | RGB-D | 82027   | AW+SS  | Structured3D |
