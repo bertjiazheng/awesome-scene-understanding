@@ -164,6 +164,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Seg2Reg: Differentiable 2D Segmentation to 1D Regression Rendering for 360 Room Layout Reconstruction](https://arxiv.org/abs/2311.18695) | CoRR 2023 | |
 | [iBARLE: imBalance-Aware Room Layout Estimation](https://arxiv.org/abs/2308.15050) | CoRR 2023 | |
 | 📷 [GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network](https://arxiv.org/abs/2210.11419) | CVPR Workshop 2023 | - |
 | [Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs](https://arxiv.org/abs/2304.12624) | CVPR Workshop 2023 | |
