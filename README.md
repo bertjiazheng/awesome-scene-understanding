@@ -213,6 +213,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_VectorFloorSeg_Two-Stream_Graph_Attention_Network_for_Vectorized_Roughcast_Floorplan_Segmentation_CVPR_2023_paper.pdf) | CVPR 2023 | [[code]](https://github.com/DrZiji/VecFloorSeg) |
 | [Parsing Line Segments of Floor Plan Images Using Graph Neural Networks](https://arxiv.org/abs/2303.03851) | CoRR 2023 | - |
 | [Residential floor plan recognition and reconstruction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Residential_Floor_Plan_Recognition_and_Reconstruction_CVPR_2021_paper.pdf) | CVPR 2021 | - |
 | [Versailles-FP dataset: Wall Detection in Ancient Floor Plans](https://arxiv.org/abs/2103.08064) | CoRR 2021 | - |
