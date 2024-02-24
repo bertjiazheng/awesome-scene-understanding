@@ -59,6 +59,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes](https://arxiv.org/abs/2401.03470) | CoRR 2024 | - |
 | [GeoSynth: A Photorealistic Synthetic Indoor Dataset for Scene Understanding](https://ieeexplore.ieee.org/document/10050341) | VR 2023 | [[code]](https://github.com/geomagical/GeoSynth) |
 | [MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis](https://arxiv.org/abs/2107.06149) | CGF 2022 | [[project]](https://coohom.github.io/MINERVAS/) |
 | [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://arxiv.org/abs/2011.09127) | ICCV 2021 | [[project]](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) |
