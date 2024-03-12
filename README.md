@@ -103,7 +103,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [PanoContext-Former: Panoramic Total Scene Understanding with a Transformer](https://arxiv.org/abs/2305.12497) | CoRR 2023 | - |
+| [PanoContext-Former: Panoramic Total Scene Understanding with a Transformer](https://arxiv.org/abs/2305.12497) | CVPR 2024 | - |
 | [PanelNet: Understanding 360 Indoor Environment via Panel Representation](https://arxiv.org/abs/2305.09078) | CVPR 2023 | - |
 | [DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization](https://arxiv.org/abs/2108.10743) | ICCV 2021 | [[code]](https://github.com/chengzhag/DeepPanoContext) |
 | [HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features](https://arxiv.org/abs/2011.11498) | CVPR 2021 | [[Code]](https://github.com/sunset1995/HoHoNet) |
