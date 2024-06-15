@@ -289,6 +289,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| 📷 [AirPlanes: Accurate Plane Estimation via 3D-Consistent Embeddings](https://arxiv.org/abs/2406.08960) | CVPR 2024 | [[project]](https://nianticlabs.github.io/airplanes/) |
 | [PlaneRecTR: Unified Query learning for 3D Plane Recovery from a Single View](https://arxiv.org/abs/2307.13756) | ICCV 2023 | [[Code]](https://github.com/SJingjia/PlaneRecTR) |
 | 📷 [NOPE-SAC: Neural One-Plane RANSAC for Sparse-View Planar 3D Reconstruction](https://arxiv.org/abs/2211.16799) | CoRR 2022 | [[Code]](https://github.com/IceTTTb/NopeSAC) |
 | 📷 [PlaneFormers: From Sparse View Planes to 3D Reconstruction](https://arxiv.org/abs/2208.04307) | ECCV 2022 | [[project]](https://samiragarwala.github.io/PlaneFormers) [[code]](https://github.com/samiragarwala/PlaneFormers)
