@@ -59,6 +59,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation](https://arxiv.org/abs/2406.11824) | CVPR 2024 | [[project]](https://infinigen.org/) |
 | [R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding](https://arxiv.org/abs/2403.12301) | CoRR 2024 | [[project]](https://3dlg-hcvc.github.io/r3ds/) |
 | [FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes](https://arxiv.org/abs/2401.03470) | CoRR 2024 | - |
 | [GeoSynth: A Photorealistic Synthetic Indoor Dataset for Scene Understanding](https://ieeexplore.ieee.org/document/10050341) | VR 2023 | [[code]](https://github.com/geomagical/GeoSynth) |
