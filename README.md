@@ -230,7 +230,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments](https://arxiv.org/abs/2404.10527) | ECCV 2024 | [[project]](https://fraunhoferhhi.github.io/spvloc/) [[code]](https://github.com/fraunhoferhhi/spvloc)) |
+| [SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments](https://arxiv.org/abs/2404.10527) | ECCV 2024 | [[project]](https://fraunhoferhhi.github.io/spvloc/) [[code]](https://github.com/fraunhoferhhi/spvloc) |
 | [LaLaLoc++: Global Floor Plan Comprehension for Layout Localisation in Unvisited Environments](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870681.pdf) | ECCV 2022 | [[code]](https://github.com/ActiveVisionLab/LaLaLoc) |
 | [LASER: LAtent SpacE Rendering for 2D Visual Localization](https://arxiv.org/abs/2204.00157) | CVPR 2022 | - |
 | [LaLaLoc: Latent Layout Localisation in Dynamic, Unvisited Environments](https://arxiv.org/abs/2104.09169) | ICCV 2021 | - |
