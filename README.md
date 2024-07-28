@@ -201,6 +201,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| 🎲 [FRI-Net: Floorplan Reconstruction via Room-wise Implicit Representation](https://arxiv.org/abs/2407.10687) | ECCV 2024 | [[code]](https://github.com/Daisy-1227/FRI-Net) |
 | 🎲 [PolyRoom: Room-aware Transformer for Floorplan Reconstruction](https://arxiv.org/abs/2407.10439) | ECCV 2024 | [[code]](https://github.com/3dv-casia/PolyRoom/) |
 | 🎲 [PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models](https://arxiv.org/abs/2306.01461) | NeurIPS 2023 | [[project]](https://poly-diffuse.github.io/) |
 | 🎲 [Connecting the Dots: Floorplan Reconstruction Using Two-Level Queries](https://arxiv.org/abs/2211.15658) | CVPR 2023 | [[project]](https://ywyue.github.io/RoomFormer/) [[code]](https://github.com/ywyue/RoomFormer) |
