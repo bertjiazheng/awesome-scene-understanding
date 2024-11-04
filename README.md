@@ -29,6 +29,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220) | arXiv 2024 | - |
 | [Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes](https://arxiv.org/abs/2304.03188) | CGF 2023 | - |
 | [State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments](http://vic.crs4.it/data/papers/eg2020-star-indoor.pdf) | CGF 2020 | [[project]](http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:SI3%27) |
 | [Indoor Scene Understanding in 2.5/3D for Autonomous Agents: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8573760&tag=1) | IEEE Access 2019 | - |
