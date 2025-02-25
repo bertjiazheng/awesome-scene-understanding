@@ -169,6 +169,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [uLayout: Unified Room Layout Estimation for Perspective and Panoramic Images](https://openaccess.thecvf.com//content/WACV2025/html/Lee_uLayout_Unified_Room_Layout_Estimation_for_Perspective_and_Panoramic_Images_WACV_2025_paper.html) | WACV 2025 | - |
 | [No More Ambiguity in 360◦ Room Layout via Bi-Layout Estimation](https://www.amazon.science/publications/no-more-ambiguity-in-360-room-layout-via-bi-layout-estimation) | CVPR 2024 | |
 | [Seg2Reg: Differentiable 2D Segmentation to 1D Regression Rendering for 360 Room Layout Reconstruction](https://arxiv.org/abs/2311.18695) | CVPR 2024 | |
 | [iBARLE: imBalance-Aware Room Layout Estimation](https://arxiv.org/abs/2308.15050) | CoRR 2023 | |
