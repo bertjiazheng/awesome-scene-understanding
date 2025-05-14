@@ -133,7 +133,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| 📷 [Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model](https://arxiv.org/abs/2502.16779) | ICLR 2025 | - |
+| 📷 [Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model](https://arxiv.org/abs/2502.16779) | ICLR 2025 | [[code]](https://github.com/justacar/Plane-DUSt3R) |
 | [Polygon Detection for Room Layout Estimation using Heterogeneous Graphs and Wireframes](https://arxiv.org/abs/2306.12203) | ICCV Workshop 2023 | [[code]](https://github.com/DavidGillsjo/polygon-HGT) |
 | [ST-RoomNet: Learning Room Layout Estimation From Single Image Through Unsupervised Spatial Transformations](https://openaccess.thecvf.com/content/CVPR2023W/VOCVALC/html/Ibrahem_ST-RoomNet_Learning_Room_Layout_Estimation_From_Single_Image_Through_Unsupervised_CVPRW_2023_paper) | CVPR Workshop 2023 | - |
 | [Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image](https://arxiv.org/abs/2104.07986) | WACV 2022 | [[code]](https://github.com/CYang0515/NonCuboidRoom) |
