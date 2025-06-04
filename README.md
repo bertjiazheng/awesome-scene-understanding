@@ -296,7 +296,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Towards In-the-wild 3D Plane Reconstruction from a Single Image](https://arxiv.org/abs/2304.10261) | CVPR 2025 | [[code]](https://github.com/jcliu0428/ZeroPlane) | 
+| [Towards In-the-wild 3D Plane Reconstruction from a Single Image](https://openaccess.thecvf.com//content/CVPR2025/html/Liu_Towards_In-the-wild_3D_Plane_Reconstruction_from_a_Single_Image_CVPR_2025_paper) | CVPR 2025 | [[code]](https://github.com/jcliu0428/ZeroPlane) | 
 | [MonoPlane: Exploiting Monocular Geometric Cues for Generalizable 3D Plane Reconstruction](https://arxiv.org/abs/2411.01226) | IROS 2024 | [[code]](https://github.com/thuzhaowang/MonoPlane) |
 | 📷 [UniPlane: Unified Plane Detection and Reconstruction from Posed Monocular Videos](https://arxiv.org/abs/2407.03594) | CoRR 2024 | | 
 | 📷 [AirPlanes: Accurate Plane Estimation via 3D-Consistent Embeddings](https://arxiv.org/abs/2406.08960) | CVPR 2024 | [[project]](https://nianticlabs.github.io/airplanes/) |
