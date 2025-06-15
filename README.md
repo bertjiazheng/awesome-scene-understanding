@@ -29,10 +29,10 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220) | arXiv 2024 | - |
-| [Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes](https://arxiv.org/abs/2304.03188) | CGF 2023 | - |
+| [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220) | arXiv 2024 | |
+| [Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes](https://arxiv.org/abs/2304.03188) | CGF 2023 | |
 | [State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments](http://vic.crs4.it/data/papers/eg2020-star-indoor.pdf) | CGF 2020 | [[project]](http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:SI3%27) |
-| [Indoor Scene Understanding in 2.5/3D for Autonomous Agents: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8573760&tag=1) | IEEE Access 2019 | - |
+| [Indoor Scene Understanding in 2.5/3D for Autonomous Agents: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8573760&tag=1) | IEEE Access 2019 | |
 | [RGBD Datasets: Past, Present and Future](https://arxiv.org/abs/1604.00999) | CVPR Workshop 2016 | [[project]](http://www.michaelfirman.co.uk/RGBDdatasets/) |
 
 ## Dataset
@@ -62,7 +62,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 |--------|-------|-------|
 | [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation](https://arxiv.org/abs/2406.11824) | CVPR 2024 | [[project]](https://infinigen.org/) |
 | [R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding](https://arxiv.org/abs/2403.12301) | CoRR 2024 | [[project]](https://3dlg-hcvc.github.io/r3ds/) |
-| [FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes](https://arxiv.org/abs/2401.03470) | CoRR 2024 | - |
+| [FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes](https://arxiv.org/abs/2401.03470) | CoRR 2024 | |
 | [GeoSynth: A Photorealistic Synthetic Indoor Dataset for Scene Understanding](https://ieeexplore.ieee.org/document/10050341) | VR 2023 | [[code]](https://github.com/geomagical/GeoSynth) |
 | [MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis](https://arxiv.org/abs/2107.06149) | CGF 2022 | [[project]](https://coohom.github.io/MINERVAS/) |
 | [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://arxiv.org/abs/2011.09127) | ICCV 2021 | [[project]](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) |
@@ -71,7 +71,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling](https://arxiv.org/abs/1908.00222) | ECCV 2020 | [[project]](https://structured3d-dataset.org) |
 | [InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset](https://arxiv.org/abs/1809.00716) | BMVC 2018 | [[project]](https://interiornet.org/) |
 | [SceneNet RGB-D: Can 5M Synthetic Images Beat Generic ImageNet Pre-training on Indoor Segmentation?](https://arxiv.org/abs/1612.05079) | ICCV 2017 | [[project]](https://robotvault.bitbucket.io/scenenet-rgbd.html) |
-| [Semantic Scene Completion from a Single Depth Image](https://arxiv.org/abs/1611.08974) | CVPR 2017 | - |
+| [Semantic Scene Completion from a Single Depth Image](https://arxiv.org/abs/1611.08974) | CVPR 2017 | |
 | [SceneNet: Understanding Real World Indoor Scenes With Synthetic Data](http://arxiv.org/abs/1511.07041) | CVPR 2016 | [[project]](https://robotvault.bitbucket.io/) | 
 | [The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes](https://openaccess.thecvf.com/content_cvpr_2016/html/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.html) | CVPR 2016 | [[project]](http://synthia-dataset.net/) |
 
@@ -85,33 +85,33 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes](https://arxiv.org/abs/2207.08656) | ECCV 2022 | [[code]](https://github.com/UncleMEDM/InstPIFu) |
 | [Holistic 3D Scene Understanding from a Single Image with Implicit Representation](https://arxiv.org/abs/2103.06422) | CVPR 2021 | [[project]](https://chengzhag.github.io/publication/im3d/) [[code]](https://github.com/chengzhag/Implicit3DUnderstanding) |
 | [Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image](https://arxiv.org/abs/2002.12212) | CVPR 2020 | [[code]](https://github.com/yinyunie/Total3DUnderstanding) |
-| [PerspectiveNet: 3D Object Detection from a Single RGB Image via Perspective Points](https://arxiv.org/abs/1912.07744) | NeurIPS 2019 | - |
+| [PerspectiveNet: 3D Object Detection from a Single RGB Image via Perspective Points](https://arxiv.org/abs/1912.07744) | NeurIPS 2019 | |
 | [Hoilistc++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense](https://arxiv.org/abs/1909.01507) | ICCV 2019 | [[project]](https://yixchen.github.io/holisticpp/) [[code]](https://github.com/yixchen/holistic_scene_human) |
-| [Complete 3D Scene Parsing from an RGBD Image](https://arxiv.org/abs/1710.09490) | IJCV 2018 | - |
+| [Complete 3D Scene Parsing from an RGBD Image](https://arxiv.org/abs/1710.09490) | IJCV 2018 | |
 | [Cooperative Holistic Scene Understanding: Unifying 3D Object, Layout, and Camera Pose Estimation](https://arxiv.org/abs/1810.13049) | NeurIPS 2018 | [[project]](http://siyuanhuang.com/cooperative_parsing/main.html) [[code]](https://github.com/thusiyuan/cooperative_scene_parsing) |
 | [Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image](https://arxiv.org/abs/1808.02201) | ECCV 2018 | [[project]](http://siyuanhuang.com/holistic_parsing/main.html) [[code]](https://github.com/thusiyuan/holistic_scene_parsing) |
 | [Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene](https://arxiv.org/abs/1712.01812) | CVPR 2018 | [[project]](https://shubhtuls.github.io/factored3d/) [[code]](https://github.com/shubhtuls/factored3d) |
 | [Im2CAD](https://arxiv.org/abs/1608.05137) | CVPR 2018 | [[project]](https://homes.cs.washington.edu/~izadinia/im2cad.html) |
 | [DeepContext: Context-Encoding Neural Pathways for 3D Holistic Scene Understanding](https://arxiv.org/abs/1603.04922) | ICCV 2017 | [[project]](http://deepcontext.cs.princeton.edu) |
 | [Emptying, Refurnishing, and Relighting Indoor Spaces](https://grail.cs.washington.edu/projects/emptying/emptying.pdf) | SIGGRAPH Asia 2016 | [[project]](https://grail.cs.washington.edu/projects/emptying/) |
-| [Scene Parsing by Integrating Function, Geometry and Appearance Models](http://openaccess.thecvf.com/content_cvpr_2013/papers/Zhao_Scene_Parsing_by_2013_CVPR_paper.pdf) | CVPR 2013 | - |
-| [Understanding Indoor Scenes using 3D Geometric Phrases](http://openaccess.thecvf.com/content_cvpr_2013/papers/Choi_Understanding_Indoor_Scenes_2013_CVPR_paper.pdf) | (CVPR 2013) | - |
-| [Recovering Free Space of Indoor Scenes from a Single Image](http://vision.cs.uiuc.edu/~vhedau2/Publications/cvpr2012_freespace.pdf) | CVPR 2012 | - |
-| [Efficient Exact Inference for 3D Indoor Scene Understanding](http://schwingag.de/papers/SchwingEtAl_ECCV2012.pdf) | ECCV 2012 | - |
-| [Efficient Structured Prediction for 3D Indoor Scene Understanding](https://ttic.uchicago.edu/~rurtasun/publications/schwing_et_al_cvpr12.pdf) | CVPR 2012 | - |
-| [Estimating Spatial Layout of Rooms using Volumetric Reasoning about Objects and Surfaces](https://papers.NeurIPS.cc/paper/4120-estimating-spatial-layout-of-rooms-using-volumetric-reasoning-about-objects-and-surfaces.pdf) | NeurIPS 2010 | - |
-| [Thinking Inside the Box: Using Appearance Models and Context Based on Room Geometry](http://vision.cs.uiuc.edu/~vhedau2/Publications/eccv2010_think_inside.pdf) | ECCV 2010 | - |
+| [Scene Parsing by Integrating Function, Geometry and Appearance Models](http://openaccess.thecvf.com/content_cvpr_2013/papers/Zhao_Scene_Parsing_by_2013_CVPR_paper.pdf) | CVPR 2013 | |
+| [Understanding Indoor Scenes using 3D Geometric Phrases](http://openaccess.thecvf.com/content_cvpr_2013/papers/Choi_Understanding_Indoor_Scenes_2013_CVPR_paper.pdf) | (CVPR 2013) | |
+| [Recovering Free Space of Indoor Scenes from a Single Image](http://vision.cs.uiuc.edu/~vhedau2/Publications/cvpr2012_freespace.pdf) | CVPR 2012 | |
+| [Efficient Exact Inference for 3D Indoor Scene Understanding](http://schwingag.de/papers/SchwingEtAl_ECCV2012.pdf) | ECCV 2012 | |
+| [Efficient Structured Prediction for 3D Indoor Scene Understanding](https://ttic.uchicago.edu/~rurtasun/publications/schwing_et_al_cvpr12.pdf) | CVPR 2012 | |
+| [Estimating Spatial Layout of Rooms using Volumetric Reasoning about Objects and Surfaces](https://papers.NeurIPS.cc/paper/4120-estimating-spatial-layout-of-rooms-using-volumetric-reasoning-about-objects-and-surfaces.pdf) | NeurIPS 2010 | |
+| [Thinking Inside the Box: Using Appearance Models and Context Based on Room Geometry](http://vision.cs.uiuc.edu/~vhedau2/Publications/eccv2010_think_inside.pdf) | ECCV 2010 | |
 
 ### Panoramic Image
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [PanoContext-Former: Panoramic Total Scene Understanding with a Transformer](https://arxiv.org/abs/2305.12497) | CVPR 2024 | - |
-| [PanelNet: Understanding 360 Indoor Environment via Panel Representation](https://arxiv.org/abs/2305.09078) | CVPR 2023 | - |
+| [PanoContext-Former: Panoramic Total Scene Understanding with a Transformer](https://arxiv.org/abs/2305.12497) | CVPR 2024 | |
+| [PanelNet: Understanding 360 Indoor Environment via Panel Representation](https://arxiv.org/abs/2305.09078) | CVPR 2023 | |
 | [DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization](https://arxiv.org/abs/2108.10743) | ICCV 2021 | [[code]](https://github.com/chengzhag/DeepPanoContext) |
 | [HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features](https://arxiv.org/abs/2011.11498) | CVPR 2021 | [[Code]](https://github.com/sunset1995/HoHoNet) |
-| [Automatic 3D Indoor Scene Modeling from Single Panorama](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Automatic_3D_Indoor_CVPR_2018_paper.pdf) | CVPR 2018 | - |
-| [Pano2CAD: Room Layout From A Single Panorama Image](http://bjornstenger.github.io/papers/xu_wacv2017.pdf) | WACV 2017 | - |
+| [Automatic 3D Indoor Scene Modeling from Single Panorama](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Automatic_3D_Indoor_CVPR_2018_paper.pdf) | CVPR 2018 | |
+| [Pano2CAD: Room Layout From A Single Panorama Image](http://bjornstenger.github.io/papers/xu_wacv2017.pdf) | WACV 2017 | |
 | [PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding](http://panocontext.cs.princeton.edu/paper.pdf) | ECCV 2014 | [[project]](http://panocontext.cs.princeton.edu/) |
 
 ## Room Layout Estimation
@@ -122,37 +122,37 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Dataset | Year | Modality | #Frames | Prior | Source |
 |---------|------|----------|---------|-------|--------|
-| [CAD-Estate][cad-estate] | 2023 | RGB Video | - | Generic | RealEstate-10K |
+| [CAD-Estate][cad-estate] | 2023 | RGB Video | | Generic | RealEstate-10K |
 | [Matterport3D-Layout][Matterport3D-Layout] | 2020 | RGB-D | 7360 | PP | Matterport |
 | [ScanNet-Layout][ScanNet-Layout] | 2020 | RGB-D | 293 | PP | ScanNet |
 | Structured3D | 2020 | RGB-D | 82027   | AW+SS  | Structured3D |
 | LSUN Room Layout | 2016 | RGB | 5394 | Cuboid | SUN |
 | SUN RGB-D | 2015 | RGB-D | 10335 | AW+SS  | NYUv2, Berkeley B3DO, and SUN3D |
 | NYUv2 303 | 2013 | RGB-D | 303 | Cuboid | NYUv2 |
-| Hedau | 2009 | RGB | 366 | Cuboid | - |
+| Hedau | 2009 | RGB | 366 | Cuboid | |
 
 | Papers | Venue | Links |
 |--------|-------|-------|
 | 📷 [Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model](https://arxiv.org/abs/2502.16779) | ICLR 2025 | [[code]](https://github.com/justacar/Plane-DUSt3R) |
 | [Polygon Detection for Room Layout Estimation using Heterogeneous Graphs and Wireframes](https://arxiv.org/abs/2306.12203) | ICCV Workshop 2023 | [[code]](https://github.com/DavidGillsjo/polygon-HGT) |
-| [ST-RoomNet: Learning Room Layout Estimation From Single Image Through Unsupervised Spatial Transformations](https://openaccess.thecvf.com/content/CVPR2023W/VOCVALC/html/Ibrahem_ST-RoomNet_Learning_Room_Layout_Estimation_From_Single_Image_Through_Unsupervised_CVPRW_2023_paper) | CVPR Workshop 2023 | - |
+| [ST-RoomNet: Learning Room Layout Estimation From Single Image Through Unsupervised Spatial Transformations](https://openaccess.thecvf.com/content/CVPR2023W/VOCVALC/html/Ibrahem_ST-RoomNet_Learning_Room_Layout_Estimation_From_Single_Image_Through_Unsupervised_CVPRW_2023_paper) | CVPR Workshop 2023 | |
 | [Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image](https://arxiv.org/abs/2104.07986) | WACV 2022 | [[code]](https://github.com/CYang0515/NonCuboidRoom) |
-| [RoomStructNet: Learning to Rank Non-Cuboidal Room Layouts From Single View](https://arxiv.org/abs/2110.00644) | CoRR 2021 | - |
+| [RoomStructNet: Learning to Rank Non-Cuboidal Room Layouts From Single View](https://arxiv.org/abs/2110.00644) | CoRR 2021 | |
 | [GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes](https://arxiv.org/abs/2008.06286) | ECCV 2020 | [[Matterport3D Layout Dataset]][Matterport3D-Layout]
-| [Structural Deep Metric Learning for Room Layout Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630715.pdf) | ECCV 2020 | - |
+| [Structural Deep Metric Learning for Room Layout Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630715.pdf) | ECCV 2020 | |
 | [General 3D Room Layout from a Single View by Render-and-Compare](http://arxiv.org/abs/2001.02149) | ECCV 2020 | [[project]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/general-3d-room-layout-from-a-single-view-by-render-and-compare/) [[ScanNet-Layout Dataset]][ScanNet-Layout] [[code]](https://github.com/vevenom/RoomLayout3D_RandC) |
-| [Smart Hypothesis Generation for Efficient and Robust Room Layout Estimation](https://arxiv.org/abs/1910.12257) | WACV 2020 | - |
-| [Flat2Layout: Flat Representation for Estimating Layout of General Room Types](https://arxiv.org/abs/1905.12571) | CoRR 2019 | - |
-| [Thinking Outside the Box: Generation of Unconstrained 3D Room Layouts](https://arxiv.org/abs/1905.03105) | ACCV 2018 | - |
-| [RoomNet: End-to-End Room Layout Estimation](https://arxiv.org/abs/1703.06241) | ICCV 2017 | - |
+| [Smart Hypothesis Generation for Efficient and Robust Room Layout Estimation](https://arxiv.org/abs/1910.12257) | WACV 2020 | |
+| [Flat2Layout: Flat Representation for Estimating Layout of General Room Types](https://arxiv.org/abs/1905.12571) | CoRR 2019 | |
+| [Thinking Outside the Box: Generation of Unconstrained 3D Room Layouts](https://arxiv.org/abs/1905.03105) | ACCV 2018 | |
+| [RoomNet: End-to-End Room Layout Estimation](https://arxiv.org/abs/1703.06241) | ICCV 2017 | |
 | [Physics Inspired Optimization on Semantic Transfer Features: An Alternative Method for Room Layout Estimation](https://arxiv.org/abs/1707.00383) | CVPR 2017 | [[project]](https://sites.google.com/view/st-pio/) |
-| [A Coarse-to-Fine Indoor Layout Estimation (CFILE) Method](https://arxiv.org/abs/1607.00598) | ACCV 2016 | - |
-| [DeLay: Robust Spatial Layout Estimation for Cluttered Indoor Scenes](http://openaccess.thecvf.com/content_cvpr_2016/papers/Dasgupta_DeLay_Robust_Spatial_CVPR_2016_paper.pdf) | CVPR 2016 | - |
-| [Learning Informative Edge Maps for Indoor Scene Layout Prediction](http://openaccess.thecvf.com/content_iccv_2015/papers/Mallya_Learning_Informative_Edge_ICCV_2015_paper.pdf) | ICCV 2015 | - |
-| [Rent3D: Floor-Plan Priors for Monocular Layout Estimation](http://openaccess.thecvf.com/content_cvpr_2015/papers/Liu_Rent3D_Floor-Plan_Priors_2015_CVPR_paper.pdf) | CVPR 2015 | [[project]](http://www.cs.toronto.edu/~fidler/projects/rent3D.html) | - |
-| [Box In the Box: Joint 3D Layout and Object Reasoning from Single Images](http://openaccess.thecvf.com/content_iccv_2013/papers/Schwing_Box_in_the_2013_ICCV_paper.pdf) | CVPR 2013 | - |
+| [A Coarse-to-Fine Indoor Layout Estimation (CFILE) Method](https://arxiv.org/abs/1607.00598) | ACCV 2016 | |
+| [DeLay: Robust Spatial Layout Estimation for Cluttered Indoor Scenes](http://openaccess.thecvf.com/content_cvpr_2016/papers/Dasgupta_DeLay_Robust_Spatial_CVPR_2016_paper.pdf) | CVPR 2016 | |
+| [Learning Informative Edge Maps for Indoor Scene Layout Prediction](http://openaccess.thecvf.com/content_iccv_2015/papers/Mallya_Learning_Informative_Edge_ICCV_2015_paper.pdf) | ICCV 2015 | |
+| [Rent3D: Floor-Plan Priors for Monocular Layout Estimation](http://openaccess.thecvf.com/content_cvpr_2015/papers/Liu_Rent3D_Floor-Plan_Priors_2015_CVPR_paper.pdf) | CVPR 2015 | [[project]](http://www.cs.toronto.edu/~fidler/projects/rent3D.html) | |
+| [Box In the Box: Joint 3D Layout and Object Reasoning from Single Images](http://openaccess.thecvf.com/content_iccv_2013/papers/Schwing_Box_in_the_2013_ICCV_paper.pdf) | CVPR 2013 | |
 | [Estimating the 3D Layout of Indoor Scenes and its Clutter from Depth Sensors](http://openaccess.thecvf.com/content_iccv_2013/papers/Zhang_Estimating_the_3D_2013_ICCV_paper.pdf) | ICCV 2013 | [[project]](https://cs.stanford.edu/people/zjian/project/ICCV13DepthLayout/ICCV13DepthLayout.html) |
-| [Recovering the Spatial Layout of Cluttered Rooms](http://dhoiem.cs.illinois.edu/publications/iccv2009_hedau_indoor.pdf) | ICCV 2009 | - |
+| [Recovering the Spatial Layout of Cluttered Rooms](http://dhoiem.cs.illinois.edu/publications/iccv2009_hedau_indoor.pdf) | ICCV 2009 | |
 
 ### Panoramic Image
 
@@ -169,29 +169,29 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [uLayout: Unified Room Layout Estimation for Perspective and Panoramic Images](https://openaccess.thecvf.com//content/WACV2025/html/Lee_uLayout_Unified_Room_Layout_Estimation_for_Perspective_and_Panoramic_Images_WACV_2025_paper.html) | WACV 2025 | - |
+| [uLayout: Unified Room Layout Estimation for Perspective and Panoramic Images](https://openaccess.thecvf.com//content/WACV2025/html/Lee_uLayout_Unified_Room_Layout_Estimation_for_Perspective_and_Panoramic_Images_WACV_2025_paper.html) | WACV 2025 | |
 | [No More Ambiguity in 360◦ Room Layout via Bi-Layout Estimation](https://www.amazon.science/publications/no-more-ambiguity-in-360-room-layout-via-bi-layout-estimation) | CVPR 2024 | |
 | [Seg2Reg: Differentiable 2D Segmentation to 1D Regression Rendering for 360 Room Layout Reconstruction](https://arxiv.org/abs/2311.18695) | CVPR 2024 | |
 | [iBARLE: imBalance-Aware Room Layout Estimation](https://arxiv.org/abs/2308.15050) | CoRR 2023 | |
-| 📷 [GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network](https://arxiv.org/abs/2210.11419) | CVPR Workshop 2023 | - |
+| 📷 [GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network](https://arxiv.org/abs/2210.11419) | CVPR Workshop 2023 | |
 | [Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs](https://arxiv.org/abs/2304.12624) | CVPR Workshop 2023 | |
 | [U2RLE: Uncertainty-Guided 2-Stage Room Layout Estimation](https://arxiv.org/abs/2304.08580) | CVPR 2023 | |
 | [Disentangling Orthogonal Planes for Indoor Panoramic Room Layout Estimation with Cross-Scale Distortion Awareness](https://arxiv.org/abs/2303.00971) | CVPR 2023 | [[Code](https://github.com/zhijieshen-bjtu/DOPNet)] |
 | 📷 [360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning](https://arxiv.org/abs/2210.12935) | NeurIPS 2022 | [[Project]](https://enriquesolarte.github.io/360-mlc/) |
 | [3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform](https://arxiv.org/abs/2207.09291) | ECCV 2022 | [[Code]](https://github.com/Starrah/DMH-Net) | 
-| [3D Room Layout Recovery Generalizing across Manhattan and Non-Manhattan Worlds](https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Jia_3D_Room_Layout_Recovery_Generalizing_Across_Manhattan_and_Non-Manhattan_Worlds_CVPRW_2022_paper.pdf) | CVPR 2022 | - |
+| [3D Room Layout Recovery Generalizing across Manhattan and Non-Manhattan Worlds](https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Jia_3D_Room_Layout_Recovery_Generalizing_Across_Manhattan_and_Non-Manhattan_Worlds_CVPRW_2022_paper.pdf) | CVPR 2022 | |
 | 📷 [PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation](https://arxiv.org/abs/2203.15965) | CVPR 2022 | [[code]](https://github.com/zillow/psmnet-layout) |
 | [Self-supervised 360˚ Room Layout Estimation](https://arxiv.org/abs/2203.16057) | CoRR 2022 | [[code]](https://github.com/joshua049/Stereo-360-Layout)
-| [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network](https://arxiv.org/abs/2203.01824) | CVPR 2022 | - |
+| [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network](https://arxiv.org/abs/2203.01824) | CVPR 2022 | |
 | [Deep3DLayout: 3D Reconstruction of an Indoor Layout from a Spherical Panoramic Image](http://publications.crs4.it/pubdocs/2021/PAAG21/sigasia2021-deep3dlayout.pdf) | SIGGRAPH Asia 2021 | [[project]](http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2021:D3R%27) |
 | [Transferable End-to-end Room Layout Estimation via Implicit Encoding](https://arxiv.org/abs/2112.11340) | CoRR 2021 | [[project]](https://sites.google.com/view/transferrl/)
 | [OmniLayout: Room Layout Reconstruction from Indoor Spherical Panoramas](https://arxiv.org/abs/2104.09403) | CVPR Workshop 2021 | [[code]](https://github.com/rshivansh/OmniLayout)
 | [LED<sup>2</sup>-Net: Monocular 360˚ Layout Estimation via Differentiable Depth Rendering](https://arxiv.org/abs/2104.00568) | CVPR 2021 | [[project]](https://fuenwang.ml/project/led2net/) [[code]](https://github.com/fuenwang/LED2-Net)
-| [SSLayout360: Semi-Supervised Indoor Layout Estimation from 360 Panorama](https://arxiv.org/abs/2103.13696) | CVPR 2021 | - |
+| [SSLayout360: Semi-Supervised Indoor Layout Estimation from 360 Panorama](https://arxiv.org/abs/2103.13696) | CVPR 2021 | |
 | [Single-Shot Cuboids: Geodesics-based End-to-end Manhattan Aligned Layout Estimation from Spherical Panoramas](https://arxiv.org/abs/2102.03939) | Image and Vision Computing 2021 | [[project]](https://vcl3d.github.io/SingleShotCuboids/) [[code]](https://github.com/VCL3D/SingleShotCuboids)
 | [Manhattan Room Layout Reconstruction from a Single 360 image: A Comparative Study of State-of-the-art Methods](https://arxiv.org/abs/1910.04099) | IJCV 2021 | [[code]](https://github.com/zouchuhang/LayoutNetv2) [[MatterportLayout Dataset]][MatterportLayout]
-| [Training and Post Processing 3D Room Layout Beyond the Manhattan World Assumption](https://arxiv.org/abs/2009.02857) | ECCV Workshop 2020 | - |
-| [Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610647.pdf) | ECCV 2020 | - |
+| [Training and Post Processing 3D Room Layout Beyond the Manhattan World Assumption](https://arxiv.org/abs/2009.02857) | ECCV Workshop 2020 | |
+| [Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610647.pdf) | ECCV 2020 | |
 | [AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image Beyond the Manhattan World Assumption](http://vic.crs4.it/data/papers/eccv2020-atlantanet.pdf) | ECCV 2020 | [[project]](https://www.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:AI3%27) [[code]](https://github.com/crs4/AtlantaNet)
 | [Corners for Layout: End-to-End Layout Recovery from 360 Images](https://arxiv.org/abs/1903.08094) | ICRA 2019 | [[project]](https://cfernandezlab.github.io/CFL/) [[code]](https://github.com/cfernandezlab/CFL-End-to-End-Layout-Recovery-from-360-Images)
 | [DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama](https://arxiv.org/abs/1811.11977) | CVPR 2019 | [[project]](https://cgv.cs.nthu.edu.tw/projects/dulanet)
@@ -209,14 +209,14 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | 🎲 [PolyRoom: Room-aware Transformer for Floorplan Reconstruction](https://arxiv.org/abs/2407.10439) | ECCV 2024 | [[code]](https://github.com/3dv-casia/PolyRoom/) |
 | 🎲 [PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models](https://arxiv.org/abs/2306.01461) | NeurIPS 2023 | [[project]](https://poly-diffuse.github.io/) |
 | 🎲 [Connecting the Dots: Floorplan Reconstruction Using Two-Level Queries](https://arxiv.org/abs/2211.15658) | CVPR 2023 | [[project]](https://ywyue.github.io/RoomFormer/) [[code]](https://github.com/ywyue/RoomFormer) |
-| 📷 [Floorplan Restoration by Structure Hallucinating Transformer Cascades](https://arxiv.org/abs/2206.00645) | CoRR 2022 | - |
-| 📷 [MVLayoutNet: 3D Layout Reconstruction with Multi-View Panoramas](https://arxiv.org/abs/2112.06133) | CoRR 2021 | - |
+| 📷 [Floorplan Restoration by Structure Hallucinating Transformer Cascades](https://arxiv.org/abs/2206.00645) | CoRR 2022 | |
+| 📷 [MVLayoutNet: 3D Layout Reconstruction with Multi-View Panoramas](https://arxiv.org/abs/2112.06133) | CoRR 2021 | |
 | 📷 [Extreme Structure From Motion for Indoor Panoramas Without Visual Overlaps](https://openaccess.thecvf.com/content/ICCV2021/papers/Shabani_Extreme_Structure_From_Motion_for_Indoor_Panoramas_Without_Visual_Overlaps_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/aminshabani/extreme-indoor-sfm) |
-| 🎲 [MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans](https://arxiv.org/abs/2103.11161) | ICCV 2021 | - |
-| 🎲 [Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes](http://arxiv.org/abs/2003.07356) | CoRR 2020 | - |
+| 🎲 [MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans](https://arxiv.org/abs/2103.11161) | ICCV 2021 | |
+| 🎲 [Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes](http://arxiv.org/abs/2003.07356) | CoRR 2020 | |
 | 🎲 [Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path](https://arxiv.org/abs/1908.06702) | ICCV 2019 | [[project]](https://jcchen.me/floor-sp/) [[code]](https://github.com/woodfrog/floor-sp) |
 | 📷 [Floorplan-Jigsaw: Jointly Estimating Scene Layout and Aligning Partial Scans](https://arxiv.org/abs/1812.06677) | ICCV 2019 | [[project]](https://enigma-li.github.io/projects/indoorRecons/floorplanJigsaw.html) |
-| 🎲 [DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences](https://arxiv.org/abs/1904.11595) | CoRR 2019 | - |
+| 🎲 [DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences](https://arxiv.org/abs/1904.11595) | CoRR 2019 | |
 | 📷 [FloorNet: A unified framework for floorplan reconstruction from 3D scans](https://arxiv.org/abs/1804.00090) | ECCV 2018 | [[project]](http://art-programmer.github.io/floornet.html) [[code]](https://github.com/art-programmer/FloorNet) |
 
 ### Floorplan Vectorization
@@ -224,9 +224,9 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | Papers | Venue | Links |
 |--------|-------|-------|
 | [VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_VectorFloorSeg_Two-Stream_Graph_Attention_Network_for_Vectorized_Roughcast_Floorplan_Segmentation_CVPR_2023_paper.pdf) | CVPR 2023 | [[code]](https://github.com/DrZiji/VecFloorSeg) |
-| [Parsing Line Segments of Floor Plan Images Using Graph Neural Networks](https://arxiv.org/abs/2303.03851) | CoRR 2023 | - |
-| [Residential floor plan recognition and reconstruction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Residential_Floor_Plan_Recognition_and_Reconstruction_CVPR_2021_paper.pdf) | CVPR 2021 | - |
-| [Versailles-FP dataset: Wall Detection in Ancient Floor Plans](https://arxiv.org/abs/2103.08064) | CoRR 2021 | - |
+| [Parsing Line Segments of Floor Plan Images Using Graph Neural Networks](https://arxiv.org/abs/2303.03851) | CoRR 2023 | |
+| [Residential floor plan recognition and reconstruction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Residential_Floor_Plan_Recognition_and_Reconstruction_CVPR_2021_paper.pdf) | CVPR 2021 | |
+| [Versailles-FP dataset: Wall Detection in Ancient Floor Plans](https://arxiv.org/abs/2103.08064) | CoRR 2021 | |
 | [Deep Floor Plan Recognition using a Multi-task Network with Room-boundary-Guided Attention](https://arxiv.org/abs/1908.11025) | ICCV 2019 | [[project]](https://github.com/zlzeng/DeepFloorplan) |
 | [CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis](https://arxiv.org/abs/1904.01920) | Scandinavian Conference on Image Analysis 2019 | [[code]](https://github.com/CubiCasa/CubiCasa5k) |
 | [Raster-to-Vector: Revisiting Floorplan Transformation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Raster-To-Vector_Revisiting_Floorplan_ICCV_2017_paper.pdf) | ICCV 2017 | [[project]](http://art-programmer.github.io/floorplan-transformation.html) [[code]](https://github.com/art-programmer/FloorplanTransformation) |
@@ -237,8 +237,8 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 |--------|-------|-------|
 | [SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments](https://arxiv.org/abs/2404.10527) | ECCV 2024 | [[project]](https://fraunhoferhhi.github.io/spvloc/) [[code]](https://github.com/fraunhoferhhi/spvloc) |
 | [LaLaLoc++: Global Floor Plan Comprehension for Layout Localisation in Unvisited Environments](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870681.pdf) | ECCV 2022 | [[code]](https://github.com/ActiveVisionLab/LaLaLoc) |
-| [LASER: LAtent SpacE Rendering for 2D Visual Localization](https://arxiv.org/abs/2204.00157) | CVPR 2022 | - |
-| [LaLaLoc: Latent Layout Localisation in Dynamic, Unvisited Environments](https://arxiv.org/abs/2104.09169) | ICCV 2021 | - |
+| [LASER: LAtent SpacE Rendering for 2D Visual Localization](https://arxiv.org/abs/2204.00157) | CVPR 2022 | |
+| [LaLaLoc: Latent Layout Localisation in Dynamic, Unvisited Environments](https://arxiv.org/abs/2104.09169) | ICCV 2021 | |
 
 
 ## Primitive
@@ -247,7 +247,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Manhattan Junction Catalogue for Spatial Reasoning of Indoor Scenes](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Ramalingam_Manhattan_Junction_Catalogue_2013_CVPR_paper.pdf) | CVPR 2013 | - |
+| [Manhattan Junction Catalogue for Spatial Reasoning of Indoor Scenes](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Ramalingam_Manhattan_Junction_Catalogue_2013_CVPR_paper.pdf) | CVPR 2013 | |
 
 ### Line Segment and Wireframe
 
@@ -257,18 +257,18 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | 📷[Volumetric Wireframe Parsing from Neural Attraction Fields](https://arxiv.org/abs/2307.10206) | CoRR 2023 | [[code](https://github.com/cherubicXN/neat)] |
 | 📷[NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images](https://arxiv.org/abs/2303.07653) | CVPR 2023 | [[project]](https://yunfan1202.github.io/NEF/) |
 | [DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients](https://arxiv.org/abs/2212.07766) | CoRR 2022 | [[Code]](https://github.com/cvg/DeepLSD) |
-| [Holistically-Attracted Wireframe Parsing: From Supervised to Self-Supervised Learning](https://arxiv.org/abs/2210.12971) | CoRR 2022 | - |
+| [Holistically-Attracted Wireframe Parsing: From Supervised to Self-Supervised Learning](https://arxiv.org/abs/2210.12971) | CoRR 2022 | |
 | 🎲[Learning to Construct 3D Building Wireframes from 3D Line Clouds](https://arxiv.org/abs/2208.11948) | BMVC 2022 | [[Code]](https://github.com/Luo1Cheng/LC2WF) |
 | [HoW-3D: Holistic 3D Wireframe Perception from a Single Image](https://arxiv.org/abs/2208.06999) | 3DV 2022 | [[Code]](https://github.com/Wenchao-M/HoW-3D) |
 | [Semantic Room Wireframe Detection from a Single View](https://arxiv.org/abs/2206.00491) | ICPR 2022 | [[code]](https://github.com/DavidGillsjo/SRW-Net) |
 | [Towards Real-time and Light-weight Line Segment Detection](https://arxiv.org/abs/2106.00186) | AAAI 2022 | [[code]](https://github.com/navervision/mlsd) |
-| [Hole-robust Wireframe Detection](https://arxiv.org/abs/2111.15064) | WACV 2022 | - |
+| [Hole-robust Wireframe Detection](https://arxiv.org/abs/2111.15064) | WACV 2022 | |
 | [Fully Convolutional Line Parsing](https://arxiv.org/abs/2104.11207) | Neurocomputing 2022 | [[code]](https://github.com/Delay-Xili/F-Clip) |
-| [ELSD: Efficient Line Segment Detector and Descriptor](https://arxiv.org/abs/2104.14205) | ICCV 2021 | - |
+| [ELSD: Efficient Line Segment Detector and Descriptor](https://arxiv.org/abs/2104.14205) | ICCV 2021 | |
 | [SOLD<sup>2</sup>: Self-supervised Occlusion-aware Line Description and Detection](https://arxiv.org/abs/2104.03362) | CVPR 2021 | [[code]](https://github.com/cvg/SOLD2) |
 | [Line Segment Detection Using Transformers without Edges](https://arxiv.org/abs/2101.01909) | CVPR 2021 | [[code]](https://github.com/mlpc-ucsd/LETR/) |
 | [PlueckerNet: Learn to Register 3D Line Reconstructions](https://arxiv.org/abs/2012.01096) | CVPR 2020 | [[code]](https://github.com/Liumouliu/PlueckerNet) |
-| [LGNN: A Context-aware Line Segment Detector](https://arxiv.org/abs/2008.05892) | ACM MM 2020 | - |
+| [LGNN: A Context-aware Line Segment Detector](https://arxiv.org/abs/2008.05892) | ACM MM 2020 | |
 | [TP-LSD: Tri-Points Based Line Segment Detector](https://arxiv.org/abs/2009.05505) | ECCV 2020 | [[code]](https://github.com/Siyuada7/TP-LSD) |
 | [Deep Hough-Transform Line Priors](https://arxiv.org/abs/2007.09493) | ECCV 2020 | [[code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) |
 | [Deep Hough Transform for Semantic Line Detection](https://arxiv.org/abs/2003.04676) | ECCV 2020 | [[code]](https://github.com/Hanqer/deep-hough-transform) |
@@ -277,12 +277,12 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [End-to-End Wireframe Parsing](https://arxiv.org/abs/1905.03246) | ICCV 2019 | [[code]](https://github.com/zhou13/lcnn) |
 | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://arxiv.org/abs/1905.03415) | CVPR 2019 | [[code]](https://github.com/svip-lab/PPGNet) |
 | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/abs/1812.02122) | CVPR 2019 | [[code]](https://github.com/cherubicXN/afm_cvpr2019) |
-| [Novel Single View Constraints for Manhattan 3D Line Reconstruction](https://arxiv.org/abs/1810.03737) | 3DV 2018 | - |
+| [Novel Single View Constraints for Manhattan 3D Line Reconstruction](https://arxiv.org/abs/1810.03737) | 3DV 2018 | |
 | [Learning to Parse Wireframes in Images of Man-Made Environments](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Learning_to_Parse_CVPR_2018_paper.pdf) | CVPR 2018 | [[code]](https://github.com/huangkuns/wireframe) |
-| [A Novel Linelet-Based Representation for Line Segment Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7926451) | TPAMI 2018 | - |
-| [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf) | CVPR 2017 | - |
-| [Lifting 3D Manhattan Lines from a Single Image](https://openaccess.thecvf.com/content_iccv_2013/papers/Ramalingam_Lifting_3D_Manhattan_2013_ICCV_paper.pdf) | ICCV 2013 | - |
-| [LSD: A Fast Line Segment Detector with a False Detection Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4731268) | TPAMI 2010 | - |
+| [A Novel Linelet-Based Representation for Line Segment Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7926451) | TPAMI 2018 | |
+| [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf) | CVPR 2017 | |
+| [Lifting 3D Manhattan Lines from a Single Image](https://openaccess.thecvf.com/content_iccv_2013/papers/Ramalingam_Lifting_3D_Manhattan_2013_ICCV_paper.pdf) | ICCV 2013 | |
+| [LSD: A Fast Line Segment Detector with a False Detection Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4731268) | TPAMI 2010 | |
 
 ### Outdoor Architecture
 
@@ -322,9 +322,9 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | Papers | Venue | Links |
 |--------|-------|-------|
 | [Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction](https://arxiv.org/abs/2308.10694) | ICCV 2023 | [[code]](https://github.com/cvg/VP-Estimation-with-Prior-Gravity) |
-| [Transformer Based Line Segment Classifier with Image Context for Real-Time Vanishing Point Detection in Manhattan World](https://openaccess.thecvf.com/content/CVPR2022/papers/Tong_Transformer_Based_Line_Segment_Classifier_With_Image_Context_for_Real-Time_CVPR_2022_paper.pdf) | CVPR 2022 | - |
-| [Deep Vanishing Point Detection: Geometric Priors Make Dataset Variations Vanish](https://arxiv.org/abs/2203.08586) | CVPR 2022 | - | 
-| [VaPiD: A Rapid Vanishing Point Detector via Learned Optimizers](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_VaPiD_A_Rapid_Vanishing_Point_Detector_via_Learned_Optimizers_ICCV_2021_paper.pdf) | ICCV 2021 | - |
+| [Transformer Based Line Segment Classifier with Image Context for Real-Time Vanishing Point Detection in Manhattan World](https://openaccess.thecvf.com/content/CVPR2022/papers/Tong_Transformer_Based_Line_Segment_Classifier_With_Image_Context_for_Real-Time_CVPR_2022_paper.pdf) | CVPR 2022 | |
+| [Deep Vanishing Point Detection: Geometric Priors Make Dataset Variations Vanish](https://arxiv.org/abs/2203.08586) | CVPR 2022 | | 
+| [VaPiD: A Rapid Vanishing Point Detector via Learned Optimizers](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_VaPiD_A_Rapid_Vanishing_Point_Detector_via_Learned_Optimizers_ICCV_2021_paper.pdf) | ICCV 2021 | |
 | [NeurVPS: Neural Vanishing Point Scanning via Conic Convolution](https://arxiv.org/abs/1910.06316) | NeurIPS 2021 | [[Code]](https://github.com/zhou13/neurvps) |
 
 [ScanNet-Layout]: https://github.com/vevenom/ScanNet-Layout
